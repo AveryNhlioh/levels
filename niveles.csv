@@ -242,9 +242,10 @@ fecha,tipo,etiqueta,valor
 2026-04-15,volatility_trigger,Volatility Trigger,6850
 2026-04-15,call_wall,Call Wall,7000
 2026-04-15,put_wall,Put Wall,6500
-2026-04-15,soporte,Soporte gamma intermedio,6400
-2026-04-15,soporte,Soporte gamma intermedio,6300
-2026-04-15,soporte,Soporte gamma relevante,6180
+2026-04-15,soporte,Soporte gamma,6500
+2026-04-15,soporte,Soporte intermedio,6400
+2026-04-15,soporte,Soporte intermedio,6300
+2026-04-15,soporte,Soporte relevante,6180
 2026-04-16,gflip,G-Flip,6800
 2026-04-16,volatility_trigger,Volatility Trigger,6875
 2026-04-16,call_wall,Call Wall,7100
