@@ -370,9 +370,9 @@ fecha,tipo,etiqueta,valor
 2026-05-10,volatility_trigger,Volatility Trigger,7200
 2026-05-10,call_wall,Call Wall,7400
 2026-05-10,put_wall,Put Wall,6500
-2026-05-10,resistencia,Strike squeeze / Rango implícito alto,7500
-2026-05-10,resistencia,Zona de aceleración / Strike squeeze,7450
-2026-05-10,soporte,Rango implícito bajo / Deterioro táctico,7300
+2026-05-10,resistencia,Strike de squeeze / parte alta rango implícito,7500
+2026-05-10,resistencia,Strike de squeeze / zona de aceleración,7450
+2026-05-10,soporte,Soporte táctico / parte baja rango implícito,7300
 2026-05-11,gflip,G-Flip,7200
 2026-05-11,volatility_trigger,Volatility Trigger,7200
 2026-05-11,call_wall,Call Wall,7400
