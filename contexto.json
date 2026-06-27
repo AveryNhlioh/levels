@@ -528,20 +528,20 @@
   },
   "2026-04-09": {
     "alerta_cor1m": null,
-    "catalizador": "Alto el fuego + PCE + IPC",
+    "catalizador": "PCE (9 abr) + IPC (10 abr) + geopolítica (alto el fuego frágil, Estrecho de Ormuz)",
     "cierre_spx_previo": 6783,
     "edicion": "diaria",
-    "idea_clave": "Rally técnico por compresión de volatilidad y flujos, pero sostenibilidad depende de la evolución geopolítica y datos macro",
+    "idea_clave": "Rally técnico impulsado por compresión de volatilidad y flujos, pero su sostenibilidad depende de la evolución geopolítica y los próximos datos macro; mantener 6700 es clave.",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Precaución",
-    "sesgo": null,
-    "vix_actual": 21,
-    "vix_cierre": 21,
-    "vvix_cierre": 111
+    "regimen": "gamma negativa con recuperación técnica; riesgo de retorno a gamma negativa por debajo de 6700",
+    "sesgo": "Precaución",
+    "vix_actual": 21.0,
+    "vix_cierre": 21.0,
+    "vvix_cierre": 111.0
   },
   "2026-04-10": {
     "alerta_cor1m": null,
