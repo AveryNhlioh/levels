@@ -80,8 +80,8 @@ fecha,tipo,etiqueta,valor
 2026-03-19,volatility_trigger,Volatility Trigger,6800
 2026-03-19,call_wall,Call Wall,7000
 2026-03-19,put_wall,Put Wall,6500
-2026-03-19,resistencia,Zona de consolidación clave,6900
-2026-03-19,soporte,Collar JPM (vto. 31 mar),6475
+2026-03-19,resistencia,Zona de estabilidad,6900
+2026-03-19,soporte,Collar JPM put larga,6475
 2026-03-20,gflip,G-Flip,6700
 2026-03-20,volatility_trigger,Volatility Trigger,6800
 2026-03-20,call_wall,Call Wall,7000
