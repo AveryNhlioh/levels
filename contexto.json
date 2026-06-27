@@ -307,17 +307,17 @@
   },
   "2026-03-24": {
     "alerta_cor1m": null,
-    "catalizador": "comentarios de Trump sobre avances con Irán y pausa en ataques a infraestructuras energéticas",
+    "catalizador": "comentarios de Trump sobre avances con Irán y pausa de cinco días en ataques a infraestructuras energéticas",
     "cierre_spx_previo": 6581,
     "edicion": "diaria",
-    "idea_clave": "Rebote técnico impulsado por titulares geopolíticos, pero con gamma negativa, volatilidad realizada al alza y riesgos latentes de presión adicional por vol-control",
+    "idea_clave": "Rebote impulsado por titulares geopolíticos con gamma negativa y volatilidad realizada al alza como riesgo latente; clave vigilar consolidación sobre 6800",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "gamma negativa",
-    "sesgo": "bajista / frágil con rebote técnico",
+    "sesgo": "alcista con riesgos latentes; rebote técnico sobre soporte pero entorno frágil",
     "vix_actual": null,
     "vix_cierre": 26.16,
     "vvix_cierre": 122.82
