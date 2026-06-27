@@ -416,7 +416,7 @@ fecha,tipo,etiqueta,valor
 2026-05-19,call_wall,Call Wall,7500
 2026-05-19,put_wall,Put Wall,7330
 2026-05-19,resistencia,Resistencia táctica,7450
-2026-05-19,soporte,Soporte 0DTE / Put spread intradía,7325
+2026-05-19,soporte,Soporte 0DTE / put spread intradía,7325
 2026-05-20,gflip,G-Flip,7300
 2026-05-20,volatility_trigger,Volatility Trigger,7370
 2026-05-20,call_wall,Call Wall,7500
