@@ -1599,17 +1599,17 @@
   },
   "2026-06-24": {
     "alerta_cor1m": 6.55,
-    "catalizador": "Micron + PCE",
+    "catalizador": "Micron (earnings) + PCE",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "El mercado necesita estabilización en tecnología y catalizadores positivos; mientras el SPX no recupere 7400, seguirá vulnerable a nuevos tramos bajistas.",
+    "idea_clave": "el mercado necesita estabilización en tecnología y catalizadores positivos; mientras el SPX no recupere 7.400, seguirá vulnerable a nuevos tramos bajistas",
     "movimiento_implicito_pct": 0.7,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "frágil / volatilidad en expansión",
-    "sesgo": "defensivo mientras el SPX permanezca por debajo de 7400 / 7460",
+    "sesgo": "defensivo mientras el SPX permanezca por debajo de 7.400 / 7.460",
     "vix_actual": null,
     "vix_cierre": 19.5,
     "vvix_cierre": 99.5
