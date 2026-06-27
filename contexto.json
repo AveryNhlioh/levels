@@ -783,17 +783,17 @@
   },
   "2026-04-27": {
     "alerta_cor1m": null,
-    "catalizador": "Irán / petróleo / estrecho de Ormuz + earnings MSFT, GOOGL, META, AMZN, AAPL + FOMC",
+    "catalizador": "Irán / petróleo / estrecho de Ormuz + earnings MSFT, GOOGL, META, AMZN, AAPL + FOMC 29/04",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "El mercado aguanta cerca de máximos pero tiene poco colchón si aparece un shock bajista; 7.100 es el nivel operativo clave",
+    "idea_clave": "El mercado aguanta cerca de máximos, pero tiene poco colchón si aparece un shock bajista; 7.100 es el nivel operativo clave",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Constructivo en precio, pero frágil en microestructura",
-    "sesgo": "Constructivo mientras SPX se mantenga por encima de 7.100; bajista si pierde ese nivel",
+    "regimen": "constructivo en precio, pero frágil en microestructura",
+    "sesgo": "constructivo mientras SPX se mantenga por encima de 7.100; bajista si pierde ese nivel",
     "vix_actual": null,
     "vix_cierre": null,
     "vvix_cierre": null
