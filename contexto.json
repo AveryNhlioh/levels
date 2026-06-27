@@ -1242,16 +1242,16 @@
   },
   "2026-05-29": {
     "alerta_cor1m": 8.0,
-    "catalizador": "test de Call Wall 7600 / compresión de volatilidad / COR1M en zona de alerta",
+    "catalizador": "test de Call Wall 7600 / COR1M en zona de alerta",
     "cierre_spx_previo": 7564,
     "edicion": "diaria",
-    "idea_clave": "el mercado sigue avanzando con volatilidad comprimida, pero el COR1M en 8 advierte de creciente complacencia en calls sobre acciones individuales; 7600 será la referencia clave para medir continuidad o agotamiento táctico",
+    "idea_clave": "el mercado sigue avanzando con volatilidad comprimida pero el COR1M en 8 advierte de creciente complacencia en calls sobre acciones individuales",
     "movimiento_implicito_pct": 0.47,
     "rango_implicito": {
       "alto": 7600,
       "bajo": 7528
     },
-    "regimen": "alcista / gamma positiva / compresión de volatilidad",
+    "regimen": "gamma positiva / volatilidad comprimida",
     "sesgo": "alcista mientras SPX se mantenga por encima de 7400",
     "vix_actual": null,
     "vix_cierre": 15.73,
