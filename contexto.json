@@ -120,17 +120,17 @@
   },
   "2026-03-11": {
     "alerta_cor1m": null,
-    "catalizador": "IPC hoy, PCE viernes, FOMC 18 marzo, OPEX 20 marzo, tensiones geopolíticas Irán/petróleo",
+    "catalizador": "IPC hoy, PCE viernes, FOMC + vencimiento VIX miércoles 18, OPEX marzo viernes 20; tensiones geopolíticas Irán/petróleo",
     "cierre_spx_previo": 6782,
     "edicion": "diaria",
-    "idea_clave": "El mercado permanece bajo el Volatility Trigger con divergencia VIX/VVIX; recuperar 6900 es clave para mayor estabilidad",
+    "idea_clave": "El mercado sigue por debajo del Volatility Trigger con divergencia VIX/VVIX; cualquier rebote será vendido hasta que se resuelvan tensiones geopolíticas y se comprima la volatilidad",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Por debajo del Volatility Trigger; fragilidad latente con divergencia VIX/VVIX",
-    "sesgo": "Bajista/cauteloso; rebotes aprovechados para vender riesgo",
+    "regimen": "por debajo del Volatility Trigger",
+    "sesgo": "bajista/precaución; rebotes vendidos mientras volatilidad permanezca elevada",
     "vix_actual": null,
     "vix_cierre": 24.92,
     "vvix_cierre": 125.3
