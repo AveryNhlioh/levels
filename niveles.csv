@@ -125,8 +125,9 @@ fecha,tipo,etiqueta,valor
 2026-03-29,volatility_trigger,Volatility Trigger,6700
 2026-03-29,call_wall,Call Wall,7000
 2026-03-29,put_wall,Put Wall,6300
-2026-03-29,resistencia,Nivel clave recuperacion estabilidad,6800
-2026-03-29,soporte,Zona gamma positiva soporte,6350
+2026-03-29,resistencia,Nivel de estabilidad / recuperación,6800
+2026-03-29,soporte,Strike collar JPM (nivel clave roto),6475
+2026-03-29,soporte,Zona gamma positiva / soporte técnico,6350
 2026-03-30,gflip,G-Flip,6700
 2026-03-30,volatility_trigger,Volatility Trigger,6700
 2026-03-30,call_wall,Call Wall,7000
