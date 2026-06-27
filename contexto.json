@@ -1276,17 +1276,17 @@
   },
   "2026-06-01": {
     "alerta_cor1m": 6.33,
-    "catalizador": "NFP (viernes)",
+    "catalizador": "NFP (semana)",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "El SPX abre cerca de la Call Wall en 7600, pero el repunte simultáneo del VIX obliga a vigilar si la subida viene acompañada de cobertura o de demanda especulativa de opciones.",
+    "idea_clave": "El SPX abre cerca de la Call Wall en 7600, pero el repunte simultáneo del VIX y la IV obliga a vigilar si la subida viene acompañada de cobertura o de demanda especulativa de opciones",
     "movimiento_implicito_pct": 0.45,
     "rango_implicito": {
       "alto": 7634,
       "bajo": 7566
     },
     "regimen": "alcista con volatilidad repuntando",
-    "sesgo": "constructivo por encima de 7500 / 7430",
+    "sesgo": "constructivo mientras SPX se mantenga por encima de 7500 / 7430",
     "vix_actual": 15.83,
     "vix_cierre": null,
     "vvix_cierre": null
