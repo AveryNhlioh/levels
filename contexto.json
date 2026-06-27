@@ -650,14 +650,14 @@
     "catalizador": "OPEX 17 de abril",
     "cierre_spx_previo": 7041,
     "edicion": "diaria",
-    "idea_clave": "Tras el vencimiento el gamma cae, el mercado pierde soporte y aumenta el riesgo de movimientos más amplios",
+    "idea_clave": "Tras el OPEX el gamma desaparece, el mercado pierde su ancla en 7000 y aumenta el riesgo de corrección táctica o mayor volatilidad",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "gamma positiva reduciéndose por OPEX",
-    "sesgo": "precaución, posible consolidación o corrección táctica",
+    "regimen": null,
+    "sesgo": "Precaución",
     "vix_actual": null,
     "vix_cierre": 17.95,
     "vvix_cierre": 96.76
