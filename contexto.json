@@ -1190,19 +1190,19 @@
     "vvix_cierre": 91.2
   },
   "2026-05-26": {
-    "alerta_cor1m": null,
-    "catalizador": null,
+    "alerta_cor1m": 8.56,
+    "catalizador": "caída del crudo hacia 92 dólares y compresión de prima de riesgo",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": null,
-    "movimiento_implicito_pct": null,
+    "idea_clave": "el SPX rompe por encima de 7.500 con VIX bajo 17; mientras consolide esa zona, el sesgo sigue siendo claramente constructivo",
+    "movimiento_implicito_pct": 0.8,
     "rango_implicito": {
-      "alto": null,
-      "bajo": null
+      "alto": 7588,
+      "bajo": 7468
     },
-    "regimen": null,
-    "sesgo": null,
-    "vix_actual": null,
+    "regimen": "alcista / gamma positiva",
+    "sesgo": "alcista mientras SPX mantenga 7.500",
+    "vix_actual": 17.0,
     "vix_cierre": null,
     "vvix_cierre": null
   },
