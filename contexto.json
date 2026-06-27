@@ -749,17 +749,17 @@
   },
   "2026-04-24": {
     "alerta_cor1m": null,
-    "catalizador": "subida del petróleo, tensión geopolítica, earnings de mega-cap tech y FOMC",
+    "catalizador": "subida del petróleo, tensión geopolítica, earnings mega-cap tech y FOMC (29 abril)",
     "cierre_spx_previo": 7108,
     "edicion": "diaria",
-    "idea_clave": "el mercado no se rompió pero la estructura interna se debilitó; clave en 7.050",
-    "movimiento_implicito_pct": 0.96,
+    "idea_clave": "el mercado no se rompió en precio pero la estructura interna se debilitó; 7050 es el pivote clave del día",
+    "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": 7176,
       "bajo": 7040
     },
     "regimen": "constructivo pero más frágil",
-    "sesgo": "constructivo mientras SPX se mantenga por encima de 7.050",
+    "sesgo": "constructivo por encima de 7050; bajista por debajo",
     "vix_actual": null,
     "vix_cierre": 19.3,
     "vvix_cierre": 98.6
