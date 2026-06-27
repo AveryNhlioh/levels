@@ -86,8 +86,8 @@ fecha,tipo,etiqueta,valor
 2026-03-20,volatility_trigger,Volatility Trigger,6800
 2026-03-20,call_wall,Call Wall,7000
 2026-03-20,put_wall,Put Wall,6600
-2026-03-20,soporte,Soporte 200 sesiones / zona testeo,6580
-2026-03-20,objetivo,Nivel de estabilidad clave,6900
+2026-03-20,resistencia,Consolidación clave alcista,6900
+2026-03-20,soporte,Soporte 200 sesiones / zona clave,6500
 2026-03-21,gflip,G-Flip,6700
 2026-03-21,volatility_trigger,Volatility Trigger,6800
 2026-03-21,call_wall,Call Wall,7000
