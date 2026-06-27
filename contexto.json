@@ -1208,10 +1208,10 @@
   },
   "2026-05-27": {
     "alerta_cor1m": 8.56,
-    "catalizador": "demanda de calls / bloque 30.000 calls en 7.500 / comportamiento VIX con spot en máximos",
+    "catalizador": "Demanda de calls / bloque de 30.000 calls en 7.500 / comportamiento VIX con spot en máximos",
     "cierre_spx_previo": 7519,
     "edicion": "diaria",
-    "idea_clave": "SPX en nuevos máximos con spot arriba y vol arriba; 7.500 es soporte táctico clave y 7.600 el objetivo superior",
+    "idea_clave": "SPX en nuevos máximos con spot arriba y vol arriba; 7.500 es el soporte táctico clave y mientras se mantenga el sesgo favorece continuidad hacia 7.600",
     "movimiento_implicito_pct": 0.45,
     "rango_implicito": {
       "alto": 7553,
