@@ -252,7 +252,7 @@ fecha,tipo,etiqueta,valor
 2026-04-17,volatility_trigger,Volatility Trigger,6900
 2026-04-17,call_wall,Call Wall,7100
 2026-04-17,put_wall,Put Wall,6500
-2026-04-17,resistencia,Posicionamiento superior,7200
+2026-04-17,resistencia,Posicionamiento strikes superiores,7200
 2026-04-17,soporte,Primer soporte,7000
 2026-04-19,gflip,G-Flip,6900
 2026-04-19,volatility_trigger,Volatility Trigger,7000
