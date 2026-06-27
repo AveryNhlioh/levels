@@ -377,9 +377,9 @@ fecha,tipo,etiqueta,valor
 2026-05-11,volatility_trigger,Volatility Trigger,7200
 2026-05-11,call_wall,Call Wall,7400
 2026-05-11,put_wall,Put Wall,6500
-2026-05-11,resistencia,Strike de squeeze 1,7450
-2026-05-11,resistencia,Strike de squeeze 2,7500
+2026-05-11,resistencia,Strike de squeeze,7450
 2026-05-11,soporte,Nivel táctico,7300
+2026-05-11,objetivo,Objetivo potencial squeeze,7500
 2026-05-12,gflip,G-Flip,7200
 2026-05-12,volatility_trigger,Volatility Trigger,7300
 2026-05-12,call_wall,Call Wall,7400
