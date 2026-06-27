@@ -290,17 +290,17 @@
   },
   "2026-03-23": {
     "alerta_cor1m": null,
-    "catalizador": "Expiración plazo 48h Trump-Irán; ruptura soporte 6.475 (collar JPM)",
+    "catalizador": "Expiración plazo 48h Trump-Irán (19:45h) + ruptura soporte 6.475 collar JPM",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "Ruptura de 6.475 activa riesgo de aceleración bajista forzada por cobertura de dealers, aunque emergen señales de fatiga en la caída (divergencia VIX, RSI<30, Fear&Greed=15)",
+    "idea_clave": "El SPX rompe el soporte crítico de 6.475 con el VIX en 30; riesgo de aceleración bajista si no recupera ese nivel, aunque aparecen primeras señales de fatiga bajista",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "negativo / alta volatilidad",
-    "sesgo": "bajista con señales de posible fatiga",
+    "sesgo": "bajista con señales de posible fatiga en la caída",
     "vix_actual": 30,
     "vix_cierre": null,
     "vvix_cierre": null
