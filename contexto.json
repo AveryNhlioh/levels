@@ -375,20 +375,20 @@
   },
   "2026-03-29": {
     "alerta_cor1m": null,
-    "catalizador": "OPEX trimestral + Collar JPM (31 marzo) + petróleo WTI cerca de $100 + incertidumbre geopolítica Oriente Medio",
+    "catalizador": "OPEX fin de trimestre + collar JPM (31 marzo), petróleo WTI cerca de $100, incertidumbre geopolítica Oriente Medio",
     "cierre_spx_previo": null,
     "edicion": "semanal",
-    "idea_clave": "Efecto bola de nieve bajista impulsado por flujos técnicos (CTAs, vol control, JPM collar) y petróleo; la clave es que el WTI no supere $100 y el SPX no pierda 6300",
+    "idea_clave": "Efecto bola de nieve: la ruptura de 6.475 (collar JPM) activa ventas forzadas de dealers, CTAs y vol-control funds, con el petróleo como principal indicador de riesgo; clave que WTI no supere $100",
     "movimiento_implicito_pct": 3.4,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "gamma negativa",
-    "sesgo": "bajista",
+    "regimen": "Gamma negativa, tendencia bajista, efecto bola de nieve por flujos técnicos",
+    "sesgo": "Bajista / defensivo",
     "vix_actual": null,
-    "vix_cierre": 31,
-    "vvix_cierre": 133
+    "vix_cierre": 31.0,
+    "vvix_cierre": 133.0
   },
   "2026-03-30": {
     "alerta_cor1m": null,
