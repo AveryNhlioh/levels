@@ -295,7 +295,8 @@ fecha,tipo,etiqueta,valor
 2026-04-26,call_wall,Call Wall,7200
 2026-04-26,put_wall,Put Wall,6800
 2026-04-26,resistencia,Resistencia clave,7200
-2026-04-26,soporte,Soporte,6900
+2026-04-26,soporte,Soporte 6900,6900
+2026-04-26,soporte,Soporte 7000,7000
 2026-04-26,soporte,Zona de gamma ligera inferior,7000
 2026-04-27,gflip,G-Flip,7000
 2026-04-27,volatility_trigger,Volatility Trigger,7100
