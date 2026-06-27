@@ -173,9 +173,9 @@ fecha,tipo,etiqueta,valor
 2026-04-07,volatility_trigger,Volatility Trigger,6600
 2026-04-07,call_wall,Call Wall,6700
 2026-04-07,put_wall,Put Wall,6500
-2026-04-07,resistencia,Resistencia consolidación,6650
-2026-04-07,soporte,Soporte intermedio,6400
-2026-04-07,soporte,Soporte intermedio,6300
+2026-04-07,soporte,Soporte 6300,6300
+2026-04-07,soporte,Soporte 6400,6400
+2026-04-07,soporte,Soporte gamma intermedio,6650
 2026-04-07,soporte,Soporte relevante,6180
 2026-04-08,gflip,G-Flip,6600
 2026-04-08,volatility_trigger,Volatility Trigger,6600
