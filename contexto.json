@@ -834,17 +834,17 @@
   },
   "2026-04-30": {
     "alerta_cor1m": null,
-    "catalizador": "post-FOMC, petróleo cerca de 108, yields al alza, resultados Mag 7 (GOOGL +7%, META -7%, MSFT -2%, AMZN -2%), vencimiento con IV bid",
+    "catalizador": "post-FOMC, petróleo cerca de 108, yields al alza, resultados Mag 7 (GOOGL +7%, META -7%, MSFT -2%, AMZN -2%), vencimiento con pico de IV",
     "cierre_spx_previo": 7136,
     "edicion": "diaria",
-    "idea_clave": "el SPX cerró plano pero la volatilidad subió con fuerza (VIX +5,38%, VVIX +5,48%); spot estable + volatilidad al alza = estructura más vulnerable y mayor riesgo de sesión amplia",
+    "idea_clave": "el SPX no se movió pero la volatilidad sí (VIX +5,38%, VVIX +5,48%), aumentando el riesgo de una sesión más amplia",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "constructivo, pero con deterioro en volatilidad",
-    "sesgo": "neutral-constructivo mientras SPX se mantenga por encima de 7.100 / 7.050",
+    "sesgo": "neutral-constructivo mientras SPX se mantenga por encima de 7100/7050",
     "vix_actual": null,
     "vix_cierre": 18.8,
     "vvix_cierre": 96.02
