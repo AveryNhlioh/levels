@@ -885,17 +885,17 @@
   },
   "2026-05-04": {
     "alerta_cor1m": null,
-    "catalizador": "Estrecho de Ormuz / WTI por encima de 104 dólares",
+    "catalizador": "Tensiones en el Estrecho de Ormuz / WTI por encima de 104 dólares",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "El mercado ha recuperado la caída nocturna pero la volatilidad corta repunta y el straddle diario parece bajo para el nivel de incertidumbre geopolítica actual",
+    "idea_clave": "El mercado ha recuperado la caída nocturna pero la volatilidad corta repunta y el straddle diario parece bajo para el nivel de incertidumbre actual",
     "movimiento_implicito_pct": 0.45,
     "rango_implicito": {
       "alto": 7258,
       "bajo": 7192
     },
-    "regimen": "Alcista pero vulnerable a shocks geopolíticos",
-    "sesgo": "Constructivo mientras SPX se mantenga por encima de 7.200",
+    "regimen": "alcista pero vulnerable a shocks geopolíticos",
+    "sesgo": "constructivo mientras SPX se mantenga por encima de 7.200",
     "vix_actual": 17,
     "vix_cierre": null,
     "vvix_cierre": null
