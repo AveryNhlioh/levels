@@ -438,7 +438,7 @@ fecha,tipo,etiqueta,valor
 2026-05-24,volatility_trigger,Volatility Trigger,7400
 2026-05-24,call_wall,Call Wall,7600
 2026-05-24,put_wall,Put Wall,7200
-2026-05-24,resistencia,Zona de squeeze / resistencia intermedia,7500
+2026-05-24,resistencia,Zona squeeze,7500
 2026-05-24,soporte,Soporte inferior,7000
 2026-05-24,soporte,Soporte intermedio,7425
 2026-05-26,gflip,G-Flip,7300
