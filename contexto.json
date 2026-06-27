@@ -1534,14 +1534,14 @@
     "catalizador": "OPEX",
     "cierre_spx_previo": 7420,
     "edicion": "diaria",
-    "idea_clave": "El SPX cerró claramente por debajo de 7.500, justo cuando sube la volatilidad y vence una parte importante de la gamma acumulada, dejando al mercado más vulnerable a movimientos amplios",
+    "idea_clave": "El SPX cerró claramente por debajo de 7.500 justo cuando sube la volatilidad y vence una parte importante de la gamma acumulada, dejando al mercado más vulnerable a movimientos amplios",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "frágil / por debajo del G-Flip",
-    "sesgo": "Defensivo mientras el SPX permanezca por debajo de 7.500",
+    "sesgo": "defensivo mientras el SPX permanezca por debajo de 7.500",
     "vix_actual": null,
     "vix_cierre": 18.4,
     "vvix_cierre": 94.5
