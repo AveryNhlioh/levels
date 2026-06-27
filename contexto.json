@@ -1,0 +1,1651 @@
+{
+  "2026-03-03": {
+    "alerta_cor1m": null,
+    "catalizador": "NFP Viernes 06/03",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "La Put Wall en 6800 es la referencia clave; si cede con decisión el siguiente objetivo es 6700 con VIX ~30",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Gamma negativa",
+    "sesgo": "Bajista / precaución",
+    "vix_actual": 26,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-03-04": {
+    "alerta_cor1m": null,
+    "catalizador": "NFP viernes 6/3 + datos ventas minoristas",
+    "cierre_spx_previo": 6800,
+    "edicion": "diaria",
+    "idea_clave": "Put wall en 6700 como soporte clave; recuperar 6900 sería señal de mayor estabilidad; skew invertido y backwardation reflejan fragilidad latente",
+    "movimiento_implicito_pct": 2.0,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "backwardation / volatilidad elevada con coberturas activas",
+    "sesgo": "bajista con riesgo asimétrico al alza ante posible cierre de coberturas",
+    "vix_actual": null,
+    "vix_cierre": 23.56,
+    "vvix_cierre": 116.02
+  },
+  "2026-03-05": {
+    "alerta_cor1m": null,
+    "catalizador": "NFP Viernes 06/03",
+    "cierre_spx_previo": 6870,
+    "edicion": "diaria",
+    "idea_clave": "Si el SPX supera 6900 entra en gamma positiva y podría activarse compresión de volatilidad apoyada por flujos de vanna y charm; ruptura de 6800 sigue siendo riesgo latente.",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "gamma negativa por debajo de 6900; gamma positiva por encima de 6900",
+    "sesgo": "neutral con sesgo alcista si supera 6900; fragilidad latente por debajo de 6800",
+    "vix_actual": null,
+    "vix_cierre": 21.14,
+    "vvix_cierre": 106.77
+  },
+  "2026-03-06": {
+    "alerta_cor1m": null,
+    "catalizador": "NFP viernes + riesgo geopolítico (Irán / Estrecho de Ormuz)",
+    "cierre_spx_previo": 6831,
+    "edicion": "diaria",
+    "idea_clave": "Aumento de demanda de coberturas y puts, put wall en 6700; ruptura de 6800 cada vez más probable si no se consolida por encima de 6900.",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": null,
+    "sesgo": "bajista / fragilidad latente",
+    "vix_actual": null,
+    "vix_cierre": 23.76,
+    "vvix_cierre": 115.93
+  },
+  "2026-03-07": {
+    "alerta_cor1m": null,
+    "catalizador": "IPC 11 de marzo + reunión FOMC 18 de marzo",
+    "cierre_spx_previo": 6740,
+    "edicion": "semanal",
+    "idea_clave": "El SPX rompe rango y se acerca a la Put Wall en 6700; recuperar 6900 es clave para restablecer estabilidad",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Ruptura de rango con volatilidad al alza, curva VIX en backwardation",
+    "sesgo": "Bajista / precaución; soporte clave en Put Wall 6700",
+    "vix_actual": null,
+    "vix_cierre": 29.48,
+    "vvix_cierre": 140.23
+  },
+  "2026-03-09": {
+    "alerta_cor1m": null,
+    "catalizador": "IPC 11-mar, PCE 13-mar, FOMC 18-mar; tensión petróleo y volatilidad",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "Mercado en gamma negativa con VIX repuntando al 32%; Put Wall en 6700 es el soporte clave a vigilar y recuperar 6900 es condición necesaria para estabilidad.",
+    "movimiento_implicito_pct": 1.2,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "gamma negativa",
+    "sesgo": "bajista / precaución",
+    "vix_actual": 32,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-03-10": {
+    "alerta_cor1m": null,
+    "catalizador": "IPC (11-mar), PCE (13-mar), FOMC (18-mar), GTC Nvidia (16-19 mar), riesgo geopolítico Irán",
+    "cierre_spx_previo": 6796,
+    "edicion": "diaria",
+    "idea_clave": "El SPX revirtió pérdidas con características de short squeeze, pero la volatilidad sigue elevada y cada rebote podría ser aprovechado para vender riesgo; consolidar sobre 6900 es clave para mayor estabilidad",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": null,
+    "sesgo": "fragilidad latente; rebotes probablemente aprovechados para vender riesgo",
+    "vix_actual": 24.0,
+    "vix_cierre": 25.51,
+    "vvix_cierre": 122.6
+  },
+  "2026-03-11": {
+    "alerta_cor1m": null,
+    "catalizador": "IPC hoy, PCE viernes, FOMC 18 marzo, OPEX 20 marzo, tensiones geopolíticas Irán/petróleo",
+    "cierre_spx_previo": 6782,
+    "edicion": "diaria",
+    "idea_clave": "El mercado permanece bajo el Volatility Trigger con divergencia VIX/VVIX; recuperar 6900 es clave para mayor estabilidad",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Por debajo del Volatility Trigger; fragilidad latente con divergencia VIX/VVIX",
+    "sesgo": "Bajista/cauteloso; rebotes aprovechados para vender riesgo",
+    "vix_actual": null,
+    "vix_cierre": 24.92,
+    "vvix_cierre": 125.3
+  },
+  "2026-03-12": {
+    "alerta_cor1m": null,
+    "catalizador": "Tensiones geopolíticas en Oriente Medio y petróleo (estrecho de Ormuz)",
+    "cierre_spx_previo": 6776,
+    "edicion": "diaria",
+    "idea_clave": "El SPX presiona la Put Wall en 6700 por tensiones geopolíticas; recuperar 6900 es clave para mayor estabilidad",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": null,
+    "sesgo": "bajista con riesgo de short squeeze alcista",
+    "vix_actual": 24.0,
+    "vix_cierre": 24.22,
+    "vvix_cierre": 122.49
+  },
+  "2026-03-13": {
+    "alerta_cor1m": null,
+    "catalizador": "PCE (13 mar), FOMC (18 mar), OPEX marzo (20 mar)",
+    "cierre_spx_previo": 6673,
+    "edicion": "diaria",
+    "idea_clave": "SPX por debajo de su Put Wall en 6700 con volatilidad en repunte; presión bajista latente con posible visita a 6600.",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Gamma negativa",
+    "sesgo": "bajista",
+    "vix_actual": null,
+    "vix_cierre": 27.28,
+    "vvix_cierre": 130.18
+  },
+  "2026-03-14": {
+    "alerta_cor1m": null,
+    "catalizador": "FOMC 18 marzo, GTC NVIDIA, Vencimiento VIX miércoles, Triple Witching 20 marzo, riesgo geopolítico Irán / petróleo",
+    "cierre_spx_previo": 6632,
+    "edicion": "semanal",
+    "idea_clave": "Mercado en gamma negativa con volatilidad elevada; soporte clave en 6500-6600, rebote solo creíble con compresión de volatilidad; semana cargada de eventos de alto impacto",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Gamma negativa",
+    "sesgo": "bajista con posibilidad de rebote violento ante catalizador positivo",
+    "vix_actual": null,
+    "vix_cierre": 27.18,
+    "vvix_cierre": 131.05
+  },
+  "2026-03-16": {
+    "alerta_cor1m": null,
+    "catalizador": "Fed (FOMC 18 mar), GTC NVDA, vencimiento VIX 18 mar, Triple Witching OPEX 20 mar",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "SPX rebota en la SMA 200 con semana cargada de catalizadores; recuperar 6900 es clave para mayor estabilidad, con riesgo de ruptura bajo 6800",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": null,
+    "sesgo": "fragilidad latente, mercado sobrevendido en zona tecnica clave (SMA 200)",
+    "vix_actual": 26,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-03-17": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX trimestral (triple hora bruja 20 marzo) + FOMC 18 marzo + GTC NVDA",
+    "cierre_spx_previo": 6699,
+    "edicion": "diaria",
+    "idea_clave": "El rebote no es solo técnico: está siendo impulsado activamente por la caída de volatilidad y flujos de vanna derivados",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": null,
+    "sesgo": "alcista con fragilidad latente",
+    "vix_actual": 23.0,
+    "vix_cierre": 23.52,
+    "vvix_cierre": 116.78
+  },
+  "2026-03-18": {
+    "alerta_cor1m": null,
+    "catalizador": "FOMC + Vencimiento VIX",
+    "cierre_spx_previo": 6716,
+    "edicion": "diaria",
+    "idea_clave": "Volatilidad en compresión con SPX atacando el Volatility Trigger en 6800; clave confirmar ruptura para mayor estabilidad",
+    "movimiento_implicito_pct": 0.9,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": null,
+    "sesgo": "constructivo con riesgo de expansión de volatilidad tras eventos",
+    "vix_actual": 22.0,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-03-19": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX de marzo (triple hora bruja) el 20 de marzo + vencimiento VIX de marzo",
+    "cierre_spx_previo": 6625,
+    "edicion": "diaria",
+    "idea_clave": "SPX en gamma negativo sobre soporte clave 6500-6475, con volatilidad en expansión y flujos vendedores; la clave es si la volatilidad se comprime o entra en fase sostenida.",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "gamma negativo",
+    "sesgo": "bajista",
+    "vix_actual": null,
+    "vix_cierre": 25.08,
+    "vvix_cierre": 126.24
+  },
+  "2026-03-20": {
+    "alerta_cor1m": null,
+    "catalizador": "Triple Witching / OPEX de marzo",
+    "cierre_spx_previo": 6607,
+    "edicion": "diaria",
+    "idea_clave": "SPX cae pero VIX también cae, posible señal de suelo con aparición de vendedor institucional de volatilidad en zona 6400-6500",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Precaución",
+    "sesgo": "bajista con señales de posible suelo a corto plazo",
+    "vix_actual": null,
+    "vix_cierre": 24.05,
+    "vvix_cierre": 108.09
+  },
+  "2026-03-21": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX trimestral (31 marzo) + vencimiento JPM Collar + geopolítica (Irán)",
+    "cierre_spx_previo": 6507,
+    "edicion": "semanal",
+    "idea_clave": "El SPX se apoya en el soporte del JPM Collar en 6475; si lo pierde, los dealers podrían amplificar la caída; posible rebote técnico tras OPEX pero entorno altamente incierto.",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Por debajo del G-Flip y Volatility Trigger; entorno de alta incertidumbre con presión vendedora sistemática",
+    "sesgo": "Bajista con posible rebote técnico post-OPEX",
+    "vix_actual": null,
+    "vix_cierre": 26.77,
+    "vvix_cierre": 127.33
+  },
+  "2026-03-23": {
+    "alerta_cor1m": null,
+    "catalizador": "Expiración plazo 48h Trump-Irán; ruptura soporte 6.475 (collar JPM)",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "Ruptura de 6.475 activa riesgo de aceleración bajista forzada por cobertura de dealers, aunque emergen señales de fatiga en la caída (divergencia VIX, RSI<30, Fear&Greed=15)",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "negativo / alta volatilidad",
+    "sesgo": "bajista con señales de posible fatiga",
+    "vix_actual": 30,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-03-24": {
+    "alerta_cor1m": null,
+    "catalizador": "comentarios de Trump sobre avances con Irán y pausa en ataques a infraestructuras energéticas",
+    "cierre_spx_previo": 6581,
+    "edicion": "diaria",
+    "idea_clave": "Rebote técnico impulsado por titulares geopolíticos, pero con gamma negativa, volatilidad realizada al alza y riesgos latentes de presión adicional por vol-control",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "gamma negativa",
+    "sesgo": "bajista / frágil con rebote técnico",
+    "vix_actual": null,
+    "vix_cierre": 26.16,
+    "vvix_cierre": 122.82
+  },
+  "2026-03-25": {
+    "alerta_cor1m": null,
+    "catalizador": "Tensiones geopolíticas Oriente Medio (Irán), repunte del petróleo, aumento de rendimientos de bonos; OPEX fin de trimestre + Collar JPM el 31 de marzo",
+    "cierre_spx_previo": 6556,
+    "edicion": "diaria",
+    "idea_clave": "El posicionamiento de gamma favorece movimientos amplificados; recuperar 6.800 sería clave para mayor estabilidad",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Gamma mixta con fragilidad latente; por debajo del G-Flip/Volatility Trigger",
+    "sesgo": "Neutral con sesgo alcista intradía condicionado al flujo de noticias; riesgo de movimientos amplificados en ambos sentidos",
+    "vix_actual": null,
+    "vix_cierre": 16.94,
+    "vvix_cierre": 124.14
+  },
+  "2026-03-26": {
+    "alerta_cor1m": null,
+    "catalizador": "tensión geopolítica (Irán/Trump) + OPEX fin de trimestre 31-mar + Collar JPM",
+    "cierre_spx_previo": 6592,
+    "edicion": "diaria",
+    "idea_clave": "Rebote sin convicción en gamma negativa; SPX cae intradia hacia 6.550 con VIX repuntando por encima de 27 y WTI subiendo más del 2%",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "gamma negativa",
+    "sesgo": "bajista",
+    "vix_actual": 27.0,
+    "vix_cierre": 25.32,
+    "vvix_cierre": null
+  },
+  "2026-03-27": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX fin de trimestre + Collar JPM (31 marzo) + geopolítica Irán",
+    "cierre_spx_previo": 6477,
+    "edicion": "diaria",
+    "idea_clave": "Mercado en zona crítica de gamma negativa con liquidez muy limitada entre 6400-6500, posicionamiento frágil y alta dependencia de titulares; recuperar 6800 sería clave para estabilización",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "gamma negativa",
+    "sesgo": "bajista / frágil",
+    "vix_actual": null,
+    "vix_cierre": 27.43,
+    "vvix_cierre": 124.43
+  },
+  "2026-03-29": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX trimestral + Collar JPM (31 marzo) + petróleo WTI cerca de $100 + incertidumbre geopolítica Oriente Medio",
+    "cierre_spx_previo": null,
+    "edicion": "semanal",
+    "idea_clave": "Efecto bola de nieve bajista impulsado por flujos técnicos (CTAs, vol control, JPM collar) y petróleo; la clave es que el WTI no supere $100 y el SPX no pierda 6300",
+    "movimiento_implicito_pct": 3.4,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "gamma negativa",
+    "sesgo": "bajista",
+    "vix_actual": null,
+    "vix_cierre": 31,
+    "vvix_cierre": 133
+  },
+  "2026-03-30": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX fin de trimestre + Collar JPM (31 marzo) + petróleo elevado",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "Rebote técnico en marcha pero curva de vol invertida y señales internas débiles; 6400-6475 es el rango clave y el petróleo sigue marcando la dirección",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "negativo / estrés",
+    "sesgo": "bajista con rebote táctico",
+    "vix_actual": 29.96,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-03-31": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX fin de trimestre + Roll del collar de JPM + titulares geopolíticos Trump/Ormuz",
+    "cierre_spx_previo": 6344,
+    "edicion": "diaria",
+    "idea_clave": "Volatilidad cayendo y vendedores de puts generan soporte táctico en 6.350, con flujos mecánicos compradores por el roll del collar de JPM.",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Gamma negativa / mercado frágil con soporte en construcción",
+    "sesgo": "Rebote táctico por flujos, pero precaución estructural",
+    "vix_actual": 29,
+    "vix_cierre": 31,
+    "vvix_cierre": 128
+  },
+  "2026-04-01": {
+    "alerta_cor1m": null,
+    "catalizador": "Titulares de desescalada Irán + flujos de fin de mes (rebalanceo fondos de pensiones)",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "Rally del +2,9% amplificado por gamma (superación de 6.475) y flujos mecánicos, pero el petróleo por encima de $100 mantiene la incertidumbre",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Precaución",
+    "sesgo": "alcista con cautela (rally técnico dependiente de macro y geopolítica)",
+    "vix_actual": null,
+    "vix_cierre": 25,
+    "vvix_cierre": 116
+  },
+  "2026-04-02": {
+    "alerta_cor1m": null,
+    "catalizador": "NFP 03 Abril + escalada geopolítica Irán + WTI disparado",
+    "cierre_spx_previo": 6575,
+    "edicion": "diaria",
+    "idea_clave": "Rebote técnico frágil: el mercado subió pero la volatilidad también, el petróleo no valida el rebote y la estructura es vulnerable por debajo de 6.500",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "riesgo elevado, estructura vulnerable",
+    "sesgo": "bajista / risk-off",
+    "vix_actual": 27.0,
+    "vix_cierre": 24.53,
+    "vvix_cierre": 114.83
+  },
+  "2026-04-04": {
+    "alerta_cor1m": null,
+    "catalizador": "Backwardation en petróleo percibida como shock transitorio; resiliencia en put wall 6500",
+    "cierre_spx_previo": 6583,
+    "edicion": "semanal",
+    "idea_clave": "El mercado rebota apoyado en la put wall 6500 y compresión de volatilidad, pero el sesgo sigue siendo de cautela hasta consolidar por encima de 6650",
+    "movimiento_implicito_pct": 2.35,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Rebote técnico con compresión de volatilidad; VIX en backwardation con estructura mejorando",
+    "sesgo": "Cautela; rebote dentro de posible tendencia bajista o inicio de lateral",
+    "vix_actual": null,
+    "vix_cierre": 24,
+    "vvix_cierre": 115
+  },
+  "2026-04-06": {
+    "alerta_cor1m": null,
+    "catalizador": "IPC el 10 de abril; FOMC el 29 de abril; posibles avances geopolíticos con Irán",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "El SPX supera el VT con el VIX elevado; zona 6605 es clave para un gamma squeeze alcista, mientras que 6500-6180 son soportes críticos a la baja",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Precaución",
+    "sesgo": "Neutral con sesgo alcista condicionado a superar 6605; riesgo bajista si se pierden soportes",
+    "vix_actual": 24.5,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-04-07": {
+    "alerta_cor1m": null,
+    "catalizador": "IPC 10 de abril + ultimátum Trump sobre Irán",
+    "cierre_spx_previo": 6612,
+    "edicion": "diaria",
+    "idea_clave": "El SPX sube pero la volatilidad implícita también sube en vencimientos cortos, señal de demanda activa de coberturas; zona 6500-6600 es tierra de nadie y el nivel clave para mayor estabilidad es 6650",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "tierra de nadie / precaución",
+    "sesgo": "negativo / cauteloso",
+    "vix_actual": null,
+    "vix_cierre": 24,
+    "vvix_cierre": 114
+  },
+  "2026-04-08": {
+    "alerta_cor1m": null,
+    "catalizador": "Alto el fuego EE.UU.-Irán + reapertura Estrecho de Ormuz; PCE (9/4) e IPC (10/4) próximos",
+    "cierre_spx_previo": 6617,
+    "edicion": "diaria",
+    "idea_clave": "Descompresión agresiva del riesgo con SPX en fuerte rebote y VIX en caída vertical; zona 6800 como resistencia clave de gamma positiva",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Gamma positiva con impulso alcista y compresión de volatilidad",
+    "sesgo": "Alcista / eufórico",
+    "vix_actual": 20.5,
+    "vix_cierre": 26,
+    "vvix_cierre": 118
+  },
+  "2026-04-09": {
+    "alerta_cor1m": null,
+    "catalizador": "Alto el fuego + PCE + IPC",
+    "cierre_spx_previo": 6783,
+    "edicion": "diaria",
+    "idea_clave": "Rally técnico por compresión de volatilidad y flujos, pero sostenibilidad depende de la evolución geopolítica y datos macro",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Precaución",
+    "sesgo": null,
+    "vix_actual": 21,
+    "vix_cierre": 21,
+    "vvix_cierre": 111
+  },
+  "2026-04-10": {
+    "alerta_cor1m": null,
+    "catalizador": "Alto el fuego EE.UU.-Irán frágil + IPC 10 de abril",
+    "cierre_spx_previo": 6825,
+    "edicion": "diaria",
+    "idea_clave": "Rally sostenido por compresión de volatilidad y flujos alcistas, pero sostenibilidad depende de datos macro y evolución geopolítica",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Precaución",
+    "sesgo": null,
+    "vix_actual": null,
+    "vix_cierre": 19.48,
+    "vvix_cierre": 105.37
+  },
+  "2026-04-12": {
+    "alerta_cor1m": null,
+    "catalizador": "Geopolítica EEUU-Irán, expiración VIX 15-abril, OPEX 17-abril, FOMC 29-abril",
+    "cierre_spx_previo": 6817,
+    "edicion": "semanal",
+    "idea_clave": "La fase más sencilla del rally ya se ha completado; divergencia VIX/VVIX sugiere cautela institucional ante posible repunte de volatilidad",
+    "movimiento_implicito_pct": 1.6,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "transición de estrés a estabilización, señales mixtas de volatilidad",
+    "sesgo": "neutral-cauteloso con sesgo alcista condicionado",
+    "vix_actual": null,
+    "vix_cierre": 19.0,
+    "vvix_cierre": 107.0
+  },
+  "2026-04-13": {
+    "alerta_cor1m": null,
+    "catalizador": "Expiración VIX 15 abril, OPEX 17 abril, FOMC 29 abril",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "Corrección táctica contenida con soporte técnico en 6.700 y estructura de fondo aún constructiva por encima del 61,8% de Fibonacci",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Precaución",
+    "sesgo": "correctivo táctico con estructura constructiva de fondo",
+    "vix_actual": 21,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-04-14": {
+    "alerta_cor1m": null,
+    "catalizador": "Vencimiento VIX 15 abril + OPEX 17 abril + geopolítica Irán",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "El SPX se aproxima a la Call Wall en 6900 con compresión de volatilidad; tras el vencimiento del VIX la volatilidad podría reactivarse",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": null,
+    "sesgo": "alcista",
+    "vix_actual": 18,
+    "vix_cierre": 19,
+    "vvix_cierre": 103
+  },
+  "2026-04-15": {
+    "alerta_cor1m": null,
+    "catalizador": "Vencimiento del VIX (15 abril), OPEX (17 abril)",
+    "cierre_spx_previo": 6967,
+    "edicion": "diaria",
+    "idea_clave": "SPX cerca de la Call Wall en 7000 tras short squeeze; vencimiento del VIX abre ventana de mayor volatilidad potencial",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Gamma elevada, short squeeze en opciones, dealers en gamma larga cerca de Call Wall",
+    "sesgo": "Precaución: posible consolidación cerca de máximos, volatilidad puede reactivarse tras vencimiento VIX",
+    "vix_actual": null,
+    "vix_cierre": 18.0,
+    "vvix_cierre": 95.0
+  },
+  "2026-04-16": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX 17 de abril + optimismo geopolítico por posible acuerdo de paz",
+    "cierre_spx_previo": 7023,
+    "edicion": "diaria",
+    "idea_clave": "El SPX marcó nuevos máximos impulsado por un short squeeze de opciones y fuerte compra de calls; el nivel pin es 7.000 y tras el OPEX del 17 de abril aumentará la volatilidad",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "gamma positiva / short squeeze",
+    "sesgo": "alcista",
+    "vix_actual": null,
+    "vix_cierre": 18.0,
+    "vvix_cierre": 98.0
+  },
+  "2026-04-17": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX 17 de abril",
+    "cierre_spx_previo": 7041,
+    "edicion": "diaria",
+    "idea_clave": "Tras el vencimiento el gamma cae, el mercado pierde soporte y aumenta el riesgo de movimientos más amplios",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "gamma positiva reduciéndose por OPEX",
+    "sesgo": "precaución, posible consolidación o corrección táctica",
+    "vix_actual": null,
+    "vix_cierre": 17.95,
+    "vvix_cierre": 96.76
+  },
+  "2026-04-19": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX abril, Tesla earnings 22/4, FOMC 29/4, temporada de resultados",
+    "cierre_spx_previo": 7126,
+    "edicion": "semanal",
+    "idea_clave": "Rally muy extendido con sobrecompra post-OPEX; corrección táctica hacia 7000 es el escenario más probable antes de continuar al alza",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "sobrecompra post-OPEX, spot arriba volatilidad arriba",
+    "sesgo": "bajista tactico a corto plazo, posible corrección hacia 7000",
+    "vix_actual": null,
+    "vix_cierre": 17.47,
+    "vvix_cierre": 95.13
+  },
+  "2026-04-20": {
+    "alerta_cor1m": null,
+    "catalizador": "Fracaso negociaciones EE.UU.-Irán; tensión geopolítica; WTI +5%",
+    "cierre_spx_previo": 7088,
+    "edicion": "diaria",
+    "idea_clave": "Repunte de volatilidad por tensión geopolítica; mercado poco cubierto con soporte clave en 7.000 y riesgo de amplificación bajista si se rompe",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Geopolítica y petróleo marcan el ritmo; mercado poco cubierto a la baja",
+    "sesgo": "bajista / precaución",
+    "vix_actual": null,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-04-21": {
+    "alerta_cor1m": null,
+    "catalizador": "Tensión geopolítica (negociaciones EE.UU.-Irán vía Pakistán); FOMC 29/04; earnings TSLA, IBM, INTC",
+    "cierre_spx_previo": 7109,
+    "edicion": "diaria",
+    "idea_clave": "Mercado en fase de transición dominado por geopolítica: 7.175 es resistencia clave al alza y 7.000 el nivel de riesgo crítico a la baja",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Precaución",
+    "sesgo": "Volatilidad elevada, modo espera geopolítico; dealers compradores en caídas",
+    "vix_actual": null,
+    "vix_cierre": 18.86,
+    "vvix_cierre": 98.29
+  },
+  "2026-04-22": {
+    "alerta_cor1m": null,
+    "catalizador": "Tensión geopolítica EE.UU.-Irán + earnings TSLA",
+    "cierre_spx_previo": 7064,
+    "edicion": "diaria",
+    "idea_clave": "El mercado está sostenido por flujos estructurales (dealers, CTAs, vol control) pese al ruido macro geopolítico; clave en 7000-7050",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Gamma positivo",
+    "sesgo": "Neutral-alcista mientras por encima de 7050",
+    "vix_actual": 19.0,
+    "vix_cierre": 19.5,
+    "vvix_cierre": 101.9
+  },
+  "2026-04-23": {
+    "alerta_cor1m": null,
+    "catalizador": "Extensión del alto el fuego + fortaleza en tech (TSLA)",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "Subida impulsada por compresión de vol y posicionamiento; riesgo de aceleración si cambia el régimen",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Gamma positivo",
+    "sesgo": "Alcista mientras > 7.050, con dinámica de soporte en caídas",
+    "vix_actual": null,
+    "vix_cierre": 19,
+    "vvix_cierre": 99
+  },
+  "2026-04-24": {
+    "alerta_cor1m": null,
+    "catalizador": "subida del petróleo, tensión geopolítica, earnings de mega-cap tech y FOMC",
+    "cierre_spx_previo": 7108,
+    "edicion": "diaria",
+    "idea_clave": "el mercado no se rompió pero la estructura interna se debilitó; clave en 7.050",
+    "movimiento_implicito_pct": 0.96,
+    "rango_implicito": {
+      "alto": 7176,
+      "bajo": 7040
+    },
+    "regimen": "constructivo pero más frágil",
+    "sesgo": "constructivo mientras SPX se mantenga por encima de 7.050",
+    "vix_actual": null,
+    "vix_cierre": 19.3,
+    "vvix_cierre": 98.6
+  },
+  "2026-04-26": {
+    "alerta_cor1m": null,
+    "catalizador": "Earnings mega-cap tech (META, AMZN, MSFT, GOOGL, AAPL) + reunión FOMC 29/04",
+    "cierre_spx_previo": 7165,
+    "edicion": "semanal",
+    "idea_clave": "Máximos históricos con liderazgo en semiconductores y volatilidad comprimida, pero todo depende de mantener 7.100",
+    "movimiento_implicito_pct": 1.7,
+    "rango_implicito": {
+      "alto": 7287,
+      "bajo": 7043
+    },
+    "regimen": "Constructivo, pero con gamma más frágil por debajo de 7.100",
+    "sesgo": "Alcista / constructivo mientras el SPX se mantenga por encima de 7.100",
+    "vix_actual": null,
+    "vix_cierre": 18.7,
+    "vvix_cierre": 97.2
+  },
+  "2026-04-27": {
+    "alerta_cor1m": null,
+    "catalizador": "Irán / petróleo / estrecho de Ormuz + earnings MSFT, GOOGL, META, AMZN, AAPL + FOMC",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "El mercado aguanta cerca de máximos pero tiene poco colchón si aparece un shock bajista; 7.100 es el nivel operativo clave",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Constructivo en precio, pero frágil en microestructura",
+    "sesgo": "Constructivo mientras SPX se mantenga por encima de 7.100; bajista si pierde ese nivel",
+    "vix_actual": null,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-04-28": {
+    "alerta_cor1m": null,
+    "catalizador": "FOMC del miércoles 29 de abril",
+    "cierre_spx_previo": 7174,
+    "edicion": "diaria",
+    "idea_clave": "El posicionamiento sigue alcista, pero la gamma más limpia tras el vencimiento deja más espacio para que repunte la volatilidad",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": 7200,
+      "bajo": 7000
+    },
+    "regimen": "constructivo, pero en rango",
+    "sesgo": "neutral-alcista mientras SPX se mantenga en rango 7000-7200",
+    "vix_actual": null,
+    "vix_cierre": 18,
+    "vvix_cierre": 94
+  },
+  "2026-04-29": {
+    "alerta_cor1m": null,
+    "catalizador": "FOMC + resultados META, AMZN, MSFT, GOOGL",
+    "cierre_spx_previo": 7139,
+    "edicion": "diaria",
+    "idea_clave": "El mercado descuenta poco movimiento para el FOMC; el verdadero riesgo puede venir después con earnings de mega-cap tech; 7.100 es el nivel de riesgo clave",
+    "movimiento_implicito_pct": 0.55,
+    "rango_implicito": {
+      "alto": 7178,
+      "bajo": 7100
+    },
+    "regimen": "constructivo pero debilitado por tech/semis",
+    "sesgo": "neutral-constructivo mientras SPX se mantenga por encima de 7.100",
+    "vix_actual": null,
+    "vix_cierre": 18.0,
+    "vvix_cierre": 91.0
+  },
+  "2026-04-30": {
+    "alerta_cor1m": null,
+    "catalizador": "post-FOMC, petróleo cerca de 108, yields al alza, resultados Mag 7 (GOOGL +7%, META -7%, MSFT -2%, AMZN -2%), vencimiento con IV bid",
+    "cierre_spx_previo": 7136,
+    "edicion": "diaria",
+    "idea_clave": "el SPX cerró plano pero la volatilidad subió con fuerza (VIX +5,38%, VVIX +5,48%); spot estable + volatilidad al alza = estructura más vulnerable y mayor riesgo de sesión amplia",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "constructivo, pero con deterioro en volatilidad",
+    "sesgo": "neutral-constructivo mientras SPX se mantenga por encima de 7.100 / 7.050",
+    "vix_actual": null,
+    "vix_cierre": 18.8,
+    "vvix_cierre": 96.02
+  },
+  "2026-05-01": {
+    "alerta_cor1m": null,
+    "catalizador": "compresión de volatilidad post-earnings",
+    "cierre_spx_previo": 7209,
+    "edicion": "diaria",
+    "idea_clave": "El SPX rompe por primera vez la Call Wall de 7.200, que ahora pasa a actuar como soporte táctico",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "alcista / compresión de volatilidad",
+    "sesgo": "alcista mientras SPX se mantenga por encima de 7.100",
+    "vix_actual": null,
+    "vix_cierre": 17,
+    "vvix_cierre": 94
+  },
+  "2026-05-03": {
+    "alerta_cor1m": null,
+    "catalizador": "Nuevos máximos SPX y Nasdaq, OPEX mayo, IPC 11 mayo, resultados NVDA 20 mayo",
+    "cierre_spx_previo": 7230,
+    "edicion": "semanal",
+    "idea_clave": "Mercado en máximos con volatilidad contenida y estructura alcista intacta; zona 7300-7350 clave: puede frenar el movimiento o acelerar por squeeze de cobertura de dealers",
+    "movimiento_implicito_pct": 1.35,
+    "rango_implicito": {
+      "alto": 7328,
+      "bajo": 7132
+    },
+    "regimen": "alcista, cerca de zona de resistencia",
+    "sesgo": "alcista mientras SPX > 7200",
+    "vix_actual": null,
+    "vix_cierre": 17,
+    "vvix_cierre": 95
+  },
+  "2026-05-04": {
+    "alerta_cor1m": null,
+    "catalizador": "Estrecho de Ormuz / WTI por encima de 104 dólares",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "El mercado ha recuperado la caída nocturna pero la volatilidad corta repunta y el straddle diario parece bajo para el nivel de incertidumbre geopolítica actual",
+    "movimiento_implicito_pct": 0.45,
+    "rango_implicito": {
+      "alto": 7258,
+      "bajo": 7192
+    },
+    "regimen": "Alcista pero vulnerable a shocks geopolíticos",
+    "sesgo": "Constructivo mientras SPX se mantenga por encima de 7.200",
+    "vix_actual": 17,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-05-05": {
+    "alerta_cor1m": null,
+    "catalizador": "NFP del viernes 8 de mayo",
+    "cierre_spx_previo": 7201,
+    "edicion": "diaria",
+    "idea_clave": "Sube la volatilidad corta pero el futuro frontal del VIX no confirma estrés real; 7.200 es el nivel táctico del día",
+    "movimiento_implicito_pct": 0.6,
+    "rango_implicito": {
+      "alto": 7244,
+      "bajo": 7158
+    },
+    "regimen": "constructivo, pero justo sobre nivel crítico",
+    "sesgo": "neutral / constructivo solo mientras el SPX mantenga 7.200",
+    "vix_actual": null,
+    "vix_cierre": 18,
+    "vvix_cierre": 98
+  },
+  "2026-05-06": {
+    "alerta_cor1m": null,
+    "catalizador": "NFP (8 mayo), resultados NVDA (20 mayo), OPEX de mayo",
+    "cierre_spx_previo": 7259,
+    "edicion": "diaria",
+    "idea_clave": "El mercado sigue haciendo máximos apoyado por IA, pero la complacencia en volatilidad corta es el principal riesgo; sesgo alcista hacia 7.300 mientras se mantenga sobre 7.200",
+    "movimiento_implicito_pct": 0.55,
+    "rango_implicito": {
+      "alto": 7299,
+      "bajo": 7219
+    },
+    "regimen": "constructivo / momentum alcista",
+    "sesgo": "alcista mientras SPX se mantenga por encima de 7.200",
+    "vix_actual": null,
+    "vix_cierre": 17.0,
+    "vvix_cierre": 95.0
+  },
+  "2026-05-07": {
+    "alerta_cor1m": null,
+    "catalizador": "posible acercamiento EE. UU.–Irán, crudo < 100 dólares, IA y OPEX del 15 de mayo",
+    "cierre_spx_previo": 7365,
+    "edicion": "diaria",
+    "idea_clave": "el mercado ya no solo sube por menor riesgo macro; la estructura de dealers puede amplificar la subida si el SPX sigue avanzando por encima de 7.400/7.450 (gamma squeeze)",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "alcista / momentum con soporte de flujos",
+    "sesgo": "alcista mientras el SPX se mantenga por encima de 7.200",
+    "vix_actual": null,
+    "vix_cierre": 17,
+    "vvix_cierre": 94
+  },
+  "2026-05-08": {
+    "alerta_cor1m": null,
+    "catalizador": "NFP",
+    "cierre_spx_previo": 7337,
+    "edicion": "diaria",
+    "idea_clave": "el SPX corrigió sin tensión en volatilidad; si el NFP no sorprende, puede reactivarse la compresión de IV y el soporte vía vanna",
+    "movimiento_implicito_pct": 0.65,
+    "rango_implicito": {
+      "alto": 7385,
+      "bajo": 7289
+    },
+    "regimen": "constructivo, con corrección ordenada",
+    "sesgo": "constructivo mientras el SPX se mantenga por encima de 7.300 / 7.200",
+    "vix_actual": null,
+    "vix_cierre": 17,
+    "vvix_cierre": 94
+  },
+  "2026-05-10": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX de mayo (15/5) y resultados de NVDA (20/5)",
+    "cierre_spx_previo": 7399,
+    "edicion": "semanal",
+    "idea_clave": "El rally sigue vivo con el SPX justo bajo la Call Wall de 7.400, pero el repunte del VVIX a 97 advierte que parte del mercado empieza a pagar protección ante un posible rebote futuro del VIX",
+    "movimiento_implicito_pct": 1.35,
+    "rango_implicito": {
+      "alto": 7500,
+      "bajo": 7300
+    },
+    "regimen": "alcista con señales mixtas en volatilidad",
+    "sesgo": "alcista mientras SPX se mantenga por encima de 7.200",
+    "vix_actual": null,
+    "vix_cierre": 17,
+    "vvix_cierre": 97
+  },
+  "2026-05-11": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX mensual",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "El mercado sigue apoyado por flujos de opciones, pero aparecen señales de complacencia y cobertura en volatilidad; clave romper 7400 para gamma squeeze",
+    "movimiento_implicito_pct": 0.45,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "alcista, pero con amplitud más estrecha",
+    "sesgo": "alcista mientras el SPX se mantenga por encima de 7.300",
+    "vix_actual": null,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-05-12": {
+    "alerta_cor1m": null,
+    "catalizador": null,
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": null,
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": null,
+    "sesgo": null,
+    "vix_actual": null,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-05-13": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX de mayo",
+    "cierre_spx_previo": 7401,
+    "edicion": "diaria",
+    "idea_clave": "Mientras el SPX siga dentro de la zona 7.300–7.500, la gamma positiva debería amortiguar caídas y contener la volatilidad",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": 7500,
+      "bajo": 7300
+    },
+    "regimen": "gamma positiva / compras en caídas",
+    "sesgo": "constructivo mientras SPX se mantenga por encima de 7.300",
+    "vix_actual": null,
+    "vix_cierre": 18.0,
+    "vvix_cierre": 99.0
+  },
+  "2026-05-14": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX de mayo",
+    "cierre_spx_previo": 7444,
+    "edicion": "diaria",
+    "idea_clave": "El mercado sigue haciendo máximos impulsado por megacaps tecnológicas, pero la IV cerca de OPEX empieza a repuntar y el liderazgo está muy concentrado",
+    "movimiento_implicito_pct": 0.5,
+    "rango_implicito": {
+      "alto": 7481,
+      "bajo": 7407
+    },
+    "regimen": "alcista / gamma positiva",
+    "sesgo": "Alcista mientras el SPX se mantenga por encima de 7.300",
+    "vix_actual": null,
+    "vix_cierre": 17.94,
+    "vvix_cierre": null
+  },
+  "2026-05-15": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX de mayo + presión de tipos y petróleo",
+    "cierre_spx_previo": 7501,
+    "edicion": "diaria",
+    "idea_clave": "el mercado venía subiendo vía calls en máximos históricos, pero ahora el SPX cae y el VIX sube con fuerza, señal de demanda de protección real",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "alcista, pero en deterioro táctico intradía",
+    "sesgo": "constructivo mientras el SPX se mantenga por encima de 7.400",
+    "vix_actual": 18.9,
+    "vix_cierre": 17.3,
+    "vvix_cierre": 94
+  },
+  "2026-05-17": {
+    "alerta_cor1m": 8.0,
+    "catalizador": "Vencimiento VIX 20/05 + resultados NVDA 20/05 + post-OPEX mensual",
+    "cierre_spx_previo": 7409,
+    "edicion": "semanal",
+    "idea_clave": "Tras OPEX el mercado pierde parte del soporte técnico de gamma justo antes de una semana con catalizadores importantes; postura defensiva mientras SPX no recupere 7.500",
+    "movimiento_implicito_pct": 1.7,
+    "rango_implicito": {
+      "alto": 7535,
+      "bajo": 7283
+    },
+    "regimen": "Tendencia alcista intacta, pero más vulnerable tras OPEX",
+    "sesgo": "Neutral-constructivo, defensivo mientras SPX no recupere 7.500",
+    "vix_actual": null,
+    "vix_cierre": 18.42,
+    "vvix_cierre": null
+  },
+  "2026-05-18": {
+    "alerta_cor1m": 8.56,
+    "catalizador": "vencimiento VIX (miércoles) + resultados de NVDA (miércoles)",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "el mercado está pagando más volatilidad antes de NVDA; si los resultados no decepcionan, un 'no evento' podría reactivar la compresión de IV y extender el rally",
+    "movimiento_implicito_pct": 0.6,
+    "rango_implicito": {
+      "alto": 7431,
+      "bajo": 7343
+    },
+    "regimen": "constructivo en tendencia, pero defensivo en el corto plazo",
+    "sesgo": "neutral / defensivo mientras el SPX esté por debajo de 7.400",
+    "vix_actual": 19,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-05-19": {
+    "alerta_cor1m": 8.56,
+    "catalizador": "Vencimiento VIX + resultados NVDA",
+    "cierre_spx_previo": 7403,
+    "edicion": "diaria",
+    "idea_clave": "El SPX sigue estable en superficie, pero la IV de corto plazo está subiendo con fuerza antes de Nvidia; 7.400 es el nivel táctico y 7.325/7.330 el soporte-imán 0DTE",
+    "movimiento_implicito_pct": 0.7,
+    "rango_implicito": {
+      "alto": 7432,
+      "bajo": 7328
+    },
+    "regimen": "neutral–constructivo, pero con volatilidad corta bid",
+    "sesgo": "constructivo mientras SPX mantenga 7.380–7.400",
+    "vix_actual": 18.0,
+    "vix_cierre": 17.87,
+    "vvix_cierre": 90.85
+  },
+  "2026-05-20": {
+    "alerta_cor1m": 8.56,
+    "catalizador": "Resultados de Nvidia",
+    "cierre_spx_previo": 7354,
+    "edicion": "diaria",
+    "idea_clave": "El SPX cayó pero la IV también bajó; no hay demanda agresiva de cobertura bajista, aunque el soporte de gamma depende del flujo 0DTE y el evento NVDA domina el riesgo",
+    "movimiento_implicito_pct": 1.85,
+    "rango_implicito": {
+      "alto": 7490,
+      "bajo": 7218
+    },
+    "regimen": "ligeramente positivo, pero frágil antes de NVDA",
+    "sesgo": "neutral-constructivo mientras SPX se mantenga por encima de 7300",
+    "vix_actual": 18,
+    "vix_cierre": 18,
+    "vvix_cierre": 95
+  },
+  "2026-05-21": {
+    "alerta_cor1m": 8.56,
+    "catalizador": "post-NVDA, geopolítica, petróleo, tipos e inflación",
+    "cierre_spx_previo": 7433,
+    "edicion": "diaria",
+    "idea_clave": "el mercado recupera tono con petróleo y yields a la baja, pero el VVIX al alza muestra que todavía hay demanda de protección ante un repunte futuro de volatilidad",
+    "movimiento_implicito_pct": 0.65,
+    "rango_implicito": {
+      "alto": 7481,
+      "bajo": 7385
+    },
+    "regimen": "gamma ligeramente positiva entre 7200 y 7600",
+    "sesgo": "constructivo mientras SPX se mantenga por encima de 7400",
+    "vix_actual": null,
+    "vix_cierre": 17.4,
+    "vvix_cierre": 96.5
+  },
+  "2026-05-22": {
+    "alerta_cor1m": 8.56,
+    "catalizador": "Irán, petróleo, tipos y fin de semana largo",
+    "cierre_spx_previo": 7445,
+    "edicion": "diaria",
+    "idea_clave": "Mientras el SPX aguante 7.400, los dealers siguen estabilizando el mercado; por debajo de 7.300 el régimen cambia a gamma negativa",
+    "movimiento_implicito_pct": 0.65,
+    "rango_implicito": {
+      "alto": 7493,
+      "bajo": 7397
+    },
+    "regimen": "constructivo / gamma positiva",
+    "sesgo": "constructivo mientras SPX se mantenga por encima de 7.400",
+    "vix_actual": null,
+    "vix_cierre": 16.8,
+    "vvix_cierre": null
+  },
+  "2026-05-24": {
+    "alerta_cor1m": 8.56,
+    "catalizador": "PCE (28 may), NFP (5 jun), CPI (10 jun), FOMC (17 jun)",
+    "cierre_spx_previo": 7473,
+    "edicion": "semanal",
+    "idea_clave": "El mercado sigue fuerte en gamma positiva, pero el skew muestra demanda extrema de calls (98,4%) frente a puts muy baratas (2,4%), con posible squeeze hacia 7600 por encima de 7500 y cambio de régimen si pierde 7300",
+    "movimiento_implicito_pct": 1.35,
+    "rango_implicito": {
+      "alto": 7574,
+      "bajo": 7372
+    },
+    "regimen": "constructivo / gamma positiva",
+    "sesgo": "alcista mientras SPX > 7400; deterioro táctico < 7400; cambio de régimen < 7300",
+    "vix_actual": null,
+    "vix_cierre": 16.7,
+    "vvix_cierre": 91.2
+  },
+  "2026-05-26": {
+    "alerta_cor1m": 8.56,
+    "catalizador": "caída del crudo (-3% hacia 92$) y compresión de prima de riesgo",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "El SPX rompe por encima de 7.500 con VIX bajo 17; mientras consolide esa zona, el sesgo sigue siendo claramente constructivo.",
+    "movimiento_implicito_pct": 0.8,
+    "rango_implicito": {
+      "alto": 7588,
+      "bajo": 7468
+    },
+    "regimen": "alcista / gamma positiva",
+    "sesgo": "alcista",
+    "vix_actual": 17,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-05-27": {
+    "alerta_cor1m": 8.56,
+    "catalizador": "demanda de calls / bloque 30.000 calls en 7.500 / comportamiento VIX con spot en máximos",
+    "cierre_spx_previo": 7519,
+    "edicion": "diaria",
+    "idea_clave": "SPX en nuevos máximos con spot arriba y vol arriba; 7.500 es soporte táctico clave y 7.600 el objetivo superior",
+    "movimiento_implicito_pct": 0.45,
+    "rango_implicito": {
+      "alto": 7553,
+      "bajo": 7485
+    },
+    "regimen": "alcista / gamma positiva",
+    "sesgo": "alcista mientras SPX se mantenga por encima de 7.500 / 7.400",
+    "vix_actual": null,
+    "vix_cierre": 17,
+    "vvix_cierre": null
+  },
+  "2026-05-28": {
+    "alerta_cor1m": 8.56,
+    "catalizador": "volatilidad contenida + soporte de market makers + flujos vol control",
+    "cierre_spx_previo": 7520,
+    "edicion": "diaria",
+    "idea_clave": "El SPX opera dentro de una zona óptima de liquidez entre 7.500 y 7.600, donde la estructura sigue favoreciendo estabilidad y compras en caídas.",
+    "movimiento_implicito_pct": 0.5,
+    "rango_implicito": {
+      "alto": 7558,
+      "bajo": 7482
+    },
+    "regimen": "constructivo / gamma positiva",
+    "sesgo": "alcista / constructivo mientras SPX se mantenga por encima de 7.500",
+    "vix_actual": null,
+    "vix_cierre": 16.3,
+    "vvix_cierre": null
+  },
+  "2026-05-29": {
+    "alerta_cor1m": 8.0,
+    "catalizador": "test de Call Wall 7600 / compresión de volatilidad / COR1M en zona de alerta",
+    "cierre_spx_previo": 7564,
+    "edicion": "diaria",
+    "idea_clave": "el mercado sigue avanzando con volatilidad comprimida, pero el COR1M en 8 advierte de creciente complacencia en calls sobre acciones individuales; 7600 será la referencia clave para medir continuidad o agotamiento táctico",
+    "movimiento_implicito_pct": 0.47,
+    "rango_implicito": {
+      "alto": 7600,
+      "bajo": 7528
+    },
+    "regimen": "alcista / gamma positiva / compresión de volatilidad",
+    "sesgo": "alcista mientras SPX se mantenga por encima de 7400",
+    "vix_actual": null,
+    "vix_cierre": 15.73,
+    "vvix_cierre": 86.03
+  },
+  "2026-05-31": {
+    "alerta_cor1m": 6.33,
+    "catalizador": "NFP 5/06, IPC 10/06, FOMC 17/06, OPEX 18/06",
+    "cierre_spx_previo": 7580,
+    "edicion": "semanal",
+    "idea_clave": "El mercado sigue haciendo máximos con volatilidad comprimida, pero el COR1M en zona extrema (6,33) y la baja demanda de puts aconsejan no ignorar el riesgo de corrección",
+    "movimiento_implicito_pct": 1.2,
+    "rango_implicito": {
+      "alto": 7671,
+      "bajo": 7489
+    },
+    "regimen": "alcista con complacencia elevada",
+    "sesgo": "alcista mientras SPX se mantenga por encima de 7500",
+    "vix_actual": null,
+    "vix_cierre": 15.31,
+    "vvix_cierre": null
+  },
+  "2026-06-01": {
+    "alerta_cor1m": 6.33,
+    "catalizador": "NFP (viernes)",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "El SPX abre cerca de la Call Wall en 7600, pero el repunte simultáneo del VIX obliga a vigilar si la subida viene acompañada de cobertura o de demanda especulativa de opciones.",
+    "movimiento_implicito_pct": 0.45,
+    "rango_implicito": {
+      "alto": 7634,
+      "bajo": 7566
+    },
+    "regimen": "alcista con volatilidad repuntando",
+    "sesgo": "constructivo por encima de 7500 / 7430",
+    "vix_actual": 15.83,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-06-02": {
+    "alerta_cor1m": 6,
+    "catalizador": null,
+    "cierre_spx_previo": 7600,
+    "edicion": "diaria",
+    "idea_clave": "El mercado sigue haciendo máximos, pero el repunte simultáneo de volatilidad y la baja correlación (COR1M en 6) advierten de más riesgo bajo la superficie.",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Alcista, pero con señales de euforia",
+    "sesgo": "Alcista mientras SPX se mantenga por encima de 7500/7430",
+    "vix_actual": null,
+    "vix_cierre": 16,
+    "vvix_cierre": 92
+  },
+  "2026-06-03": {
+    "alerta_cor1m": 5.9,
+    "catalizador": "NFP el 05/06, IPC el 10/06, FOMC el 17/06, OPEX el 18/06",
+    "cierre_spx_previo": 7610,
+    "edicion": "diaria",
+    "idea_clave": "La tendencia sigue fuerte y la gamma positiva continúa apoyando al mercado, pero el COR1M en 5,9 y la extensión del rally invitan a gestionar el riesgo con más prudencia.",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "Gamma positiva / tendencia alcista",
+    "sesgo": "Alcista con cautela mientras SPX se mantenga sobre 7600",
+    "vix_actual": null,
+    "vix_cierre": 15.8,
+    "vvix_cierre": null
+  },
+  "2026-06-04": {
+    "alerta_cor1m": 5.9,
+    "catalizador": "Subida del petróleo (WTI) con presión sobre bonos e inflación",
+    "cierre_spx_previo": 7554,
+    "edicion": "diaria",
+    "idea_clave": "El mercado corrigió por petróleo y tipos pero la volatilidad no confirmó estrés; mientras 7.500 aguante, las caídas pueden encontrar compradores",
+    "movimiento_implicito_pct": 0.5,
+    "rango_implicito": {
+      "alto": 7568,
+      "bajo": 7492
+    },
+    "regimen": "Gamma moderadamente positiva con deterioro táctico",
+    "sesgo": "Neutral–constructivo mientras SPX se mantenga por encima de 7.500",
+    "vix_actual": 16.45,
+    "vix_cierre": 16.1,
+    "vvix_cierre": null
+  },
+  "2026-06-05": {
+    "alerta_cor1m": 5.9,
+    "catalizador": "NFP",
+    "cierre_spx_previo": 7584,
+    "edicion": "diaria",
+    "idea_clave": "el SPX rebotó desde el VT, pero el premarket vuelve a poner presión sobre el índice; la reacción al NFP decidirá si 7.500 aguanta o si aumenta el riesgo de ruptura",
+    "movimiento_implicito_pct": 0.65,
+    "rango_implicito": {
+      "alto": 7591,
+      "bajo": 7493
+    },
+    "regimen": "constructivo, pero vulnerable antes del NFP",
+    "sesgo": "neutral-constructivo mientras el SPX se mantenga por encima de 7.500",
+    "vix_actual": 15.82,
+    "vix_cierre": 15.4,
+    "vvix_cierre": 85.8
+  },
+  "2026-06-07": {
+    "alerta_cor1m": 5.9,
+    "catalizador": "IPC y reunión de la Reserva Federal",
+    "cierre_spx_previo": null,
+    "edicion": "semanal",
+    "idea_clave": "El exceso de calls se está deshaciendo y los dealers pueden amplificar los movimientos mientras el SPX permanezca en gamma negativa",
+    "movimiento_implicito_pct": 2.1,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "gamma ligeramente negativa / expansión de volatilidad",
+    "sesgo": "defensivo mientras el SPX permanezca por debajo de 7.400–7.475",
+    "vix_actual": null,
+    "vix_cierre": 21.5,
+    "vvix_cierre": 102.1
+  },
+  "2026-06-08": {
+    "alerta_cor1m": 5.9,
+    "catalizador": "IPC",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "El SPX rebota pero la IV sigue subiendo; mientras esa divergencia no se revierta, el movimiento alcista no está plenamente confirmado.",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "rebote dentro de gamma inestable",
+    "sesgo": "Neutral–constructivo por encima de 7.400, defensivo bajo 7.475",
+    "vix_actual": null,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-06-09": {
+    "alerta_cor1m": 5.9,
+    "catalizador": "IPC y posible salida a bolsa de SpaceX",
+    "cierre_spx_previo": 7406,
+    "edicion": "diaria",
+    "idea_clave": "El rebote continúa y el VIX se relaja, pero la volatilidad de corto plazo sigue elevada y mantiene al mercado vulnerable ante los próximos eventos",
+    "movimiento_implicito_pct": 0.7,
+    "rango_implicito": {
+      "alto": 7487,
+      "bajo": 7383
+    },
+    "regimen": "zona de transición, con el SPX justo sobre el G-Flip",
+    "sesgo": "Neutral–constructivo mientras el SPX se mantenga por encima de 7.400",
+    "vix_actual": 18.0,
+    "vix_cierre": 18.9,
+    "vvix_cierre": 92.4
+  },
+  "2026-06-10": {
+    "alerta_cor1m": 8.0,
+    "catalizador": "IPC",
+    "cierre_spx_previo": 7387,
+    "edicion": "diaria",
+    "idea_clave": "La volatilidad ya no está concentrada solo en los vencimientos inmediatos; el aumento de prima en plazos más largos indica una preocupación más persistente",
+    "movimiento_implicito_pct": 0.9,
+    "rango_implicito": {
+      "alto": 7453,
+      "bajo": 7321
+    },
+    "regimen": "frágil / gamma inestable",
+    "sesgo": "defensivo mientras el SPX se mantenga por debajo de 7.430",
+    "vix_actual": null,
+    "vix_cierre": 19.9,
+    "vvix_cierre": 95.8
+  },
+  "2026-06-11": {
+    "alerta_cor1m": null,
+    "catalizador": "tensiones geopolíticas con Irán, repunte del crudo, SpaceX IPO y FOMC",
+    "cierre_spx_previo": 7266,
+    "edicion": "diaria",
+    "idea_clave": "mientras el SPX no recupere 7.300, el mercado sigue vulnerable a nuevos episodios de volatilidad",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "frágil / gamma negativa bajo 7.300",
+    "sesgo": "defensivo",
+    "vix_actual": null,
+    "vix_cierre": 22.22,
+    "vvix_cierre": 108.2
+  },
+  "2026-06-12": {
+    "alerta_cor1m": null,
+    "catalizador": "FOMC el 17/06 y OPEX el 18/06",
+    "cierre_spx_previo": 7394,
+    "edicion": "diaria",
+    "idea_clave": "el rebote viene acompañado de caída de volatilidad, lo que mejora la calidad del movimiento, pero el SPX aún necesita recuperar el Volatility Trigger en 7425 para confirmar una estructura más estable",
+    "movimiento_implicito_pct": 0.9,
+    "rango_implicito": {
+      "alto": 7492,
+      "bajo": 7358
+    },
+    "regimen": "mejorando, pero todavía en zona de transición",
+    "sesgo": "neutral-constructivo mientras SPX se mantenga por encima de 7400, con mejora clara por encima de 7425",
+    "vix_actual": null,
+    "vix_cierre": 19.4,
+    "vvix_cierre": 100.0
+  },
+  "2026-06-14": {
+    "alerta_cor1m": null,
+    "catalizador": "FOMC, vencimiento del VIX, OPEX de junio y Juneteenth",
+    "cierre_spx_previo": 7432,
+    "edicion": "semanal",
+    "idea_clave": "La caída de volatilidad está dando soporte al mercado vía desarme de coberturas, pero la semana concentra varios eventos capaces de cambiar rápidamente el posicionamiento",
+    "movimiento_implicito_pct": 1.6,
+    "rango_implicito": {
+      "alto": 7551,
+      "bajo": 7313
+    },
+    "regimen": "mejorando, pero todavía sensible a eventos",
+    "sesgo": "constructivo mientras el SPX se mantenga por encima de 7400 / 7430",
+    "vix_actual": null,
+    "vix_cierre": 17.7,
+    "vvix_cierre": 94
+  },
+  "2026-06-15": {
+    "alerta_cor1m": null,
+    "catalizador": "confirmación acuerdo de paz EE. UU.–Irán (firma el 19 de junio); caída del WTI ~5%",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "el SPX rompe por encima de la Call Wall en 7500 gracias a la reducción de prima geopolítica, pero la IV corta al alza indica que el mercado sigue pagando por movimiento antes de la Fed",
+    "movimiento_implicito_pct": 1.2,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "mejora clara del apetito por riesgo",
+    "sesgo": "constructivo mientras el SPX se mantenga por encima de 7500 / 7430",
+    "vix_actual": 17,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-06-16": {
+    "alerta_cor1m": 8.0,
+    "catalizador": "Fed (FOMC), vencimiento del VIX y OPEX trimestral",
+    "cierre_spx_previo": 7554,
+    "edicion": "diaria",
+    "idea_clave": "El alivio geopolítico ha comprimido la prima de riesgo, pero los vencimientos de esta semana pueden liberar al SPX y al VIX de parte del anclaje actual; 7.600 es el nivel clave de validación alcista.",
+    "movimiento_implicito_pct": 1.1,
+    "rango_implicito": {
+      "alto": 7637,
+      "bajo": 7471
+    },
+    "regimen": "constructivo, con apetito por riesgo renovado",
+    "sesgo": "constructivo mientras el SPX se mantenga por encima de 7.430",
+    "vix_actual": null,
+    "vix_cierre": 16.2,
+    "vvix_cierre": null
+  },
+  "2026-06-17": {
+    "alerta_cor1m": null,
+    "catalizador": "FOMC + vencimiento del VIX",
+    "cierre_spx_previo": 7511,
+    "edicion": "diaria",
+    "idea_clave": "El mercado llega a la Fed con volatilidad contenida, pero parte de esa calma puede estar distorsionada por la mecánica del vencimiento del VIX; 7.500 es el pivote clave del día",
+    "movimiento_implicito_pct": 0.65,
+    "rango_implicito": {
+      "alto": 7560,
+      "bajo": 7462
+    },
+    "regimen": "constructivo pero vulnerable bajo 7.500",
+    "sesgo": "neutral-constructivo por encima de 7.500, más vulnerable por debajo",
+    "vix_actual": null,
+    "vix_cierre": 16.4,
+    "vvix_cierre": 87.7
+  },
+  "2026-06-18": {
+    "alerta_cor1m": null,
+    "catalizador": "OPEX",
+    "cierre_spx_previo": 7420,
+    "edicion": "diaria",
+    "idea_clave": "El SPX cerró claramente por debajo de 7.500, justo cuando sube la volatilidad y vence una parte importante de la gamma acumulada, dejando al mercado más vulnerable a movimientos amplios",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "frágil / por debajo del G-Flip",
+    "sesgo": "Defensivo mientras el SPX permanezca por debajo de 7.500",
+    "vix_actual": null,
+    "vix_cierre": 18.4,
+    "vvix_cierre": 94.5
+  },
+  "2026-06-21": {
+    "alerta_cor1m": null,
+    "catalizador": "acuerdo EE. UU.–Irán para reabrir el Estrecho de Ormuz",
+    "cierre_spx_previo": null,
+    "edicion": "semanal",
+    "idea_clave": "la compresión de volatilidad y la caída del petróleo apoyan el rebote, pero el periodo post-OPEX puede dejar al SPX con más libertad para moverse",
+    "movimiento_implicito_pct": 1.5,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "constructivo, pero todavía dependiente de la confirmación geopolítica",
+    "sesgo": "constructivo mientras el SPX se mantenga por encima de 7.500",
+    "vix_actual": null,
+    "vix_cierre": 16.4,
+    "vvix_cierre": 88.4
+  },
+  "2026-06-22": {
+    "alerta_cor1m": null,
+    "catalizador": "rebalanceo de final de trimestre (post-OPEX)",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "Tras OPEX, parte de la gamma positiva ha desaparecido; 7.500 es el pivote central y su recuperación o pérdida define el tono de la semana",
+    "movimiento_implicito_pct": 0.5,
+    "rango_implicito": {
+      "alto": 7530,
+      "bajo": 7456
+    },
+    "regimen": "frágil / zona de transición",
+    "sesgo": "Neutral–defensivo mientras el SPX permanezca por debajo de 7.500",
+    "vix_actual": 17,
+    "vix_cierre": null,
+    "vvix_cierre": null
+  },
+  "2026-06-23": {
+    "alerta_cor1m": 6.55,
+    "catalizador": "OPEX junio + temor Fed más agresiva + PCE el 25/6",
+    "cierre_spx_previo": 7473,
+    "edicion": "diaria",
+    "idea_clave": "El mercado ha pasado de complacencia a sensibilidad elevada; con el SPX bajo 7.500 y el VIX cerca de 20, aumenta el riesgo de movimientos amplificados post-OPEX.",
+    "movimiento_implicito_pct": null,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "frágil / deterioro post-OPEX",
+    "sesgo": "Defensivo mientras el SPX permanezca por debajo de 7.500",
+    "vix_actual": 20.0,
+    "vix_cierre": 17.3,
+    "vvix_cierre": 91.7
+  },
+  "2026-06-24": {
+    "alerta_cor1m": 6.55,
+    "catalizador": "Micron + PCE",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "El mercado necesita estabilización en tecnología y catalizadores positivos; mientras el SPX no recupere 7400, seguirá vulnerable a nuevos tramos bajistas.",
+    "movimiento_implicito_pct": 0.7,
+    "rango_implicito": {
+      "alto": null,
+      "bajo": null
+    },
+    "regimen": "frágil / volatilidad en expansión",
+    "sesgo": "defensivo mientras el SPX permanezca por debajo de 7400 / 7460",
+    "vix_actual": null,
+    "vix_cierre": 19.5,
+    "vvix_cierre": 99.5
+  },
+  "2026-06-25": {
+    "alerta_cor1m": 6.55,
+    "catalizador": "PCE + resultados Micron",
+    "cierre_spx_previo": 7358,
+    "edicion": "diaria",
+    "idea_clave": "La caída de volatilidad y los buenos resultados de Micron han estabilizado el sentimiento, pero el mercado necesita un PCE benigno para validar el rebote hacia 7.500",
+    "movimiento_implicito_pct": 1.0,
+    "rango_implicito": {
+      "alto": 7494,
+      "bajo": 7346
+    },
+    "regimen": "Mejorando, pero todavía en zona de transición",
+    "sesgo": "Neutral–constructivo mientras el SPX se mantenga por encima de 7.400, con mejora clara por encima de 7.450",
+    "vix_actual": 18.0,
+    "vix_cierre": 18.6,
+    "vvix_cierre": 95.6
+  },
+  "2026-06-26": {
+    "alerta_cor1m": 6.55,
+    "catalizador": "rebalanceo de final de trimestre",
+    "cierre_spx_previo": 7358,
+    "edicion": "diaria",
+    "idea_clave": "mientras el SPX no recupere 7.400, la zona de 7.300 sigue siendo la defensa principal",
+    "movimiento_implicito_pct": 0.75,
+    "rango_implicito": {
+      "alto": 7395,
+      "bajo": 7285
+    },
+    "regimen": "táctico / frágil bajo 7.400",
+    "sesgo": "defensivo / táctico mientras el SPX permanezca por debajo de 7.400",
+    "vix_actual": 19.6,
+    "vix_cierre": 18.9,
+    "vvix_cierre": 91.2
+  }
+}
