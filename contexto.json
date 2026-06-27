@@ -225,7 +225,7 @@
     "catalizador": "FOMC + Vencimiento VIX",
     "cierre_spx_previo": 6716,
     "edicion": "diaria",
-    "idea_clave": "Volatilidad en compresión con SPX atacando el Volatility Trigger en 6800; clave confirmar ruptura para mayor estabilidad",
+    "idea_clave": "Volatilidad en compresión y SPX atacando el Volatility Trigger en 6800; recuperar ese nivel es clave para mayor estabilidad",
     "movimiento_implicito_pct": 0.9,
     "rango_implicito": {
       "alto": null,
