@@ -30,8 +30,8 @@ fecha,tipo,etiqueta,valor
 2026-03-09,volatility_trigger,Volatility Trigger,6850
 2026-03-09,call_wall,Call Wall,7000
 2026-03-09,put_wall,Put Wall,6700
-2026-03-09,soporte,Media 200 sesiones spot,6580
-2026-03-09,soporte,Soporte 0DTE zona corto plazo,6600
+2026-03-09,soporte,Media 200 sesiones,6580
+2026-03-09,soporte,Soporte 0DTE,6600
 2026-03-10,gflip,G-Flip,6850
 2026-03-10,volatility_trigger,Volatility Trigger,6800
 2026-03-10,call_wall,Call Wall,7000
