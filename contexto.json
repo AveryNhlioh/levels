@@ -154,16 +154,16 @@
   },
   "2026-03-13": {
     "alerta_cor1m": null,
-    "catalizador": "PCE (13 mar), FOMC (18 mar), OPEX marzo (20 mar)",
+    "catalizador": "PCE (13 mar), FOMC + vencimiento VIX (18 mar), OPEX marzo triple hora bruja (20 mar)",
     "cierre_spx_previo": 6673,
     "edicion": "diaria",
-    "idea_clave": "SPX por debajo de su Put Wall en 6700 con volatilidad en repunte; presión bajista latente con posible visita a 6600.",
+    "idea_clave": "SPX cerró por debajo de su Put Wall en 6700 con VIX repuntando; presión bajista persiste y riesgo de visita a 6600 si continúa la debilidad.",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Gamma negativa",
+    "regimen": "gamma negativa",
     "sesgo": "bajista",
     "vix_actual": null,
     "vix_cierre": 27.28,
