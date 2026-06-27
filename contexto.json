@@ -1106,17 +1106,17 @@
   },
   "2026-05-19": {
     "alerta_cor1m": 8.56,
-    "catalizador": "Vencimiento VIX + resultados NVDA",
+    "catalizador": "Vencimiento VIX + resultados de NVDA",
     "cierre_spx_previo": 7403,
     "edicion": "diaria",
-    "idea_clave": "El SPX sigue estable en superficie, pero la IV de corto plazo está subiendo con fuerza antes de Nvidia; 7.400 es el nivel táctico y 7.325/7.330 el soporte-imán 0DTE",
+    "idea_clave": "El SPX sigue estable en superficie, pero la IV de corto plazo está subiendo con fuerza antes de Nvidia; 7.400 es el nivel táctico y 7.325/7.330 es la zona intradía clave por flujo 0DTE.",
     "movimiento_implicito_pct": 0.7,
     "rango_implicito": {
       "alto": 7432,
       "bajo": 7328
     },
     "regimen": "neutral–constructivo, pero con volatilidad corta bid",
-    "sesgo": "constructivo mientras SPX mantenga 7.380–7.400",
+    "sesgo": "constructivo mientras el SPX mantenga la zona 7.380–7.400",
     "vix_actual": 18.0,
     "vix_cierre": 17.87,
     "vvix_cierre": 90.85
