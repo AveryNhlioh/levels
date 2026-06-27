@@ -973,17 +973,17 @@
     "catalizador": "OPEX de mayo (15/5) y resultados de NVDA (20/5)",
     "cierre_spx_previo": 7399,
     "edicion": "semanal",
-    "idea_clave": "El rally sigue vivo con el SPX justo bajo la Call Wall de 7.400, pero el repunte del VVIX a 97 advierte que parte del mercado empieza a pagar protección ante un posible rebote futuro del VIX",
+    "idea_clave": "El rally sigue vivo apoyado por vanna y venta de IV corta, pero el repunte del VVIX a 97 advierte que parte del mercado empieza a comprar protección ante un posible rebote futuro del VIX",
     "movimiento_implicito_pct": 1.35,
     "rango_implicito": {
       "alto": 7500,
       "bajo": 7300
     },
     "regimen": "alcista con señales mixtas en volatilidad",
-    "sesgo": "alcista mientras SPX se mantenga por encima de 7.200",
+    "sesgo": "alcista mientras el SPX se mantenga por encima de 7.200",
     "vix_actual": null,
-    "vix_cierre": 17,
-    "vvix_cierre": 97
+    "vix_cierre": 17.0,
+    "vvix_cierre": 97.0
   },
   "2026-05-11": {
     "alerta_cor1m": null,
