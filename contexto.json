@@ -188,17 +188,17 @@
   },
   "2026-03-16": {
     "alerta_cor1m": null,
-    "catalizador": "Fed (FOMC 18 mar), GTC NVDA, vencimiento VIX 18 mar, Triple Witching OPEX 20 mar",
+    "catalizador": "Fed (FOMC 18 mar), GTC NVIDIA, vencimiento VIX 18 mar, Triple Witching OPEX 20 mar",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "SPX rebota en la SMA 200 con semana cargada de catalizadores; recuperar 6900 es clave para mayor estabilidad, con riesgo de ruptura bajo 6800",
+    "idea_clave": "SPX rebota en SMA 200 con semana cargada de catalizadores; recuperar 6900 sería clave para mayor estabilidad, pero la ruptura de 6800 sigue en aumento de probabilidad",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": null,
-    "sesgo": "fragilidad latente, mercado sobrevendido en zona tecnica clave (SMA 200)",
+    "sesgo": "bajista con posible rebote técnico en SMA 200; fragilidad latente",
     "vix_actual": 26,
     "vix_cierre": null,
     "vvix_cierre": null
