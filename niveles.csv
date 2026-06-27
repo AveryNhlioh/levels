@@ -145,7 +145,6 @@ fecha,tipo,etiqueta,valor
 2026-04-01,put_wall,Put Wall,6300
 2026-04-01,resistencia,Media 200 sesiones,6640
 2026-04-01,resistencia,Mejora de gamma,6600
-2026-04-01,objetivo,Consolidación estabilidad,6700
 2026-04-02,gflip,G-Flip,6600
 2026-04-02,volatility_trigger,Volatility Trigger,6600
 2026-04-02,call_wall,Call Wall,7000
