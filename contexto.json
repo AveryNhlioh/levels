@@ -990,14 +990,14 @@
     "catalizador": "OPEX mensual",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "El mercado sigue apoyado por flujos de opciones, pero aparecen señales de complacencia y cobertura en volatilidad; clave romper 7400 para gamma squeeze",
+    "idea_clave": "El mercado sigue apoyado por flujos de opciones, pero aparecen señales de complacencia y cobertura en volatilidad; clave inmediata en 7.400 como Call Wall con riesgo de gamma squeeze",
     "movimiento_implicito_pct": 0.45,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "alcista, pero con amplitud más estrecha",
-    "sesgo": "alcista mientras el SPX se mantenga por encima de 7.300",
+    "regimen": "Alcista, pero con amplitud más estrecha y liderazgo concentrado en mega caps",
+    "sesgo": "Alcista mientras el SPX se mantenga por encima de 7.300",
     "vix_actual": null,
     "vix_cierre": null,
     "vvix_cierre": null
