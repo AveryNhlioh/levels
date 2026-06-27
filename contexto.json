@@ -1480,11 +1480,11 @@
   },
   "2026-06-15": {
     "alerta_cor1m": null,
-    "catalizador": "confirmación acuerdo de paz EE. UU.–Irán (firma el 19 de junio); caída del WTI ~5%",
+    "catalizador": "Confirmación acuerdo de paz EE. UU.–Irán (firma el 19 de junio); caída del WTI ~5% hacia 80 dólares",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "el SPX rompe por encima de la Call Wall en 7500 gracias a la reducción de prima geopolítica, pero la IV corta al alza indica que el mercado sigue pagando por movimiento antes de la Fed",
-    "movimiento_implicito_pct": 1.2,
+    "idea_clave": "La confirmación del acuerdo EE. UU.–Irán comprime la prima geopolítica y empuja al SPX por encima de la Call Wall en 7500, pero la IV corta sube sugiriendo que el mercado sigue pagando por movimiento antes de la Fed",
+    "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
