@@ -511,20 +511,20 @@
   },
   "2026-04-08": {
     "alerta_cor1m": null,
-    "catalizador": "Alto el fuego EE.UU.-Irán + reapertura Estrecho de Ormuz; PCE (9/4) e IPC (10/4) próximos",
+    "catalizador": "Alto el fuego temporal EE.UU.-Irán / reapertura Estrecho de Ormuz; PCE (9/4) e IPC (10/4)",
     "cierre_spx_previo": 6617,
     "edicion": "diaria",
-    "idea_clave": "Descompresión agresiva del riesgo con SPX en fuerte rebote y VIX en caída vertical; zona 6800 como resistencia clave de gamma positiva",
+    "idea_clave": "Fuerte descompresión del riesgo: futuros SPX +2,58% hasta ~6790 y VIX cae -21,2% hasta 20,50; la zona 6800 actúa como resistencia de gamma positiva, mientras la consolidación por encima de 6650 es clave para mayor estabilidad.",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Gamma positiva con impulso alcista y compresión de volatilidad",
-    "sesgo": "Alcista / eufórico",
+    "regimen": "Precaución",
+    "sesgo": "alcista / eufórico con descompresión de volatilidad",
     "vix_actual": 20.5,
-    "vix_cierre": 26,
-    "vvix_cierre": 118
+    "vix_cierre": 26.0,
+    "vvix_cierre": 118.0
   },
   "2026-04-09": {
     "alerta_cor1m": null,
