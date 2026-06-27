@@ -1582,17 +1582,17 @@
   },
   "2026-06-23": {
     "alerta_cor1m": 6.55,
-    "catalizador": "OPEX junio + temor Fed más agresiva + PCE el 25/6",
+    "catalizador": "OPEX de junio + temor a Fed más agresiva + PCE (25/6)",
     "cierre_spx_previo": 7473,
     "edicion": "diaria",
-    "idea_clave": "El mercado ha pasado de complacencia a sensibilidad elevada; con el SPX bajo 7.500 y el VIX cerca de 20, aumenta el riesgo de movimientos amplificados post-OPEX.",
+    "idea_clave": "El mercado ha pasado de complacencia a sensibilidad elevada; con el SPX bajo 7.500 y el VIX repuntando, aumenta el riesgo de movimientos amplificados",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "frágil / deterioro post-OPEX",
-    "sesgo": "Defensivo mientras el SPX permanezca por debajo de 7.500",
+    "sesgo": "defensivo mientras el SPX permanezca por debajo de 7.500",
     "vix_actual": 20.0,
     "vix_cierre": 17.3,
     "vvix_cierre": 91.7
