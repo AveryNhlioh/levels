@@ -157,12 +157,12 @@ fecha,tipo,etiqueta,valor
 2026-04-04,volatility_trigger,Volatility Trigger,6600
 2026-04-04,call_wall,Call Wall,6700
 2026-04-04,put_wall,Put Wall,6400
-2026-04-04,resistencia,Consolidación clave alcista,6650
-2026-04-04,soporte,Soporte gamma intermedio,6500
+2026-04-04,resistencia,Resistencia consolidación,6650
+2026-04-04,soporte,Soporte gamma clave,6500
 2026-04-04,soporte,Soporte relevante profundo,6180
 2026-04-04,soporte,Soporte secundario,6400
 2026-04-04,soporte,Soporte secundario,6300
-2026-04-04,objetivo,Nivel CTA cobertura cortos,6735
+2026-04-04,objetivo,Nivel CTA squeeze,6735
 2026-04-06,gflip,G-Flip,6600
 2026-04-06,volatility_trigger,Volatility Trigger,6550
 2026-04-06,call_wall,Call Wall,6700
