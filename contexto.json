@@ -1100,7 +1100,7 @@
     },
     "regimen": "constructivo en tendencia, pero defensivo en el corto plazo",
     "sesgo": "neutral / defensivo mientras el SPX esté por debajo de 7.400",
-    "vix_actual": 19,
+    "vix_actual": 19.0,
     "vix_cierre": null,
     "vvix_cierre": null
   },
