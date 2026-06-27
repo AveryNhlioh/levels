@@ -1378,17 +1378,17 @@
   },
   "2026-06-08": {
     "alerta_cor1m": 5.9,
-    "catalizador": "IPC",
+    "catalizador": "IPC (10/06)",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "El SPX rebota pero la IV sigue subiendo; mientras esa divergencia no se revierta, el movimiento alcista no está plenamente confirmado.",
+    "idea_clave": "El SPX rebota pero la IV sigue subiendo; mientras esa divergencia no se revierta, el movimiento alcista no está plenamente confirmado",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "rebote dentro de gamma inestable",
-    "sesgo": "Neutral–constructivo por encima de 7.400, defensivo bajo 7.475",
+    "sesgo": "Neutral–constructivo por encima de 7400, defensivo bajo 7475",
     "vix_actual": null,
     "vix_cierre": null,
     "vvix_cierre": null
