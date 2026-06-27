@@ -69,17 +69,17 @@
   },
   "2026-03-07": {
     "alerta_cor1m": null,
-    "catalizador": "IPC 11 de marzo + reunión FOMC 18 de marzo",
+    "catalizador": "IPC 11 marzo + FOMC 18 marzo + tensión geopolítica",
     "cierre_spx_previo": 6740,
     "edicion": "semanal",
-    "idea_clave": "El SPX rompe rango y se acerca a la Put Wall en 6700; recuperar 6900 es clave para restablecer estabilidad",
+    "idea_clave": "El SPX rompe rango y cierra cerca de la Put Wall 6700 con VIX en 29,48; la recuperación de 6900 es clave para restablecer estabilidad.",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Ruptura de rango con volatilidad al alza, curva VIX en backwardation",
-    "sesgo": "Bajista / precaución; soporte clave en Put Wall 6700",
+    "regimen": "negativo / backwardation en VIX / ruptura de rango",
+    "sesgo": "bajista con posible rebote si VIX3M/VIX vuelve por encima de 1",
     "vix_actual": null,
     "vix_cierre": 29.48,
     "vvix_cierre": 140.23
