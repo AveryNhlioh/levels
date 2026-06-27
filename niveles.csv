@@ -321,8 +321,8 @@ fecha,tipo,etiqueta,valor
 2026-04-30,volatility_trigger,Volatility Trigger,7100
 2026-04-30,call_wall,Call Wall,7200
 2026-04-30,put_wall,Put Wall,6800
-2026-04-30,resistencia,Resistencia 7.180,7180
-2026-04-30,soporte,Soporte 7.000,7000
+2026-04-30,resistencia,Resistencia 7180,7180
+2026-04-30,soporte,Soporte 7000,7000
 2026-05-01,gflip,G-Flip,7075
 2026-05-01,volatility_trigger,Volatility Trigger,7100
 2026-05-01,call_wall,Call Wall,7300
