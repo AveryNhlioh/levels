@@ -103,17 +103,17 @@
   },
   "2026-03-10": {
     "alerta_cor1m": null,
-    "catalizador": "IPC (11-mar), PCE (13-mar), FOMC (18-mar), GTC Nvidia (16-19 mar), riesgo geopolítico Irán",
+    "catalizador": "IPC (11-mar), PCE (13-mar), FOMC (18-mar), GTC Nvidia (16-19-mar), riesgo geopolítico Irán",
     "cierre_spx_previo": 6796,
     "edicion": "diaria",
-    "idea_clave": "El SPX revirtió pérdidas con características de short squeeze, pero la volatilidad sigue elevada y cada rebote podría ser aprovechado para vender riesgo; consolidar sobre 6900 es clave para mayor estabilidad",
+    "idea_clave": "Rebote táctico por posible desescalada con Irán, pero volatilidad aún elevada y ruptura de 6800 en aumento de probabilidad",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": null,
-    "sesgo": "fragilidad latente; rebotes probablemente aprovechados para vender riesgo",
+    "regimen": "volatilidad elevada con rebote táctico",
+    "sesgo": "frágil alcista intradía; riesgo de ruptura bajista latente",
     "vix_actual": 24.0,
     "vix_cierre": 25.51,
     "vvix_cierre": 122.6
