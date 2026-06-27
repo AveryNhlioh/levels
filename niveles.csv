@@ -71,6 +71,7 @@ fecha,tipo,etiqueta,valor
 2026-03-17,volatility_trigger,Volatility Trigger,6800
 2026-03-17,call_wall,Call Wall,7000
 2026-03-17,put_wall,Put Wall,6600
+2026-03-17,resistencia,Resistencia clave para estabilidad,6900
 2026-03-18,gflip,G-Flip,6800
 2026-03-18,volatility_trigger,Volatility Trigger,6800
 2026-03-18,call_wall,Call Wall,7000
