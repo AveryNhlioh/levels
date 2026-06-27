@@ -616,17 +616,17 @@
     "catalizador": "Vencimiento del VIX (15 abril), OPEX (17 abril)",
     "cierre_spx_previo": 6967,
     "edicion": "diaria",
-    "idea_clave": "SPX cerca de la Call Wall en 7000 tras short squeeze; vencimiento del VIX abre ventana de mayor volatilidad potencial",
+    "idea_clave": "El SPX cerró cerca de máximos impulsado por short squeeze en opciones y gamma; con la Call Wall en 7000 muy próxima y el vencimiento del VIX, el avance puede perder inercia y la volatilidad reactivarse",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Gamma elevada, short squeeze en opciones, dealers en gamma larga cerca de Call Wall",
-    "sesgo": "Precaución: posible consolidación cerca de máximos, volatilidad puede reactivarse tras vencimiento VIX",
+    "regimen": "Elevada gamma implícita de dealers; entorno de alta sensibilidad a flujos",
+    "sesgo": "Alcista con posible pausa/consolidación en niveles clave",
     "vix_actual": null,
-    "vix_cierre": 18.0,
-    "vvix_cierre": 95.0
+    "vix_cierre": 18,
+    "vvix_cierre": 95
   },
   "2026-04-16": {
     "alerta_cor1m": null,
