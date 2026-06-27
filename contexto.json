@@ -718,14 +718,14 @@
     "catalizador": "Tensión geopolítica EE.UU.-Irán + earnings TSLA",
     "cierre_spx_previo": 7064,
     "edicion": "diaria",
-    "idea_clave": "El mercado está sostenido por flujos estructurales (dealers, CTAs, vol control) pese al ruido macro geopolítico; clave en 7000-7050",
+    "idea_clave": "El mercado está sostenido por flujos estructurales (dealers, CTAs, vol control) pese al ruido macro geopolítico; la clave está en 7.000-7.050",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "Gamma positivo",
-    "sesgo": "Neutral-alcista mientras por encima de 7050",
+    "sesgo": "Neutral-alcista mientras > 7.050",
     "vix_actual": 19.0,
     "vix_cierre": 19.5,
     "vvix_cierre": 101.9
