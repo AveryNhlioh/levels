@@ -324,17 +324,17 @@
   },
   "2026-03-25": {
     "alerta_cor1m": null,
-    "catalizador": "Tensiones geopolíticas Oriente Medio (Irán), repunte del petróleo, aumento de rendimientos de bonos; OPEX fin de trimestre + Collar JPM el 31 de marzo",
+    "catalizador": "Tensiones geopolíticas Oriente Medio, repunte petróleo, alza rendimientos bonos; rebote en apertura con WTI retrocediendo",
     "cierre_spx_previo": 6556,
     "edicion": "diaria",
-    "idea_clave": "El posicionamiento de gamma favorece movimientos amplificados; recuperar 6.800 sería clave para mayor estabilidad",
+    "idea_clave": "El posicionamiento en gamma favorece movimientos amplificados; si el rebote se sostiene por encima de 6600 los dealers recompran futuros generando un rally más violento de lo habitual",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Gamma mixta con fragilidad latente; por debajo del G-Flip/Volatility Trigger",
-    "sesgo": "Neutral con sesgo alcista intradía condicionado al flujo de noticias; riesgo de movimientos amplificados en ambos sentidos",
+    "regimen": null,
+    "sesgo": "alcista condicionado a flujo de noticias; mecánica de gamma favorece movimientos amplificados al alza si se sostiene el rebote",
     "vix_actual": null,
     "vix_cierre": 16.94,
     "vvix_cierre": 124.14
