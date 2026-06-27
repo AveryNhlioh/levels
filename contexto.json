@@ -698,17 +698,17 @@
   },
   "2026-04-21": {
     "alerta_cor1m": null,
-    "catalizador": "Tensión geopolítica (negociaciones EE.UU.-Irán vía Pakistán); FOMC 29/04; earnings TSLA, IBM, INTC",
+    "catalizador": "Tensión geopolítica (negociaciones EE. UU. - Irán vía Pakistán), FOMC 29 de abril, earnings TSLA/IBM/INTC",
     "cierre_spx_previo": 7109,
     "edicion": "diaria",
-    "idea_clave": "Mercado en fase de transición dominado por geopolítica: 7.175 es resistencia clave al alza y 7.000 el nivel de riesgo crítico a la baja",
+    "idea_clave": "Mercado en transición dominado por geopolítica: 7175 es resistencia clave por concentración de calls dealers y 7000 es el nivel de riesgo crítico; por debajo, volatilidad se amplifica hacia 6800.",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Precaución",
-    "sesgo": "Volatilidad elevada, modo espera geopolítico; dealers compradores en caídas",
+    "regimen": "Volatilidad elevada, modo espera geopolítico",
+    "sesgo": "Precaución",
     "vix_actual": null,
     "vix_cierre": 18.86,
     "vvix_cierre": 98.29
