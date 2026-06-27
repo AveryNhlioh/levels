@@ -1364,7 +1364,7 @@
     "catalizador": "IPC y reunión de la Reserva Federal",
     "cierre_spx_previo": null,
     "edicion": "semanal",
-    "idea_clave": "El exceso de calls se está deshaciendo y los dealers pueden amplificar los movimientos mientras el SPX permanezca en gamma negativa",
+    "idea_clave": "el exceso de calls se está deshaciendo y los dealers pueden amplificar los movimientos mientras el SPX permanezca en gamma negativa",
     "movimiento_implicito_pct": 2.1,
     "rango_implicito": {
       "alto": null,
