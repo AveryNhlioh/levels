@@ -868,10 +868,10 @@
   },
   "2026-05-03": {
     "alerta_cor1m": null,
-    "catalizador": "Nuevos máximos SPX y Nasdaq, OPEX mayo, IPC 11 mayo, resultados NVDA 20 mayo",
+    "catalizador": "Nuevos máximos históricos SPX y Nasdaq; OPEX mayo; IPC 11 mayo; resultados NVDA 20 mayo",
     "cierre_spx_previo": 7230,
     "edicion": "semanal",
-    "idea_clave": "Mercado en máximos con volatilidad contenida y estructura alcista intacta; zona 7300-7350 clave: puede frenar el movimiento o acelerar por squeeze de cobertura de dealers",
+    "idea_clave": "Mercado en máximos con estructura alcista intacta; Call Wall en 7300 es resistencia principal y por encima de 7350 puede activarse squeeze por cobertura de dealers",
     "movimiento_implicito_pct": 1.35,
     "rango_implicito": {
       "alto": 7328,
@@ -880,8 +880,8 @@
     "regimen": "alcista, cerca de zona de resistencia",
     "sesgo": "alcista mientras SPX > 7200",
     "vix_actual": null,
-    "vix_cierre": 17,
-    "vvix_cierre": 95
+    "vix_cierre": 17.0,
+    "vvix_cierre": 95.0
   },
   "2026-05-04": {
     "alerta_cor1m": null,
