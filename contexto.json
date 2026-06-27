@@ -939,7 +939,7 @@
     "catalizador": "posible acercamiento EE. UU.–Irán, crudo < 100 dólares, IA y OPEX del 15 de mayo",
     "cierre_spx_previo": 7365,
     "edicion": "diaria",
-    "idea_clave": "el mercado ya no solo sube por menor riesgo macro; la estructura de dealers puede amplificar la subida si el SPX sigue avanzando por encima de 7.400/7.450 (gamma squeeze)",
+    "idea_clave": "el mercado no solo sube por menor riesgo macro; la estructura de dealers puede amplificar la subida con riesgo de gamma squeeze si el SPX supera 7400/7450",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
@@ -948,8 +948,8 @@
     "regimen": "alcista / momentum con soporte de flujos",
     "sesgo": "alcista mientras el SPX se mantenga por encima de 7.200",
     "vix_actual": null,
-    "vix_cierre": 17,
-    "vvix_cierre": 94
+    "vix_cierre": 17.0,
+    "vvix_cierre": 94.0
   },
   "2026-05-08": {
     "alerta_cor1m": null,
