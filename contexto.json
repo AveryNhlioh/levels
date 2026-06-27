@@ -1429,17 +1429,17 @@
   },
   "2026-06-11": {
     "alerta_cor1m": null,
-    "catalizador": "tensiones geopolíticas con Irán, repunte del crudo, SpaceX IPO y FOMC",
+    "catalizador": "Irán, petróleo, SpaceX IPO y Reserva Federal",
     "cierre_spx_previo": 7266,
     "edicion": "diaria",
-    "idea_clave": "mientras el SPX no recupere 7.300, el mercado sigue vulnerable a nuevos episodios de volatilidad",
+    "idea_clave": "Mientras el SPX no recupere 7.300, el mercado sigue vulnerable a nuevos episodios de volatilidad",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "frágil / gamma negativa bajo 7.300",
-    "sesgo": "defensivo",
+    "sesgo": "defensivo mientras el SPX se mantenga por debajo de 7.300",
     "vix_actual": null,
     "vix_cierre": 22.22,
     "vvix_cierre": 108.2
