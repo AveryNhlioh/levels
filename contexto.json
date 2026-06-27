@@ -239,10 +239,10 @@
   },
   "2026-03-19": {
     "alerta_cor1m": null,
-    "catalizador": "OPEX de marzo (triple hora bruja) el 20 de marzo + vencimiento VIX de marzo",
+    "catalizador": "OPEX de marzo (triple hora bruja) el 20 de marzo; vencimiento VIX de marzo",
     "cierre_spx_previo": 6625,
     "edicion": "diaria",
-    "idea_clave": "SPX en gamma negativo sobre soporte clave 6500-6475, con volatilidad en expansión y flujos vendedores; la clave es si la volatilidad se comprime o entra en fase sostenida.",
+    "idea_clave": "SPX en gamma negativo con volatilidad en expansión tras VIX expiration; zona crítica de soporte en 6500-6475",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
