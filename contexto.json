@@ -55,14 +55,14 @@
     "catalizador": "NFP viernes + riesgo geopolítico (Irán / Estrecho de Ormuz)",
     "cierre_spx_previo": 6831,
     "edicion": "diaria",
-    "idea_clave": "Aumento de demanda de coberturas y puts, put wall en 6700; ruptura de 6800 cada vez más probable si no se consolida por encima de 6900.",
+    "idea_clave": "La put wall se ha desplazado a 6700 y aumenta la probabilidad de corrección violenta con ruptura de 6800; clave consolidar por encima de 6900.",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": null,
-    "sesgo": "bajista / fragilidad latente",
+    "regimen": "negativo/fragilidad latente",
+    "sesgo": "bajista con aumento de demanda de coberturas",
     "vix_actual": null,
     "vix_cierre": 23.76,
     "vvix_cierre": 115.93
