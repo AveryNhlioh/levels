@@ -1224,11 +1224,11 @@
     "vvix_cierre": null
   },
   "2026-05-28": {
-    "alerta_cor1m": 8.56,
-    "catalizador": "volatilidad contenida + soporte de market makers + flujos vol control",
+    "alerta_cor1m": 8.0,
+    "catalizador": null,
     "cierre_spx_previo": 7520,
     "edicion": "diaria",
-    "idea_clave": "El SPX opera dentro de una zona óptima de liquidez entre 7.500 y 7.600, donde la estructura sigue favoreciendo estabilidad y compras en caídas.",
+    "idea_clave": "El SPX opera dentro de una zona óptima de liquidez entre 7.500 y 7.600, donde la estructura sigue favoreciendo estabilidad y compras en caídas",
     "movimiento_implicito_pct": 0.5,
     "rango_implicito": {
       "alto": 7558,
