@@ -286,10 +286,12 @@ fecha,tipo,etiqueta,valor
 2026-04-24,volatility_trigger,Volatility Trigger,7050
 2026-04-24,call_wall,Call Wall,7200
 2026-04-24,put_wall,Put Wall,6800
-2026-04-24,resistencia,Resistencia 0DTE,7120
-2026-04-24,resistencia,Resistencia 0DTE,7150
-2026-04-24,soporte,Soporte intermedio,7000
-2026-04-24,objetivo,Objetivo alcista,7176
+2026-04-24,resistencia,Resistencia 7120,7120
+2026-04-24,resistencia,Resistencia 7150,7150
+2026-04-24,soporte,Soporte 7000,7000
+2026-04-24,soporte,Soporte 7100,7100
+2026-04-24,objetivo,Parte alta rango implícito,7176
+2026-04-24,objetivo,Parte baja rango implícito,7040
 2026-04-26,gflip,G-Flip,7050
 2026-04-26,volatility_trigger,Volatility Trigger,7100
 2026-04-26,call_wall,Call Wall,7200
