@@ -359,9 +359,9 @@ fecha,tipo,etiqueta,valor
 2026-05-07,put_wall,Put Wall,6800
 2026-05-07,resistencia,Antigua Call Wall,7300
 2026-05-07,soporte,Soporte relevante,7265
-2026-05-07,objetivo,Strike de squeeze,7350
-2026-05-07,objetivo,Strike de squeeze,7450
-2026-05-07,objetivo,Strike de squeeze,7575
+2026-05-07,objetivo,Strike squeeze 7350,7350
+2026-05-07,objetivo,Strike squeeze 7450,7450
+2026-05-07,objetivo,Strike squeeze 7575,7575
 2026-05-08,gflip,G-Flip,7200
 2026-05-08,volatility_trigger,Volatility Trigger,7300
 2026-05-08,call_wall,Call Wall,7400
