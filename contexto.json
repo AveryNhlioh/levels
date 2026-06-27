@@ -341,17 +341,17 @@
   },
   "2026-03-26": {
     "alerta_cor1m": null,
-    "catalizador": "tensión geopolítica (Irán/Trump) + OPEX fin de trimestre 31-mar + Collar JPM",
+    "catalizador": "tensión geopolítica (Irán), WTI +2% por encima de $93, OPEX fin de trimestre 31 de marzo + Collar JPM",
     "cierre_spx_previo": 6592,
     "edicion": "diaria",
-    "idea_clave": "Rebote sin convicción en gamma negativa; SPX cae intradia hacia 6.550 con VIX repuntando por encima de 27 y WTI subiendo más del 2%",
+    "idea_clave": "Rebote sin convicción en gamma negativa; el SPX cae intradia hacia 6.550 con VIX repuntando por encima de 27, el soporte clave 0DTE está en 6.500 y recuperar 6.800 es condición para mayor estabilidad",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "gamma negativa",
-    "sesgo": "bajista",
+    "sesgo": "bajista / precaución",
     "vix_actual": 27.0,
     "vix_cierre": 25.32,
     "vvix_cierre": null
