@@ -270,9 +270,9 @@ fecha,tipo,etiqueta,valor
 2026-04-21,volatility_trigger,Volatility Trigger,7000
 2026-04-21,call_wall,Call Wall,7200
 2026-04-21,put_wall,Put Wall,6800
-2026-04-21,resistencia,Resistencia calls vendidas,7175
-2026-04-21,soporte,Zona de liquidez inferior,7100
-2026-04-21,soporte,Zona de liquidez superior,7200
+2026-04-21,resistencia,Resistencia calls vendidas dealers,7175
+2026-04-21,resistencia,Zona clave de liquidez superior,7200
+2026-04-21,soporte,Zona clave de liquidez inferior,7100
 2026-04-22,gflip,G-Flip,7000
 2026-04-22,volatility_trigger,Volatility Trigger,7050
 2026-04-22,call_wall,Call Wall,7200
