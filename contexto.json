@@ -1293,17 +1293,17 @@
   },
   "2026-06-02": {
     "alerta_cor1m": 6,
-    "catalizador": null,
+    "catalizador": "NFP el 5/06, IPC el 10/06, FOMC el 17/06, OPEX el 18/06",
     "cierre_spx_previo": 7600,
     "edicion": "diaria",
-    "idea_clave": "El mercado sigue haciendo máximos, pero el repunte simultáneo de volatilidad y la baja correlación (COR1M en 6) advierten de más riesgo bajo la superficie.",
+    "idea_clave": "El mercado sigue en máximos históricos pero el repunte simultáneo de volatilidad y COR1M en 6 advierten de complacencia y mayor fragilidad bajo la superficie",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Alcista, pero con señales de euforia",
-    "sesgo": "Alcista mientras SPX se mantenga por encima de 7500/7430",
+    "regimen": "alcista, pero con señales de euforia",
+    "sesgo": "alcista mientras SPX se mantenga por encima de 7500 / 7430",
     "vix_actual": null,
     "vix_cierre": 16,
     "vvix_cierre": 92
