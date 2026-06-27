@@ -1004,20 +1004,20 @@
   },
   "2026-05-12": {
     "alerta_cor1m": null,
-    "catalizador": "WTI > 100, VIX acercándose a 19, calls caras y puts baratas",
-    "cierre_spx_previo": 7413,
+    "catalizador": null,
+    "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "el mercado sigue subiendo, pero la volatilidad también sube; eso refleja una fuerte demanda de calls y un posicionamiento cada vez más cargado hacia el upside",
-    "movimiento_implicito_pct": 0.55,
+    "idea_clave": null,
+    "movimiento_implicito_pct": null,
     "rango_implicito": {
-      "alto": 7454,
-      "bajo": 7372
+      "alto": null,
+      "bajo": null
     },
-    "regimen": "alcista, pero cada vez más especulativo",
-    "sesgo": "constructivo mientras el SPX mantenga la zona 7.400 / 7.350",
-    "vix_actual": 19,
-    "vix_cierre": 18,
-    "vvix_cierre": 98
+    "regimen": null,
+    "sesgo": null,
+    "vix_actual": null,
+    "vix_cierre": null,
+    "vvix_cierre": null
   },
   "2026-05-13": {
     "alerta_cor1m": null,
