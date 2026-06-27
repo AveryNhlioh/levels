@@ -460,17 +460,17 @@
   },
   "2026-04-04": {
     "alerta_cor1m": null,
-    "catalizador": "Backwardation en petróleo percibida como shock transitorio; resiliencia en put wall 6500",
+    "catalizador": "backwardation en petróleo percibida como shock transitorio; soporte put wall 6500",
     "cierre_spx_previo": 6583,
     "edicion": "semanal",
-    "idea_clave": "El mercado rebota apoyado en la put wall 6500 y compresión de volatilidad, pero el sesgo sigue siendo de cautela hasta consolidar por encima de 6650",
+    "idea_clave": "El mercado rebotó y mostró resiliencia apoyado en la put wall de 6500 y la moderación del VIX, aunque no es señal de compra definitiva",
     "movimiento_implicito_pct": 2.35,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Rebote técnico con compresión de volatilidad; VIX en backwardation con estructura mejorando",
-    "sesgo": "Cautela; rebote dentro de posible tendencia bajista o inicio de lateral",
+    "regimen": "rebote técnico con compresión de volatilidad; VIX en backwardation con estructura mejorada",
+    "sesgo": "cauto; mercado muestra resiliencia pero sin señal de compra clara",
     "vix_actual": null,
     "vix_cierre": 24,
     "vvix_cierre": 115
