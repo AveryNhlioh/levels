@@ -664,17 +664,17 @@
   },
   "2026-04-19": {
     "alerta_cor1m": null,
-    "catalizador": "OPEX abril, Tesla earnings 22/4, FOMC 29/4, temporada de resultados",
+    "catalizador": "OPEX abril, resultados TSLA/IBM/INTC, FOMC 29 abril, reunion EE.UU.-Iran",
     "cierre_spx_previo": 7126,
     "edicion": "semanal",
-    "idea_clave": "Rally muy extendido con sobrecompra post-OPEX; corrección táctica hacia 7000 es el escenario más probable antes de continuar al alza",
+    "idea_clave": "Rally del +4,5% semanal deja el mercado sobrecomprado y con menos combustible comprador; pausa o corrección hacia 7000 es el escenario más probable antes de continuar",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "sobrecompra post-OPEX, spot arriba volatilidad arriba",
-    "sesgo": "bajista tactico a corto plazo, posible corrección hacia 7000",
+    "regimen": "sobrecompra post-OPEX; spot arriba volatilidad arriba",
+    "sesgo": "bajista tactico a corto plazo; corrección moderada probable antes de continuar alza",
     "vix_actual": null,
     "vix_cierre": 17.47,
     "vvix_cierre": 95.13
