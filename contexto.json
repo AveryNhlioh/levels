@@ -596,10 +596,10 @@
   },
   "2026-04-14": {
     "alerta_cor1m": null,
-    "catalizador": "Vencimiento VIX 15 abril + OPEX 17 abril + geopolítica Irán",
+    "catalizador": "Vencimiento VIX 15 abril + OPEX 17 abril + geopolitica Iran",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "El SPX se aproxima a la Call Wall en 6900 con compresión de volatilidad; tras el vencimiento del VIX la volatilidad podría reactivarse",
+    "idea_clave": "SPX se acerca a la Call Wall en 6900 con compresion de volatilidad; tras vencimiento del VIX la volatilidad podria reactivarse",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
