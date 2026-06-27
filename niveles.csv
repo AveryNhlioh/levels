@@ -131,8 +131,8 @@ fecha,tipo,etiqueta,valor
 2026-03-30,volatility_trigger,Volatility Trigger,6700
 2026-03-30,call_wall,Call Wall,7000
 2026-03-30,put_wall,Put Wall,6300
-2026-03-30,resistencia,Collar JPM,6475
 2026-03-30,soporte,Soporte clave sesión,6400
+2026-03-30,objetivo,Collar JPM / Imán,6475
 2026-03-31,gflip,G-Flip,6600
 2026-03-31,volatility_trigger,Volatility Trigger,6700
 2026-03-31,call_wall,Call Wall,7000
