@@ -1140,7 +1140,7 @@
   },
   "2026-05-21": {
     "alerta_cor1m": 8.56,
-    "catalizador": "post-NVDA, geopolítica, petróleo, tipos e inflación",
+    "catalizador": "post-NVDA; geopolítica, petróleo, tipos e inflación",
     "cierre_spx_previo": 7433,
     "edicion": "diaria",
     "idea_clave": "el mercado recupera tono con petróleo y yields a la baja, pero el VVIX al alza muestra que todavía hay demanda de protección ante un repunte futuro de volatilidad",
@@ -1149,7 +1149,7 @@
       "alto": 7481,
       "bajo": 7385
     },
-    "regimen": "gamma ligeramente positiva entre 7200 y 7600",
+    "regimen": "gamma ligeramente positiva, constructivo",
     "sesgo": "constructivo mientras SPX se mantenga por encima de 7400",
     "vix_actual": null,
     "vix_cierre": 17.4,
