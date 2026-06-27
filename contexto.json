@@ -259,14 +259,14 @@
     "catalizador": "Triple Witching / OPEX de marzo",
     "cierre_spx_previo": 6607,
     "edicion": "diaria",
-    "idea_clave": "SPX cae pero VIX también cae, posible señal de suelo con aparición de vendedor institucional de volatilidad en zona 6400-6500",
+    "idea_clave": "SPX cae y VIX también cae, señal poco habitual que podría indicar formación de suelo con vendedor institucional de volatilidad apareciendo por debajo de 6.500",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "Precaución",
-    "sesgo": "bajista con señales de posible suelo a corto plazo",
+    "sesgo": "bajista con señales de posible suelo",
     "vix_actual": null,
     "vix_cierre": 24.05,
     "vvix_cierre": 108.09
