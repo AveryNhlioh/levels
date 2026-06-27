@@ -351,8 +351,8 @@ fecha,tipo,etiqueta,valor
 2026-05-06,volatility_trigger,Volatility Trigger,7200
 2026-05-06,call_wall,Call Wall,7300
 2026-05-06,put_wall,Put Wall,6800
-2026-05-06,soporte,Soporte clave de riesgo,7000
-2026-05-06,objetivo,Objetivo táctico / Resistencia 0DTE,7300
+2026-05-06,soporte,Soporte clave 0DTE,7000
+2026-05-06,objetivo,Objetivo alcista / resistencia Call Wall,7300
 2026-05-07,gflip,G-Flip,7100
 2026-05-07,volatility_trigger,Volatility Trigger,7200
 2026-05-07,call_wall,Call Wall,7400
