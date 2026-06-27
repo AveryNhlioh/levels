@@ -1058,14 +1058,14 @@
     "catalizador": "OPEX de mayo + presión de tipos y petróleo",
     "cierre_spx_previo": 7501,
     "edicion": "diaria",
-    "idea_clave": "el mercado venía subiendo vía calls en máximos históricos, pero ahora el SPX cae y el VIX sube con fuerza, señal de demanda de protección real",
+    "idea_clave": "El mercado venía subiendo vía calls en máximos históricos, pero ahora aparece la señal menos saludable: SPX cae y VIX sube con fuerza; 7.400 es el nivel crítico del día",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "alcista, pero en deterioro táctico intradía",
-    "sesgo": "constructivo mientras el SPX se mantenga por encima de 7.400",
+    "regimen": "alcista en estructura de medio plazo, con deterioro táctico intradía",
+    "sesgo": "constructivo mientras SPX se mantenga por encima de 7.400",
     "vix_actual": 18.9,
     "vix_cierre": 17.3,
     "vvix_cierre": 94
