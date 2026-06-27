@@ -151,8 +151,8 @@ fecha,tipo,etiqueta,valor
 2026-04-02,volatility_trigger,Volatility Trigger,6600
 2026-04-02,call_wall,Call Wall,7000
 2026-04-02,put_wall,Put Wall,6500
-2026-04-02,resistencia,Resistencia estabilidad,6650
-2026-04-02,soporte,Soporte vacío,6400
+2026-04-02,resistencia,Zona de estabilidad,6650
+2026-04-02,soporte,Soporte vacío inferior,6400
 2026-04-04,gflip,G-Flip,6600
 2026-04-04,volatility_trigger,Volatility Trigger,6600
 2026-04-04,call_wall,Call Wall,6700
