@@ -60,7 +60,7 @@ fecha,tipo,etiqueta,valor
 2026-03-14,call_wall,Call Wall,7000
 2026-03-14,put_wall,Put Wall,6500
 2026-03-14,resistencia,Zona de estabilización clave,6900
-2026-03-14,soporte,Collar JPMorgan put larga,6475
+2026-03-14,soporte,Collar JPMorgan,6475
 2026-03-14,soporte,Soporte MA200 / Put Wall anterior,6600
 2026-03-16,gflip,G-Flip,6800
 2026-03-16,volatility_trigger,Volatility Trigger,6800
