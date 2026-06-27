@@ -273,17 +273,17 @@
   },
   "2026-03-21": {
     "alerta_cor1m": null,
-    "catalizador": "OPEX trimestral (31 marzo) + vencimiento JPM Collar + geopolítica (Irán)",
+    "catalizador": "OPEX trimestral (31 marzo) + vencimiento collar JPM + geopolítica (Irán)",
     "cierre_spx_previo": 6507,
     "edicion": "semanal",
-    "idea_clave": "El SPX se apoya en el soporte del JPM Collar en 6475; si lo pierde, los dealers podrían amplificar la caída; posible rebote técnico tras OPEX pero entorno altamente incierto.",
+    "idea_clave": "El SPX descansa sobre el soporte clave 6.475 (collar JPM); perderlo forzaría a los dealers a vender futuros amplificando la caída, pero las divergencias VIX/SPX y la venta de vol en niveles bajos sugieren que la caída podría no continuar mucho más.",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Por debajo del G-Flip y Volatility Trigger; entorno de alta incertidumbre con presión vendedora sistemática",
-    "sesgo": "Bajista con posible rebote técnico post-OPEX",
+    "regimen": "negativo / por debajo del G-Flip y Volatility Trigger",
+    "sesgo": "bajista con posible rebote técnico tras OPEX",
     "vix_actual": null,
     "vix_cierre": 26.77,
     "vvix_cierre": 127.33
