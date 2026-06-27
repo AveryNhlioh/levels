@@ -35,17 +35,17 @@
   },
   "2026-03-05": {
     "alerta_cor1m": null,
-    "catalizador": "NFP Viernes 06/03",
+    "catalizador": "NFP viernes 6/3; OPEX triple hora bruja 20/3",
     "cierre_spx_previo": 6870,
     "edicion": "diaria",
-    "idea_clave": "Si el SPX supera 6900 entra en gamma positiva y podría activarse compresión de volatilidad apoyada por flujos de vanna y charm; ruptura de 6800 sigue siendo riesgo latente.",
+    "idea_clave": "SPX se acerca a 6900 clave de gamma; superarlo activa flujos positivos y compresión de volatilidad, mientras que romper 6800 aumenta riesgo de corrección violenta",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "gamma negativa por debajo de 6900; gamma positiva por encima de 6900",
-    "sesgo": "neutral con sesgo alcista si supera 6900; fragilidad latente por debajo de 6800",
+    "sesgo": "neutral con sesgo alcista si supera 6900; fragilidad latente si rompe 6800",
     "vix_actual": null,
     "vix_cierre": 21.14,
     "vvix_cierre": 106.77
