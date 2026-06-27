@@ -250,7 +250,7 @@ fecha,tipo,etiqueta,valor
 2026-04-16,volatility_trigger,Volatility Trigger,6875
 2026-04-16,call_wall,Call Wall,7100
 2026-04-16,put_wall,Put Wall,6500
-2026-04-16,resistencia,Call Wall principal,7000
+2026-04-16,resistencia,Resistencia 0DTE,7000
 2026-04-16,objetivo,Siguiente nivel relevante,7100
 2026-04-17,gflip,G-Flip,6850
 2026-04-17,volatility_trigger,Volatility Trigger,6900
