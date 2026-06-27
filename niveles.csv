@@ -277,7 +277,7 @@ fecha,tipo,etiqueta,valor
 2026-04-22,volatility_trigger,Volatility Trigger,7050
 2026-04-22,call_wall,Call Wall,7200
 2026-04-22,put_wall,Put Wall,6800
-2026-04-22,resistencia,Resistencia 0DTE,7175
+2026-04-22,resistencia,Resistencia calls concentradas,7175
 2026-04-23,gflip,G-Flip,7000
 2026-04-23,volatility_trigger,Volatility Trigger,7050
 2026-04-23,call_wall,Call Wall,7200
