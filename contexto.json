@@ -681,16 +681,16 @@
   },
   "2026-04-20": {
     "alerta_cor1m": null,
-    "catalizador": "Fracaso negociaciones EE.UU.-Irán; tensión geopolítica; WTI +5%",
+    "catalizador": "Fracaso negociaciones EE.UU.-Irán, tensión geopolítica, repunte WTI +5%",
     "cierre_spx_previo": 7088,
     "edicion": "diaria",
-    "idea_clave": "Repunte de volatilidad por tensión geopolítica; mercado poco cubierto con soporte clave en 7.000 y riesgo de amplificación bajista si se rompe",
+    "idea_clave": "Mercado poco cubierto a la baja con volatilidad en aumento por tensión geopolítica; soporte crítico en 7000, rotura activaría corrección hacia 6800",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Geopolítica y petróleo marcan el ritmo; mercado poco cubierto a la baja",
+    "regimen": "poco cubierto a la baja, riesgo geopolítico",
     "sesgo": "bajista / precaución",
     "vix_actual": null,
     "vix_cierre": null,
