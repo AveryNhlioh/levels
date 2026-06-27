@@ -1024,14 +1024,14 @@
     "catalizador": "OPEX de mayo",
     "cierre_spx_previo": 7401,
     "edicion": "diaria",
-    "idea_clave": "Mientras el SPX siga dentro de la zona 7.300–7.500, la gamma positiva debería amortiguar caídas y contener la volatilidad",
+    "idea_clave": "mientras el SPX siga dentro de la zona 7.300–7.500, la gamma positiva debería amortiguar caídas y contener la volatilidad",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": 7500,
       "bajo": 7300
     },
     "regimen": "gamma positiva / compras en caídas",
-    "sesgo": "constructivo mientras SPX se mantenga por encima de 7.300",
+    "sesgo": "constructivo mientras el SPX se mantenga por encima de 7.300",
     "vix_actual": null,
     "vix_cierre": 18.0,
     "vvix_cierre": 99.0
