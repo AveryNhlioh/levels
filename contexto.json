@@ -1446,17 +1446,17 @@
   },
   "2026-06-12": {
     "alerta_cor1m": null,
-    "catalizador": "FOMC el 17/06 y OPEX el 18/06",
+    "catalizador": "FOMC (17/06) y OPEX (18/06)",
     "cierre_spx_previo": 7394,
     "edicion": "diaria",
-    "idea_clave": "el rebote viene acompañado de caída de volatilidad, lo que mejora la calidad del movimiento, pero el SPX aún necesita recuperar el Volatility Trigger en 7425 para confirmar una estructura más estable",
+    "idea_clave": "El rebote viene acompañado de caída de volatilidad, lo que mejora la calidad del movimiento; pero el SPX aún necesita recuperar el VT en 7.425 para confirmar una estructura más estable.",
     "movimiento_implicito_pct": 0.9,
     "rango_implicito": {
       "alto": 7492,
       "bajo": 7358
     },
-    "regimen": "mejorando, pero todavía en zona de transición",
-    "sesgo": "neutral-constructivo mientras SPX se mantenga por encima de 7400, con mejora clara por encima de 7425",
+    "regimen": "Mejorando, pero todavía en zona de transición",
+    "sesgo": "Neutral–constructivo mientras el SPX se mantenga por encima de 7.400, con mejora clara por encima de 7.425",
     "vix_actual": null,
     "vix_cierre": 19.4,
     "vvix_cierre": 100.0
