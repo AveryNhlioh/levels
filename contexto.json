@@ -766,17 +766,17 @@
   },
   "2026-04-26": {
     "alerta_cor1m": null,
-    "catalizador": "Earnings mega-cap tech (META, AMZN, MSFT, GOOGL, AAPL) + reunión FOMC 29/04",
+    "catalizador": "earnings de mega-cap tech (META, AMZN, MSFT, GOOGL, AAPL) y reunión FOMC 29/04",
     "cierre_spx_previo": 7165,
     "edicion": "semanal",
-    "idea_clave": "Máximos históricos con liderazgo en semiconductores y volatilidad comprimida, pero todo depende de mantener 7.100",
+    "idea_clave": "el mercado está en máximos históricos con liderazgo en semiconductores y volatilidad comprimida, pero la estabilidad depende de mantener 7100",
     "movimiento_implicito_pct": 1.7,
     "rango_implicito": {
       "alto": 7287,
       "bajo": 7043
     },
-    "regimen": "Constructivo, pero con gamma más frágil por debajo de 7.100",
-    "sesgo": "Alcista / constructivo mientras el SPX se mantenga por encima de 7.100",
+    "regimen": "constructivo, pero con gamma más frágil por debajo de 7100",
+    "sesgo": "alcista / constructivo mientras el SPX se mantenga por encima de 7100",
     "vix_actual": null,
     "vix_cierre": 18.7,
     "vvix_cierre": 97.2
