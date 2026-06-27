@@ -451,8 +451,8 @@ fecha,tipo,etiqueta,valor
 2026-05-27,volatility_trigger,Volatility Trigger,7400
 2026-05-27,call_wall,Call Wall,7600
 2026-05-27,put_wall,Put Wall,7100
-2026-05-27,soporte,Soporte táctico 7500 (bloque 30.000 calls),7500
-2026-05-27,objetivo,Objetivo táctico intermedio,7550
+2026-05-27,soporte,Soporte táctico 7500,7500
+2026-05-27,objetivo,Objetivo inmediato,7550
 2026-05-28,gflip,G-Flip,7400
 2026-05-28,volatility_trigger,Volatility Trigger,7500
 2026-05-28,call_wall,Call Wall,7600
