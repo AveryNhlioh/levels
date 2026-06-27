@@ -1174,17 +1174,17 @@
   },
   "2026-05-24": {
     "alerta_cor1m": 8.56,
-    "catalizador": "PCE (28 may), NFP (5 jun), CPI (10 jun), FOMC (17 jun)",
+    "catalizador": "PCE (28 mayo), NFP (5 junio), CPI (10 junio), FOMC (17 junio)",
     "cierre_spx_previo": 7473,
     "edicion": "semanal",
-    "idea_clave": "El mercado sigue fuerte en gamma positiva, pero el skew muestra demanda extrema de calls (98,4%) frente a puts muy baratas (2,4%), con posible squeeze hacia 7600 por encima de 7500 y cambio de régimen si pierde 7300",
+    "idea_clave": "El mercado sigue fuerte con gamma positiva y Call Wall en 7600, pero el skew muestra demanda extrema de calls (98,4%) frente a puts muy baratas (2,4%), exigiendo cautela si el índice deja de subir",
     "movimiento_implicito_pct": 1.35,
     "rango_implicito": {
       "alto": 7574,
       "bajo": 7372
     },
     "regimen": "constructivo / gamma positiva",
-    "sesgo": "alcista mientras SPX > 7400; deterioro táctico < 7400; cambio de régimen < 7300",
+    "sesgo": "constructivo mientras SPX se mantenga por encima de 7400 / 7300",
     "vix_actual": null,
     "vix_cierre": 16.7,
     "vvix_cierre": 91.2
