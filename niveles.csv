@@ -1,0 +1,588 @@
+fecha,tipo,etiqueta,valor
+2026-03-03,gflip,G-Flip,6900
+2026-03-03,volatility_trigger,Volatility Trigger,6900
+2026-03-03,call_wall,Call Wall,7000
+2026-03-03,put_wall,Put Wall,6800
+2026-03-03,soporte,Línea de fuego / soporte intermedio,6750
+2026-03-03,soporte,Soporte táctico 0DTE,6675
+2026-03-03,objetivo,Objetivo bajista siguiente,6700
+2026-03-04,gflip,G-Flip,6890
+2026-03-04,volatility_trigger,Volatility Trigger,6890
+2026-03-04,call_wall,Call Wall,7000
+2026-03-04,put_wall,Put Wall,6700
+2026-03-04,resistencia,Resistencia consolidación,6900
+2026-03-04,soporte,Soporte clave,6800
+2026-03-05,gflip,G-Flip,6900
+2026-03-05,volatility_trigger,Volatility Trigger,6900
+2026-03-05,call_wall,Call Wall,7000
+2026-03-05,put_wall,Put Wall,6800
+2026-03-06,gflip,G-Flip,6900
+2026-03-06,volatility_trigger,Volatility Trigger,6900
+2026-03-06,call_wall,Call Wall,7000
+2026-03-06,put_wall,Put Wall,6700
+2026-03-06,resistencia,Consolidación clave alcista,6900
+2026-03-06,soporte,Ruptura vigilada,6800
+2026-03-07,gflip,G-Flip,6900
+2026-03-07,volatility_trigger,Volatility Trigger,6850
+2026-03-07,call_wall,Call Wall,7000
+2026-03-07,put_wall,Put Wall,6700
+2026-03-09,gflip,G-Flip,6900
+2026-03-09,volatility_trigger,Volatility Trigger,6850
+2026-03-09,call_wall,Call Wall,7000
+2026-03-09,put_wall,Put Wall,6700
+2026-03-09,soporte,Media 200 sesiones spot,6580
+2026-03-09,soporte,Soporte 0DTE zona corto plazo,6600
+2026-03-10,gflip,G-Flip,6850
+2026-03-10,volatility_trigger,Volatility Trigger,6800
+2026-03-10,call_wall,Call Wall,7000
+2026-03-10,put_wall,Put Wall,6700
+2026-03-10,resistencia,Consolidación clave,6900
+2026-03-11,gflip,G-Flip,6850
+2026-03-11,volatility_trigger,Volatility Trigger,6800
+2026-03-11,call_wall,Call Wall,7000
+2026-03-11,put_wall,Put Wall,6700
+2026-03-11,resistencia,Primera resistencia,6900
+2026-03-11,soporte,Collar JPMorgan (pata larga puts),6470
+2026-03-11,objetivo,Nivel pin vencimiento marzo,7000
+2026-03-12,gflip,G-Flip,6850
+2026-03-12,volatility_trigger,Volatility Trigger,6850
+2026-03-12,call_wall,Call Wall,7000
+2026-03-12,put_wall,Put Wall,6700
+2026-03-12,resistencia,Consolidación clave alcista,6900
+2026-03-13,gflip,G-Flip,6850
+2026-03-13,volatility_trigger,Volatility Trigger,6800
+2026-03-13,call_wall,Call Wall,7000
+2026-03-13,put_wall,Put Wall,6700
+2026-03-13,soporte,Collar JPMorgan pata larga puts,6475
+2026-03-13,soporte,MM200 / zona soporte,6600
+2026-03-14,gflip,G-Flip,6850
+2026-03-14,volatility_trigger,Volatility Trigger,6800
+2026-03-14,call_wall,Call Wall,7000
+2026-03-14,put_wall,Put Wall,6500
+2026-03-14,resistencia,Zona de estabilización clave,6900
+2026-03-14,soporte,Collar JPMorgan put larga,6475
+2026-03-14,soporte,Soporte MA200 / Put Wall anterior,6600
+2026-03-16,gflip,G-Flip,6800
+2026-03-16,volatility_trigger,Volatility Trigger,6800
+2026-03-16,call_wall,Call Wall,7000
+2026-03-16,put_wall,Put Wall,6500
+2026-03-16,resistencia,Zona de estabilidad,6900
+2026-03-17,gflip,G-Flip,6800
+2026-03-17,volatility_trigger,Volatility Trigger,6800
+2026-03-17,call_wall,Call Wall,7000
+2026-03-17,put_wall,Put Wall,6600
+2026-03-18,gflip,G-Flip,6800
+2026-03-18,volatility_trigger,Volatility Trigger,6800
+2026-03-18,call_wall,Call Wall,7000
+2026-03-18,put_wall,Put Wall,6600
+2026-03-19,gflip,G-Flip,6800
+2026-03-19,volatility_trigger,Volatility Trigger,6800
+2026-03-19,call_wall,Call Wall,7000
+2026-03-19,put_wall,Put Wall,6500
+2026-03-19,resistencia,Zona de consolidación clave,6900
+2026-03-19,soporte,Collar JPM (vto. 31 mar),6475
+2026-03-20,gflip,G-Flip,6700
+2026-03-20,volatility_trigger,Volatility Trigger,6800
+2026-03-20,call_wall,Call Wall,7000
+2026-03-20,put_wall,Put Wall,6600
+2026-03-20,soporte,Soporte 200 sesiones / zona testeo,6580
+2026-03-20,objetivo,Nivel de estabilidad clave,6900
+2026-03-21,gflip,G-Flip,6700
+2026-03-21,volatility_trigger,Volatility Trigger,6800
+2026-03-21,call_wall,Call Wall,7000
+2026-03-21,put_wall,Put Wall,6400
+2026-03-21,resistencia,200DMA / Consolidación alcista,6800
+2026-03-21,soporte,JPM Collar / Soporte clave,6475
+2026-03-23,gflip,G-Flip,6700
+2026-03-23,volatility_trigger,Volatility Trigger,6800
+2026-03-23,call_wall,Call Wall,7000
+2026-03-23,put_wall,Put Wall,6400
+2026-03-23,soporte,Soporte collar JPM / pata put,6475
+2026-03-24,gflip,G-Flip,6700
+2026-03-24,volatility_trigger,Volatility Trigger,6700
+2026-03-24,call_wall,Call Wall,7000
+2026-03-24,put_wall,Put Wall,6500
+2026-03-24,resistencia,Resistencia clave 6800,6800
+2026-03-25,gflip,G-Flip,6700
+2026-03-25,volatility_trigger,Volatility Trigger,6700
+2026-03-25,call_wall,Call Wall,7100
+2026-03-25,put_wall,Put Wall,6500
+2026-03-25,resistencia,Resistencia 0DTE,6650
+2026-03-25,soporte,Soporte 0DTE,6585
+2026-03-26,gflip,G-Flip,6700
+2026-03-26,volatility_trigger,Volatility Trigger,6700
+2026-03-26,call_wall,Call Wall,7000
+2026-03-26,put_wall,Put Wall,6500
+2026-03-26,resistencia,Resistencia estabilidad,6800
+2026-03-26,soporte,Soporte 0DTE,6500
+2026-03-26,soporte,Soporte gamma positiva,6400
+2026-03-27,gflip,G-Flip,6700
+2026-03-27,volatility_trigger,Volatility Trigger,6700
+2026-03-27,call_wall,Call Wall,7000
+2026-03-27,put_wall,Put Wall,6500
+2026-03-27,soporte,Put Strike JPM,6475
+2026-03-29,gflip,G-Flip,6700
+2026-03-29,volatility_trigger,Volatility Trigger,6700
+2026-03-29,call_wall,Call Wall,7000
+2026-03-29,put_wall,Put Wall,6300
+2026-03-29,resistencia,Nivel clave recuperacion estabilidad,6800
+2026-03-29,soporte,Zona gamma positiva soporte,6350
+2026-03-30,gflip,G-Flip,6700
+2026-03-30,volatility_trigger,Volatility Trigger,6700
+2026-03-30,call_wall,Call Wall,7000
+2026-03-30,put_wall,Put Wall,6300
+2026-03-30,resistencia,Collar JPM,6475
+2026-03-30,soporte,Soporte clave sesión,6400
+2026-03-31,gflip,G-Flip,6600
+2026-03-31,volatility_trigger,Volatility Trigger,6700
+2026-03-31,call_wall,Call Wall,7000
+2026-03-31,put_wall,Put Wall,6300
+2026-03-31,resistencia,Strike collar JPM,6475
+2026-03-31,soporte,Soporte gamma positiva,6350
+2026-03-31,objetivo,Nivel consolidación estabilidad,6700
+2026-04-01,gflip,G-Flip,6600
+2026-04-01,volatility_trigger,Volatility Trigger,6600
+2026-04-01,call_wall,Call Wall,7000
+2026-04-01,put_wall,Put Wall,6300
+2026-04-01,resistencia,Media 200 sesiones,6640
+2026-04-01,resistencia,Mejora de gamma,6600
+2026-04-01,objetivo,Consolidación estabilidad,6700
+2026-04-02,gflip,G-Flip,6600
+2026-04-02,volatility_trigger,Volatility Trigger,6600
+2026-04-02,call_wall,Call Wall,7000
+2026-04-02,put_wall,Put Wall,6500
+2026-04-02,resistencia,Resistencia estabilidad,6650
+2026-04-02,soporte,Soporte vacío,6400
+2026-04-04,gflip,G-Flip,6600
+2026-04-04,volatility_trigger,Volatility Trigger,6600
+2026-04-04,call_wall,Call Wall,6700
+2026-04-04,put_wall,Put Wall,6400
+2026-04-04,resistencia,Consolidación clave alcista,6650
+2026-04-04,soporte,Soporte gamma intermedio,6500
+2026-04-04,soporte,Soporte relevante profundo,6180
+2026-04-04,soporte,Soporte secundario,6400
+2026-04-04,soporte,Soporte secundario,6300
+2026-04-04,objetivo,Nivel CTA cobertura cortos,6735
+2026-04-06,gflip,G-Flip,6600
+2026-04-06,volatility_trigger,Volatility Trigger,6550
+2026-04-06,call_wall,Call Wall,6700
+2026-04-06,put_wall,Put Wall,6400
+2026-04-06,resistencia,Resistencia dealers cortos de calls,6605
+2026-04-06,soporte,Soporte gamma clave,6500
+2026-04-06,soporte,Soporte gamma secundario,6180
+2026-04-06,objetivo,Consolidacion estabilidad,6650
+2026-04-07,gflip,G-Flip,6600
+2026-04-07,volatility_trigger,Volatility Trigger,6600
+2026-04-07,call_wall,Call Wall,6700
+2026-04-07,put_wall,Put Wall,6500
+2026-04-07,resistencia,Resistencia consolidación,6650
+2026-04-07,soporte,Soporte intermedio,6400
+2026-04-07,soporte,Soporte intermedio,6300
+2026-04-07,soporte,Soporte relevante,6180
+2026-04-08,gflip,G-Flip,6600
+2026-04-08,volatility_trigger,Volatility Trigger,6600
+2026-04-08,call_wall,Call Wall,6700
+2026-04-08,put_wall,Put Wall,6500
+2026-04-08,resistencia,Resistencia gamma positiva,6800
+2026-04-08,soporte,Soporte consolidación,6650
+2026-04-08,soporte,Soporte gamma clave,6500
+2026-04-08,soporte,Soporte relevante profundo,6180
+2026-04-08,soporte,Soporte secundario,6400
+2026-04-08,soporte,Soporte secundario,6300
+2026-04-09,gflip,G-Flip,6700
+2026-04-09,volatility_trigger,Volatility Trigger,6700
+2026-04-09,call_wall,Call Wall,6900
+2026-04-09,put_wall,Put Wall,6500
+2026-04-09,soporte,Soporte consolidación,6650
+2026-04-09,soporte,Soporte gamma,6500
+2026-04-09,soporte,Soporte relevante profundo,6180
+2026-04-09,soporte,Soporte secundario,6400
+2026-04-09,soporte,Soporte secundario,6300
+2026-04-10,gflip,G-Flip,6750
+2026-04-10,volatility_trigger,Volatility Trigger,6750
+2026-04-10,call_wall,Call Wall,6900
+2026-04-10,put_wall,Put Wall,6500
+2026-04-10,resistencia,Nivel perdida gamma negativa,6700
+2026-04-10,soporte,Soporte 6180,6180
+2026-04-10,soporte,Soporte 6300,6300
+2026-04-10,soporte,Soporte 6400,6400
+2026-04-10,soporte,Soporte estabilidad,6650
+2026-04-10,soporte,Soporte gamma clave,6500
+2026-04-12,gflip,G-Flip,6750
+2026-04-12,volatility_trigger,Volatility Trigger,6800
+2026-04-12,call_wall,Call Wall,6900
+2026-04-12,put_wall,Put Wall,6500
+2026-04-12,resistencia,Zona crítica soporte/resistencia,6700
+2026-04-12,soporte,Soporte consolidación alcista,6650
+2026-04-12,soporte,Soporte intermedio,6400
+2026-04-12,soporte,Soporte intermedio,6300
+2026-04-12,soporte,Soporte relevante profundo,6180
+2026-04-13,gflip,G-Flip,6750
+2026-04-13,volatility_trigger,Volatility Trigger,6800
+2026-04-13,call_wall,Call Wall,6900
+2026-04-13,put_wall,Put Wall,6500
+2026-04-13,resistencia,Resistencia 1,6800
+2026-04-13,resistencia,Resistencia 2,6850
+2026-04-13,soporte,Cierre de gap,6615
+2026-04-13,soporte,Soporte clave consolidación,6650
+2026-04-13,soporte,Soporte gamma extremo,6180
+2026-04-13,soporte,Soporte gamma positiva,6700
+2026-04-14,gflip,G-Flip,6775
+2026-04-14,volatility_trigger,Volatility Trigger,6800
+2026-04-14,call_wall,Call Wall,6900
+2026-04-14,put_wall,Put Wall,6500
+2026-04-14,soporte,Soporte gamma,6500
+2026-04-14,soporte,Soporte intermedio,6400
+2026-04-14,soporte,Soporte intermedio,6300
+2026-04-14,soporte,Soporte relevante,6180
+2026-04-15,gflip,G-Flip,6830
+2026-04-15,volatility_trigger,Volatility Trigger,6850
+2026-04-15,call_wall,Call Wall,7000
+2026-04-15,put_wall,Put Wall,6500
+2026-04-15,soporte,Soporte gamma intermedio,6400
+2026-04-15,soporte,Soporte gamma intermedio,6300
+2026-04-15,soporte,Soporte gamma relevante,6180
+2026-04-16,gflip,G-Flip,6800
+2026-04-16,volatility_trigger,Volatility Trigger,6875
+2026-04-16,call_wall,Call Wall,7100
+2026-04-16,put_wall,Put Wall,6500
+2026-04-16,resistencia,Call Wall principal,7000
+2026-04-16,objetivo,Siguiente nivel relevante,7100
+2026-04-17,gflip,G-Flip,6850
+2026-04-17,volatility_trigger,Volatility Trigger,6900
+2026-04-17,call_wall,Call Wall,7100
+2026-04-17,put_wall,Put Wall,6500
+2026-04-17,resistencia,Posicionamiento superior,7200
+2026-04-17,soporte,Primer soporte,7000
+2026-04-19,gflip,G-Flip,6900
+2026-04-19,volatility_trigger,Volatility Trigger,7000
+2026-04-19,call_wall,Call Wall,7200
+2026-04-19,put_wall,Put Wall,6800
+2026-04-19,resistencia,Nivel clave calls vendidas dealers,7175
+2026-04-19,soporte,Soporte clave,7000
+2026-04-20,gflip,G-Flip,6950
+2026-04-20,volatility_trigger,Volatility Trigger,7000
+2026-04-20,call_wall,Call Wall,7200
+2026-04-20,put_wall,Put Wall,6800
+2026-04-20,resistencia,Concentración calls dealers,7175
+2026-04-20,soporte,Soporte clave inmediato,7000
+2026-04-21,gflip,G-Flip,6950
+2026-04-21,volatility_trigger,Volatility Trigger,7000
+2026-04-21,call_wall,Call Wall,7200
+2026-04-21,put_wall,Put Wall,6800
+2026-04-21,resistencia,Resistencia calls vendidas,7175
+2026-04-21,soporte,Zona de liquidez inferior,7100
+2026-04-21,soporte,Zona de liquidez superior,7200
+2026-04-22,gflip,G-Flip,7000
+2026-04-22,volatility_trigger,Volatility Trigger,7050
+2026-04-22,call_wall,Call Wall,7200
+2026-04-22,put_wall,Put Wall,6800
+2026-04-22,resistencia,Resistencia 0DTE,7175
+2026-04-23,gflip,G-Flip,7000
+2026-04-23,volatility_trigger,Volatility Trigger,7050
+2026-04-23,call_wall,Call Wall,7200
+2026-04-23,put_wall,Put Wall,6800
+2026-04-24,gflip,G-Flip,7000
+2026-04-24,volatility_trigger,Volatility Trigger,7050
+2026-04-24,call_wall,Call Wall,7200
+2026-04-24,put_wall,Put Wall,6800
+2026-04-24,resistencia,Resistencia 0DTE,7120
+2026-04-24,resistencia,Resistencia 0DTE,7150
+2026-04-24,soporte,Soporte intermedio,7000
+2026-04-24,objetivo,Objetivo alcista,7176
+2026-04-26,gflip,G-Flip,7050
+2026-04-26,volatility_trigger,Volatility Trigger,7100
+2026-04-26,call_wall,Call Wall,7200
+2026-04-26,put_wall,Put Wall,6800
+2026-04-26,resistencia,Resistencia clave,7200
+2026-04-26,soporte,Soporte,6900
+2026-04-26,soporte,Zona de gamma ligera inferior,7000
+2026-04-27,gflip,G-Flip,7000
+2026-04-27,volatility_trigger,Volatility Trigger,7100
+2026-04-27,call_wall,Call Wall,7200
+2026-04-27,put_wall,Put Wall,6800
+2026-04-27,soporte,Soporte psicológico / técnico,7000
+2026-04-27,objetivo,Siguiente nivel bajista,6800
+2026-04-28,gflip,G-Flip,7000
+2026-04-28,volatility_trigger,Volatility Trigger,7100
+2026-04-28,call_wall,Call Wall,7200
+2026-04-28,put_wall,Put Wall,6800
+2026-04-28,resistencia,Resistencia principal,7200
+2026-04-28,soporte,Soporte principal,7000
+2026-04-28,soporte,Zona intermedia,7100
+2026-04-29,gflip,G-Flip,7000
+2026-04-29,volatility_trigger,Volatility Trigger,7100
+2026-04-29,call_wall,Call Wall,7200
+2026-04-29,put_wall,Put Wall,6800
+2026-04-29,resistencia,Resistencia 0DTE superior,7205
+2026-04-29,soporte,Soporte 0DTE inferior,7055
+2026-04-30,gflip,G-Flip,7050
+2026-04-30,volatility_trigger,Volatility Trigger,7100
+2026-04-30,call_wall,Call Wall,7200
+2026-04-30,put_wall,Put Wall,6800
+2026-04-30,resistencia,Resistencia 7.180,7180
+2026-04-30,soporte,Soporte 7.000,7000
+2026-05-01,gflip,G-Flip,7075
+2026-05-01,volatility_trigger,Volatility Trigger,7100
+2026-05-01,call_wall,Call Wall,7300
+2026-05-01,put_wall,Put Wall,6800
+2026-05-01,soporte,Soporte clave de riesgo,7000
+2026-05-01,soporte,Soporte táctico (antigua Call Wall),7200
+2026-05-03,gflip,G-Flip,7100
+2026-05-03,volatility_trigger,Volatility Trigger,7200
+2026-05-03,call_wall,Call Wall,7300
+2026-05-03,put_wall,Put Wall,6800
+2026-05-03,resistencia,Squeeze strike 1,7350
+2026-05-03,resistencia,Squeeze strike 2,7450
+2026-05-03,resistencia,Squeeze strike 3,7575
+2026-05-03,soporte,Pinning OPEX mayo,7000
+2026-05-03,soporte,Soporte intermedio,6900
+2026-05-04,gflip,G-Flip,7100
+2026-05-04,volatility_trigger,Volatility Trigger,7200
+2026-05-04,call_wall,Call Wall,7300
+2026-05-04,put_wall,Put Wall,6800
+2026-05-04,soporte,Soporte clave 7.000,7000
+2026-05-05,gflip,G-Flip,7100
+2026-05-05,volatility_trigger,Volatility Trigger,7200
+2026-05-05,call_wall,Call Wall,7300
+2026-05-05,put_wall,Put Wall,6800
+2026-05-05,soporte,Soporte clave strike gamma,7000
+2026-05-06,gflip,G-Flip,7100
+2026-05-06,volatility_trigger,Volatility Trigger,7200
+2026-05-06,call_wall,Call Wall,7300
+2026-05-06,put_wall,Put Wall,6800
+2026-05-06,soporte,Soporte clave de riesgo,7000
+2026-05-06,objetivo,Objetivo táctico / Resistencia 0DTE,7300
+2026-05-07,gflip,G-Flip,7100
+2026-05-07,volatility_trigger,Volatility Trigger,7200
+2026-05-07,call_wall,Call Wall,7400
+2026-05-07,put_wall,Put Wall,6800
+2026-05-07,resistencia,Antigua Call Wall,7300
+2026-05-07,soporte,Soporte relevante,7265
+2026-05-07,objetivo,Strike de squeeze,7350
+2026-05-07,objetivo,Strike de squeeze,7450
+2026-05-07,objetivo,Strike de squeeze,7575
+2026-05-08,gflip,G-Flip,7200
+2026-05-08,volatility_trigger,Volatility Trigger,7300
+2026-05-08,call_wall,Call Wall,7400
+2026-05-08,put_wall,Put Wall,6800
+2026-05-10,gflip,G-Flip,7200
+2026-05-10,volatility_trigger,Volatility Trigger,7200
+2026-05-10,call_wall,Call Wall,7400
+2026-05-10,put_wall,Put Wall,6500
+2026-05-10,resistencia,Strike squeeze / Rango implícito alto,7500
+2026-05-10,resistencia,Zona de aceleración / Strike squeeze,7450
+2026-05-10,soporte,Rango implícito bajo / Deterioro táctico,7300
+2026-05-11,gflip,G-Flip,7200
+2026-05-11,volatility_trigger,Volatility Trigger,7200
+2026-05-11,call_wall,Call Wall,7400
+2026-05-11,put_wall,Put Wall,6500
+2026-05-11,resistencia,Strike de squeeze 1,7450
+2026-05-11,resistencia,Strike de squeeze 2,7500
+2026-05-11,soporte,Nivel táctico,7300
+2026-05-12,gflip,G-Flip,7200
+2026-05-12,volatility_trigger,Volatility Trigger,7300
+2026-05-12,call_wall,Call Wall,7400
+2026-05-12,put_wall,Put Wall,6500
+2026-05-13,gflip,G-Flip,7300
+2026-05-13,volatility_trigger,Volatility Trigger,7300
+2026-05-13,call_wall,Call Wall,7500
+2026-05-13,put_wall,Put Wall,6500
+2026-05-13,resistencia,Resistencia superior / Call Wall,7500
+2026-05-13,objetivo,Objetivo táctico 1,7450
+2026-05-14,gflip,G-Flip,7300
+2026-05-14,volatility_trigger,Volatility Trigger,7300
+2026-05-14,call_wall,Call Wall,7500
+2026-05-14,put_wall,Put Wall,7400
+2026-05-15,gflip,G-Flip,7300
+2026-05-15,volatility_trigger,Volatility Trigger,7400
+2026-05-15,call_wall,Call Wall,7500
+2026-05-15,put_wall,Put Wall,7400
+2026-05-17,gflip,G-Flip,7300
+2026-05-17,volatility_trigger,Volatility Trigger,7400
+2026-05-17,call_wall,Call Wall,7500
+2026-05-17,put_wall,Put Wall,6500
+2026-05-17,soporte,Soporte 7.000,7000
+2026-05-17,soporte,Soporte 7.200,7200
+2026-05-17,soporte,Soporte 7.315,7315
+2026-05-18,gflip,G-Flip,7300
+2026-05-18,volatility_trigger,Volatility Trigger,7400
+2026-05-18,call_wall,Call Wall,7500
+2026-05-18,put_wall,Put Wall,6500
+2026-05-18,resistencia,Resistencia intermedia,7450
+2026-05-18,soporte,Soporte secuencia bajista,7200
+2026-05-19,gflip,G-Flip,7300
+2026-05-19,volatility_trigger,Volatility Trigger,7400
+2026-05-19,call_wall,Call Wall,7500
+2026-05-19,put_wall,Put Wall,7330
+2026-05-19,resistencia,Resistencia táctica,7450
+2026-05-19,soporte,Soporte 0DTE / Put spread intradía,7325
+2026-05-20,gflip,G-Flip,7300
+2026-05-20,volatility_trigger,Volatility Trigger,7370
+2026-05-20,call_wall,Call Wall,7500
+2026-05-20,put_wall,Put Wall,7100
+2026-05-20,resistencia,Resistencia 0DTE,7415
+2026-05-20,resistencia,Resistencia 0DTE superior,7420
+2026-05-20,objetivo,Objetivo alcista intermedio,7400
+2026-05-21,gflip,G-Flip,7300
+2026-05-21,volatility_trigger,Volatility Trigger,7400
+2026-05-21,call_wall,Call Wall,7500
+2026-05-21,put_wall,Put Wall,7200
+2026-05-22,gflip,G-Flip,7300
+2026-05-22,volatility_trigger,Volatility Trigger,7400
+2026-05-22,call_wall,Call Wall,7500
+2026-05-22,put_wall,Put Wall,7100
+2026-05-22,soporte,Soporte táctico zona dealers,7400
+2026-05-22,objetivo,Objetivo alcista intermedio,7475
+2026-05-24,gflip,G-Flip,7300
+2026-05-24,volatility_trigger,Volatility Trigger,7400
+2026-05-24,call_wall,Call Wall,7600
+2026-05-24,put_wall,Put Wall,7200
+2026-05-24,resistencia,Zona de squeeze / resistencia intermedia,7500
+2026-05-24,soporte,Soporte inferior,7000
+2026-05-24,soporte,Soporte intermedio,7425
+2026-05-26,gflip,G-Flip,7300
+2026-05-26,volatility_trigger,Volatility Trigger,7400
+2026-05-26,call_wall,Call Wall,7600
+2026-05-26,put_wall,Put Wall,7200
+2026-05-26,soporte,Soporte táctico inmediato,7500
+2026-05-26,objetivo,Objetivo táctico,7550
+2026-05-27,gflip,G-Flip,7400
+2026-05-27,volatility_trigger,Volatility Trigger,7400
+2026-05-27,call_wall,Call Wall,7600
+2026-05-27,put_wall,Put Wall,7100
+2026-05-27,soporte,Soporte táctico 7500 (bloque 30.000 calls),7500
+2026-05-27,objetivo,Objetivo táctico intermedio,7550
+2026-05-28,gflip,G-Flip,7400
+2026-05-28,volatility_trigger,Volatility Trigger,7500
+2026-05-28,call_wall,Call Wall,7600
+2026-05-28,put_wall,Put Wall,7100
+2026-05-28,soporte,Soporte táctico 7.500,7500
+2026-05-28,objetivo,Objetivo intermedio,7550
+2026-05-29,gflip,G-Flip,7400
+2026-05-29,volatility_trigger,Volatility Trigger,7400
+2026-05-29,call_wall,Call Wall,7600
+2026-05-29,put_wall,Put Wall,7100
+2026-05-29,soporte,Rango bajo implícito,7528
+2026-05-29,soporte,Soporte táctico intermedio,7500
+2026-05-31,gflip,G-Flip,7430
+2026-05-31,volatility_trigger,Volatility Trigger,7500
+2026-05-31,call_wall,Call Wall,7600
+2026-05-31,put_wall,Put Wall,7300
+2026-06-01,gflip,G-Flip,7430
+2026-06-01,volatility_trigger,Volatility Trigger,7500
+2026-06-01,call_wall,Call Wall,7600
+2026-06-01,put_wall,Put Wall,7300
+2026-06-02,gflip,G-Flip,7430
+2026-06-02,volatility_trigger,Volatility Trigger,7500
+2026-06-02,call_wall,Call Wall,7650
+2026-06-02,put_wall,Put Wall,7500
+2026-06-02,soporte,Soporte intermedio,7300
+2026-06-03,gflip,G-Flip,7450
+2026-06-03,volatility_trigger,Volatility Trigger,7600
+2026-06-03,call_wall,Call Wall,7700
+2026-06-03,put_wall,Put Wall,7600
+2026-06-03,soporte,Soporte intermedio,7500
+2026-06-03,objetivo,Objetivo táctico 1,7650
+2026-06-03,objetivo,Objetivo táctico 2,7700
+2026-06-04,gflip,G-Flip,7430
+2026-06-04,volatility_trigger,Volatility Trigger,7525
+2026-06-04,call_wall,Call Wall,7600
+2026-06-04,put_wall,Put Wall,7300
+2026-06-04,soporte,Colchón de gamma 7.400,7400
+2026-06-04,soporte,Soporte principal 7.500,7500
+2026-06-05,gflip,G-Flip,7430
+2026-06-05,volatility_trigger,Volatility Trigger,7500
+2026-06-05,call_wall,Call Wall,7600
+2026-06-05,put_wall,Put Wall,7300
+2026-06-05,soporte,Soporte 0DTE,7535
+2026-06-07,gflip,G-Flip,7400
+2026-06-07,volatility_trigger,Volatility Trigger,7475
+2026-06-07,call_wall,Call Wall,7600
+2026-06-07,put_wall,Put Wall,7300
+2026-06-08,gflip,G-Flip,7400
+2026-06-08,volatility_trigger,Volatility Trigger,7475
+2026-06-08,call_wall,Call Wall,7600
+2026-06-08,put_wall,Put Wall,7300
+2026-06-08,soporte,Soporte intermedio 7.500,7500
+2026-06-09,gflip,G-Flip,7400
+2026-06-09,volatility_trigger,Volatility Trigger,7500
+2026-06-09,call_wall,Call Wall,7600
+2026-06-09,put_wall,Put Wall,7300
+2026-06-10,gflip,G-Flip,7430
+2026-06-10,volatility_trigger,Volatility Trigger,7430
+2026-06-10,call_wall,Call Wall,7500
+2026-06-10,put_wall,Put Wall,7300
+2026-06-10,soporte,Soporte táctico,7215
+2026-06-11,gflip,G-Flip,7400
+2026-06-11,volatility_trigger,Volatility Trigger,7430
+2026-06-11,call_wall,Call Wall,7500
+2026-06-11,put_wall,Put Wall,7200
+2026-06-11,soporte,Referencia crítica de estabilización,7300
+2026-06-12,gflip,G-Flip,7400
+2026-06-12,volatility_trigger,Volatility Trigger,7425
+2026-06-12,call_wall,Call Wall,7500
+2026-06-12,put_wall,Put Wall,7200
+2026-06-12,soporte,Soporte intermedio,7300
+2026-06-12,objetivo,Objetivo alcista intermedio,7450
+2026-06-14,gflip,G-Flip,7400
+2026-06-14,volatility_trigger,Volatility Trigger,7430
+2026-06-14,call_wall,Call Wall,7500
+2026-06-14,put_wall,Put Wall,7200
+2026-06-14,resistencia,Resistencia intermedia,7460
+2026-06-14,resistencia,Resistencia intermedia,7475
+2026-06-14,soporte,Soporte intermedio,7300
+2026-06-15,gflip,G-Flip,7400
+2026-06-15,volatility_trigger,Volatility Trigger,7430
+2026-06-15,call_wall,Call Wall,7500
+2026-06-15,put_wall,Put Wall,7200
+2026-06-16,gflip,G-Flip,7430
+2026-06-16,volatility_trigger,Volatility Trigger,7430
+2026-06-16,call_wall,Call Wall,7600
+2026-06-16,put_wall,Put Wall,7200
+2026-06-16,soporte,Soporte intermedio,7500
+2026-06-17,gflip,G-Flip,7430
+2026-06-17,volatility_trigger,Volatility Trigger,7500
+2026-06-17,call_wall,Call Wall,7600
+2026-06-17,put_wall,Put Wall,7300
+2026-06-17,resistencia,Resistencia superior,7560
+2026-06-17,soporte,Soporte intermedio,7462
+2026-06-17,objetivo,Objetivo alcista,7550
+2026-06-18,gflip,G-Flip,7500
+2026-06-18,volatility_trigger,Volatility Trigger,7500
+2026-06-18,call_wall,Call Wall,7600
+2026-06-18,put_wall,Put Wall,7300
+2026-06-21,gflip,G-Flip,7500
+2026-06-21,volatility_trigger,Volatility Trigger,7500
+2026-06-21,call_wall,Call Wall,7600
+2026-06-21,put_wall,Put Wall,7400
+2026-06-22,gflip,G-Flip,7500
+2026-06-22,volatility_trigger,Volatility Trigger,7500
+2026-06-22,call_wall,Call Wall,7600
+2026-06-22,put_wall,Put Wall,7400
+2026-06-23,gflip,G-Flip,7500
+2026-06-23,volatility_trigger,Volatility Trigger,7500
+2026-06-23,call_wall,Call Wall,7600
+2026-06-23,put_wall,Put Wall,7400
+2026-06-23,soporte,Siguiente referencia táctica inferior,7300
+2026-06-23,soporte,Zona de presión actual,7360
+2026-06-24,gflip,G-Flip,7460
+2026-06-24,volatility_trigger,Volatility Trigger,7500
+2026-06-24,call_wall,Call Wall,7800
+2026-06-24,put_wall,Put Wall,7200
+2026-06-24,resistencia,Resistencia 0DTE,7400
+2026-06-24,soporte,Zona intermedia de riesgo,7300
+2026-06-25,gflip,G-Flip,7450
+2026-06-25,volatility_trigger,Volatility Trigger,7400
+2026-06-25,call_wall,Call Wall,7800
+2026-06-25,put_wall,Put Wall,7300
+2026-06-25,resistencia,Resistencia 0DTE,7450
+2026-06-25,soporte,Soporte puts cortas,7200
+2026-06-25,objetivo,Objetivo táctico,7500
+2026-06-26,gflip,G-Flip,7400
+2026-06-26,volatility_trigger,Volatility Trigger,7400
+2026-06-26,call_wall,Call Wall,7800
+2026-06-26,put_wall,Put Wall,7300
+2026-06-26,soporte,Soporte intermedio,7340
+2026-06-26,objetivo,Objetivo alcista 1,7450
+2026-06-26,objetivo,Objetivo alcista 2,7500
