@@ -494,17 +494,17 @@
   },
   "2026-04-07": {
     "alerta_cor1m": null,
-    "catalizador": "IPC 10 de abril + ultimátum Trump sobre Irán",
+    "catalizador": "Tensión geopolítica (ultimátum Trump-Irán); IPC 10 abril; FOMC 29 abril",
     "cierre_spx_previo": 6612,
     "edicion": "diaria",
-    "idea_clave": "El SPX sube pero la volatilidad implícita también sube en vencimientos cortos, señal de demanda activa de coberturas; zona 6500-6600 es tierra de nadie y el nivel clave para mayor estabilidad es 6650",
+    "idea_clave": "El mercado sube pero la volatilidad implícita también aumenta, señal de demanda activa de coberturas; clave consolidar por encima de 6650",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "tierra de nadie / precaución",
-    "sesgo": "negativo / cauteloso",
+    "sesgo": "negativo por debajo de 6500; estabilizador por encima de 6600",
     "vix_actual": null,
     "vix_cierre": 24,
     "vvix_cierre": 114
