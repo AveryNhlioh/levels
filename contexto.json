@@ -171,10 +171,10 @@
   },
   "2026-03-14": {
     "alerta_cor1m": null,
-    "catalizador": "FOMC 18 marzo, GTC NVIDIA, Vencimiento VIX miércoles, Triple Witching 20 marzo, riesgo geopolítico Irán / petróleo",
+    "catalizador": "Fed FOMC 18-mar, GTC NVIDIA, VIX Expiration miércoles, Triple Witching 20-mar, tensiones geopolíticas con Irán / petróleo",
     "cierre_spx_previo": 6632,
     "edicion": "semanal",
-    "idea_clave": "Mercado en gamma negativa con volatilidad elevada; soporte clave en 6500-6600, rebote solo creíble con compresión de volatilidad; semana cargada de eventos de alto impacto",
+    "idea_clave": "Mercado en gamma negativa con VIX elevado; rebote solo creíble si viene acompañado de compresión de volatilidad, de lo contrario los rebotes serán vendidos.",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
