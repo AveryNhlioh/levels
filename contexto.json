@@ -21,7 +21,7 @@
     "catalizador": "NFP viernes 6/3 + datos ventas minoristas",
     "cierre_spx_previo": 6800,
     "edicion": "diaria",
-    "idea_clave": "Put wall en 6700 como soporte clave; recuperar 6900 sería señal de mayor estabilidad; skew invertido y backwardation reflejan fragilidad latente",
+    "idea_clave": "Put wall en 6700 como soporte clave; recuperar 6900 es necesario para estabilidad; skew muy inclinado a puts y curva invertida señalan fragilidad latente",
     "movimiento_implicito_pct": 2.0,
     "rango_implicito": {
       "alto": null,
