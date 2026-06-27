@@ -919,17 +919,17 @@
   },
   "2026-05-06": {
     "alerta_cor1m": null,
-    "catalizador": "NFP (8 mayo), resultados NVDA (20 mayo), OPEX de mayo",
+    "catalizador": "NFP del 8 de mayo",
     "cierre_spx_previo": 7259,
     "edicion": "diaria",
-    "idea_clave": "El mercado sigue haciendo máximos apoyado por IA, pero la complacencia en volatilidad corta es el principal riesgo; sesgo alcista hacia 7.300 mientras se mantenga sobre 7.200",
+    "idea_clave": "el mercado sigue haciendo máximos apoyado en IA, pero la complacencia en volatilidad corta es el principal riesgo de cara al test de 7300",
     "movimiento_implicito_pct": 0.55,
     "rango_implicito": {
       "alto": 7299,
       "bajo": 7219
     },
     "regimen": "constructivo / momentum alcista",
-    "sesgo": "alcista mientras SPX se mantenga por encima de 7.200",
+    "sesgo": "alcista mientras SPX se mantenga por encima de 7200",
     "vix_actual": null,
     "vix_cierre": 17.0,
     "vvix_cierre": 95.0
