@@ -66,7 +66,7 @@ fecha,tipo,etiqueta,valor
 2026-03-16,volatility_trigger,Volatility Trigger,6800
 2026-03-16,call_wall,Call Wall,7000
 2026-03-16,put_wall,Put Wall,6500
-2026-03-16,resistencia,Zona de estabilidad,6900
+2026-03-16,resistencia,Resistencia consolidación alcista,6900
 2026-03-17,gflip,G-Flip,6800
 2026-03-17,volatility_trigger,Volatility Trigger,6800
 2026-03-17,call_wall,Call Wall,7000
