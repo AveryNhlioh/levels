@@ -1497,10 +1497,10 @@
   },
   "2026-06-16": {
     "alerta_cor1m": 8.0,
-    "catalizador": "Fed (FOMC), vencimiento del VIX y OPEX trimestral",
+    "catalizador": "Fed (FOMC 17/06), vencimiento del VIX y OPEX trimestral",
     "cierre_spx_previo": 7554,
     "edicion": "diaria",
-    "idea_clave": "El alivio geopolítico ha comprimido la prima de riesgo, pero los vencimientos de esta semana pueden liberar al SPX y al VIX de parte del anclaje actual; 7.600 es el nivel clave de validación alcista.",
+    "idea_clave": "El alivio geopolítico por reapertura del Estrecho de Ormuz ha comprimido la prima de riesgo, pero los vencimientos de esta semana pueden liberar al SPX y al VIX de parte del anclaje actual",
     "movimiento_implicito_pct": 1.1,
     "rango_implicito": {
       "alto": 7637,
