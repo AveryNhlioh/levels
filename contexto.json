@@ -1126,13 +1126,13 @@
     "catalizador": "Resultados de Nvidia",
     "cierre_spx_previo": 7354,
     "edicion": "diaria",
-    "idea_clave": "El SPX cayó pero la IV también bajó; no hay demanda agresiva de cobertura bajista, aunque el soporte de gamma depende del flujo 0DTE y el evento NVDA domina el riesgo",
+    "idea_clave": "El SPX cayó pero la IV también bajó; no hay demanda agresiva de cobertura bajista antes de NVDA, aunque el soporte de gamma depende mucho del flujo 0DTE",
     "movimiento_implicito_pct": 1.85,
     "rango_implicito": {
       "alto": 7490,
       "bajo": 7218
     },
-    "regimen": "ligeramente positivo, pero frágil antes de NVDA",
+    "regimen": "ligeramente positivo pero frágil antes de NVDA",
     "sesgo": "neutral-constructivo mientras SPX se mantenga por encima de 7300",
     "vix_actual": 18,
     "vix_cierre": 18,
