@@ -403,9 +403,9 @@ fecha,tipo,etiqueta,valor
 2026-05-17,volatility_trigger,Volatility Trigger,7400
 2026-05-17,call_wall,Call Wall,7500
 2026-05-17,put_wall,Put Wall,6500
-2026-05-17,soporte,Soporte 7.000,7000
-2026-05-17,soporte,Soporte 7.200,7200
-2026-05-17,soporte,Soporte 7.315,7315
+2026-05-17,soporte,Soporte 7000,7000
+2026-05-17,soporte,Soporte 7200,7200
+2026-05-17,soporte,Soporte 7315,7315
 2026-05-18,gflip,G-Flip,7300
 2026-05-18,volatility_trigger,Volatility Trigger,7400
 2026-05-18,call_wall,Call Wall,7500
