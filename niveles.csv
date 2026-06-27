@@ -167,10 +167,10 @@ fecha,tipo,etiqueta,valor
 2026-04-06,volatility_trigger,Volatility Trigger,6550
 2026-04-06,call_wall,Call Wall,6700
 2026-04-06,put_wall,Put Wall,6400
-2026-04-06,resistencia,Resistencia dealers cortos de calls,6605
+2026-04-06,resistencia,Resistencia cortos de calls dealers,6605
 2026-04-06,soporte,Soporte gamma clave,6500
 2026-04-06,soporte,Soporte gamma secundario,6180
-2026-04-06,objetivo,Consolidacion estabilidad,6650
+2026-04-06,objetivo,Consolidación estabilidad,6650
 2026-04-07,gflip,G-Flip,6600
 2026-04-07,volatility_trigger,Volatility Trigger,6600
 2026-04-07,call_wall,Call Wall,6700
