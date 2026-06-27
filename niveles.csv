@@ -545,7 +545,7 @@ fecha,tipo,etiqueta,valor
 2026-06-17,volatility_trigger,Volatility Trigger,7500
 2026-06-17,call_wall,Call Wall,7600
 2026-06-17,put_wall,Put Wall,7300
-2026-06-17,resistencia,Resistencia superior,7560
+2026-06-17,resistencia,Resistencia implícita alta,7560
 2026-06-17,soporte,Soporte intermedio,7462
 2026-06-17,objetivo,Objetivo alcista,7550
 2026-06-18,gflip,G-Flip,7500
