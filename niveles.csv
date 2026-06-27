@@ -221,12 +221,15 @@ fecha,tipo,etiqueta,valor
 2026-04-13,volatility_trigger,Volatility Trigger,6800
 2026-04-13,call_wall,Call Wall,6900
 2026-04-13,put_wall,Put Wall,6500
-2026-04-13,resistencia,Resistencia 1,6800
-2026-04-13,resistencia,Resistencia 2,6850
+2026-04-13,resistencia,Resistencia,6800
+2026-04-13,resistencia,Resistencia,6850
 2026-04-13,soporte,Cierre de gap,6615
-2026-04-13,soporte,Soporte clave consolidación,6650
-2026-04-13,soporte,Soporte gamma extremo,6180
+2026-04-13,soporte,Consolidacion estabilidad,6650
+2026-04-13,soporte,Soporte clave gamma,6500
 2026-04-13,soporte,Soporte gamma positiva,6700
+2026-04-13,soporte,Soporte relevante profundo,6180
+2026-04-13,soporte,Soporte secundario,6400
+2026-04-13,soporte,Soporte secundario,6300
 2026-04-14,gflip,G-Flip,6775
 2026-04-14,volatility_trigger,Volatility Trigger,6800
 2026-04-14,call_wall,Call Wall,6900
