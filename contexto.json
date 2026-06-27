@@ -1517,7 +1517,7 @@
     "catalizador": "FOMC + vencimiento del VIX",
     "cierre_spx_previo": 7511,
     "edicion": "diaria",
-    "idea_clave": "El mercado llega a la Fed con volatilidad contenida, pero parte de esa calma puede estar distorsionada por la mecánica del vencimiento del VIX; 7.500 es el pivote clave del día",
+    "idea_clave": "El mercado llega a la Fed con volatilidad contenida pero parte de esa calma puede estar distorsionada por la mecánica del vencimiento del VIX; 7.500 es el pivote clave.",
     "movimiento_implicito_pct": 0.65,
     "rango_implicito": {
       "alto": 7560,
