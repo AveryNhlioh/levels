@@ -1,18 +1,18 @@
 {
   "2026-03-03": {
     "alerta_cor1m": null,
-    "catalizador": null,
+    "catalizador": "NFP viernes 6/3",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": null,
+    "idea_clave": "6800 (Put Wall) es el nivel crítico del día; su ruptura abre camino a 6700 con VIX hacia 30",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": null,
-    "sesgo": null,
-    "vix_actual": null,
+    "regimen": "gamma negativa",
+    "sesgo": "bajista",
+    "vix_actual": 26,
     "vix_cierre": null,
     "vvix_cierre": null
   },
