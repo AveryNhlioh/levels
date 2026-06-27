@@ -480,14 +480,14 @@
     "catalizador": "IPC el 10 de abril; FOMC el 29 de abril; posibles avances geopolíticos con Irán",
     "cierre_spx_previo": null,
     "edicion": "diaria",
-    "idea_clave": "El SPX supera el VT con el VIX elevado; zona 6605 es clave para un gamma squeeze alcista, mientras que 6500-6180 son soportes críticos a la baja",
+    "idea_clave": "El SPX abre por encima del VT en 6608 con VIX elevado; superar 6605 podría generar gamma squeeze al alza, mientras que perder 6500 abre camino a 6400-6180",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": "Precaución",
-    "sesgo": "Neutral con sesgo alcista condicionado a superar 6605; riesgo bajista si se pierden soportes",
+    "sesgo": "Neutro con sesgo alcista condicionado a superar 6605; riesgo bajista si se pierden niveles",
     "vix_actual": 24.5,
     "vix_cierre": null,
     "vvix_cierre": null
