@@ -205,17 +205,17 @@
   },
   "2026-03-17": {
     "alerta_cor1m": null,
-    "catalizador": "OPEX trimestral (triple hora bruja 20 marzo) + FOMC 18 marzo + GTC NVDA",
+    "catalizador": "OPEX trimestral (triple hora bruja 20 marzo), FOMC 18 marzo, GTC de NVDA",
     "cierre_spx_previo": 6699,
     "edicion": "diaria",
-    "idea_clave": "El rebote no es solo técnico: está siendo impulsado activamente por la caída de volatilidad y flujos de vanna derivados",
+    "idea_clave": "El rebote no es solo técnico: está siendo impulsado activamente por la caída de volatilidad y flujos de vanna; tras el vencimiento trimestral se abre una ventana de mayor volatilidad",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
     "regimen": null,
-    "sesgo": "alcista con fragilidad latente",
+    "sesgo": "alcista a corto plazo apoyado por caída de volatilidad y flujos de vanna, con fragilidad latente",
     "vix_actual": 23.0,
     "vix_cierre": 23.52,
     "vvix_cierre": 116.78
