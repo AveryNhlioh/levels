@@ -1327,17 +1327,17 @@
   },
   "2026-06-04": {
     "alerta_cor1m": 5.9,
-    "catalizador": "Subida del petróleo (WTI) con presión sobre bonos e inflación",
+    "catalizador": "subida del petróleo (WTI) con presión sobre bonos y expectativas de inflación",
     "cierre_spx_previo": 7554,
     "edicion": "diaria",
-    "idea_clave": "El mercado corrigió por petróleo y tipos pero la volatilidad no confirmó estrés; mientras 7.500 aguante, las caídas pueden encontrar compradores",
+    "idea_clave": "el mercado corrigió por petróleo y tipos, pero la volatilidad no confirmó estrés; mientras 7.500 aguante, las caídas todavía pueden encontrar compradores",
     "movimiento_implicito_pct": 0.5,
     "rango_implicito": {
       "alto": 7568,
       "bajo": 7492
     },
-    "regimen": "Gamma moderadamente positiva con deterioro táctico",
-    "sesgo": "Neutral–constructivo mientras SPX se mantenga por encima de 7.500",
+    "regimen": "constructivo con deterioro táctico, gamma moderadamente positiva",
+    "sesgo": "neutral-constructivo mientras SPX se mantenga por encima de 7.500",
     "vix_actual": 16.45,
     "vix_cierre": 16.1,
     "vvix_cierre": null
