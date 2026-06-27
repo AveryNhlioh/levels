@@ -42,8 +42,7 @@ fecha,tipo,etiqueta,valor
 2026-03-11,call_wall,Call Wall,7000
 2026-03-11,put_wall,Put Wall,6700
 2026-03-11,resistencia,Primera resistencia,6900
-2026-03-11,soporte,Collar JPMorgan (pata larga puts),6470
-2026-03-11,objetivo,Nivel pin vencimiento marzo,7000
+2026-03-11,soporte,Soporte collar JPMorgan,6470
 2026-03-12,gflip,G-Flip,6850
 2026-03-12,volatility_trigger,Volatility Trigger,6850
 2026-03-12,call_wall,Call Wall,7000
