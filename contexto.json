@@ -820,17 +820,17 @@
     "catalizador": "FOMC + resultados META, AMZN, MSFT, GOOGL",
     "cierre_spx_previo": 7139,
     "edicion": "diaria",
-    "idea_clave": "El mercado descuenta poco movimiento para el FOMC; el verdadero riesgo puede venir después con earnings de mega-cap tech; 7.100 es el nivel de riesgo clave",
+    "idea_clave": "El mercado descuenta poco movimiento para el FOMC; el verdadero riesgo puede venir después, con earnings de mega-cap tech y la pérdida de 7.100",
     "movimiento_implicito_pct": 0.55,
     "rango_implicito": {
       "alto": 7178,
       "bajo": 7100
     },
     "regimen": "constructivo pero debilitado por tech/semis",
-    "sesgo": "neutral-constructivo mientras SPX se mantenga por encima de 7.100",
+    "sesgo": "Neutral–constructivo mientras el SPX se mantenga por encima de 7.100",
     "vix_actual": null,
-    "vix_cierre": 18.0,
-    "vvix_cierre": 91.0
+    "vix_cierre": 18,
+    "vvix_cierre": 91
   },
   "2026-04-30": {
     "alerta_cor1m": null,
