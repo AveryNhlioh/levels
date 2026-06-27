@@ -1259,17 +1259,17 @@
   },
   "2026-05-31": {
     "alerta_cor1m": 6.33,
-    "catalizador": "NFP 5/06, IPC 10/06, FOMC 17/06, OPEX 18/06",
+    "catalizador": "NFP (5/06), IPC (10/06), FOMC (17/06), OPEX (18/06)",
     "cierre_spx_previo": 7580,
     "edicion": "semanal",
-    "idea_clave": "El mercado sigue haciendo máximos con volatilidad comprimida, pero el COR1M en zona extrema (6,33) y la baja demanda de puts aconsejan no ignorar el riesgo de corrección",
+    "idea_clave": "El mercado sigue haciendo máximos con volatilidad comprimida, pero el COR1M en 6,33 y la baja demanda de puts advierten de complacencia creciente y mayor vulnerabilidad a una corrección.",
     "movimiento_implicito_pct": 1.2,
     "rango_implicito": {
       "alto": 7671,
       "bajo": 7489
     },
     "regimen": "alcista con complacencia elevada",
-    "sesgo": "alcista mientras SPX se mantenga por encima de 7500",
+    "sesgo": "alcista mientras SPX se mantenga por encima de 7500 / 7430",
     "vix_actual": null,
     "vix_cierre": 15.31,
     "vvix_cierre": null
