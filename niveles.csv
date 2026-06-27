@@ -333,9 +333,9 @@ fecha,tipo,etiqueta,valor
 2026-05-03,volatility_trigger,Volatility Trigger,7200
 2026-05-03,call_wall,Call Wall,7300
 2026-05-03,put_wall,Put Wall,6800
-2026-05-03,resistencia,Squeeze strike 1,7350
-2026-05-03,resistencia,Squeeze strike 2,7450
-2026-05-03,resistencia,Squeeze strike 3,7575
+2026-05-03,resistencia,Squeeze 1,7350
+2026-05-03,resistencia,Squeeze 2,7450
+2026-05-03,resistencia,Squeeze 3,7575
 2026-05-03,soporte,Pinning OPEX mayo,7000
 2026-05-03,soporte,Soporte intermedio,6900
 2026-05-04,gflip,G-Flip,7100
