@@ -1310,17 +1310,17 @@
   },
   "2026-06-03": {
     "alerta_cor1m": 5.9,
-    "catalizador": "NFP el 05/06, IPC el 10/06, FOMC el 17/06, OPEX el 18/06",
+    "catalizador": "Máximos históricos SPX; earnings AVGO y CRWD; NFP el 5/06",
     "cierre_spx_previo": 7610,
     "edicion": "diaria",
-    "idea_clave": "La tendencia sigue fuerte y la gamma positiva continúa apoyando al mercado, pero el COR1M en 5,9 y la extensión del rally invitan a gestionar el riesgo con más prudencia.",
+    "idea_clave": "La tendencia sigue fuerte y la gamma positiva apoya al mercado, pero el COR1M en 5,9 y la extensión del rally invitan a gestionar el riesgo con más prudencia",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
       "bajo": null
     },
-    "regimen": "Gamma positiva / tendencia alcista",
-    "sesgo": "Alcista con cautela mientras SPX se mantenga sobre 7600",
+    "regimen": "Gamma positiva / tendencia alcista con señales de sobrecompra",
+    "sesgo": "Alcista mientras SPX se mantenga por encima de 7600 / 7450",
     "vix_actual": null,
     "vix_cierre": 15.8,
     "vvix_cierre": null
