@@ -389,7 +389,7 @@ fecha,tipo,etiqueta,valor
 2026-05-13,volatility_trigger,Volatility Trigger,7300
 2026-05-13,call_wall,Call Wall,7500
 2026-05-13,put_wall,Put Wall,6500
-2026-05-13,resistencia,Resistencia superior / Call Wall,7500
+2026-05-13,resistencia,Resistencia superior,7500
 2026-05-13,objetivo,Objetivo táctico 1,7450
 2026-05-14,gflip,G-Flip,7300
 2026-05-14,volatility_trigger,Volatility Trigger,7300
