@@ -1160,14 +1160,14 @@
     "catalizador": "Irán, petróleo, tipos y fin de semana largo",
     "cierre_spx_previo": 7445,
     "edicion": "diaria",
-    "idea_clave": "Mientras el SPX aguante 7.400, los dealers siguen estabilizando el mercado; por debajo de 7.300 el régimen cambia a gamma negativa",
+    "idea_clave": "Mientras el SPX aguante 7.400, la gamma positiva y la venta de volatilidad deberían seguir estabilizando el mercado; bajo 7.300 el régimen cambia.",
     "movimiento_implicito_pct": 0.65,
     "rango_implicito": {
       "alto": 7493,
       "bajo": 7397
     },
-    "regimen": "constructivo / gamma positiva",
-    "sesgo": "constructivo mientras SPX se mantenga por encima de 7.400",
+    "regimen": "gamma positiva / constructivo",
+    "sesgo": "constructivo mientras SPX > 7.400",
     "vix_actual": null,
     "vix_cierre": 16.8,
     "vvix_cierre": null
