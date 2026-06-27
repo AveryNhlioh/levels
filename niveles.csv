@@ -410,8 +410,9 @@ fecha,tipo,etiqueta,valor
 2026-05-18,volatility_trigger,Volatility Trigger,7400
 2026-05-18,call_wall,Call Wall,7500
 2026-05-18,put_wall,Put Wall,6500
-2026-05-18,resistencia,Resistencia intermedia,7450
-2026-05-18,soporte,Soporte secuencia bajista,7200
+2026-05-18,resistencia,Resistencia táctica,7450
+2026-05-18,soporte,Soporte intermedio,7343
+2026-05-18,objetivo,Objetivo alcista,7431
 2026-05-19,gflip,G-Flip,7300
 2026-05-19,volatility_trigger,Volatility Trigger,7400
 2026-05-19,call_wall,Call Wall,7500
