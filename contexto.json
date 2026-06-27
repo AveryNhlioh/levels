@@ -358,10 +358,10 @@
   },
   "2026-03-27": {
     "alerta_cor1m": null,
-    "catalizador": "OPEX fin de trimestre + Collar JPM (31 marzo) + geopolítica Irán",
+    "catalizador": "OPEX fin de trimestre + Collar JPM (31 marzo); geopolítica Irán",
     "cierre_spx_previo": 6477,
     "edicion": "diaria",
-    "idea_clave": "Mercado en zona crítica de gamma negativa con liquidez muy limitada entre 6400-6500, posicionamiento frágil y alta dependencia de titulares; recuperar 6800 sería clave para estabilización",
+    "idea_clave": "Mercado en zona crítica de gamma negativa con liquidez muy limitada entre 6400-6500, posicionamiento frágil y alta dependencia de titulares; recuperar 6800 sería clave para estabilizarse.",
     "movimiento_implicito_pct": null,
     "rango_implicito": {
       "alto": null,
