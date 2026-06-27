@@ -212,11 +212,11 @@ fecha,tipo,etiqueta,valor
 2026-04-12,volatility_trigger,Volatility Trigger,6800
 2026-04-12,call_wall,Call Wall,6900
 2026-04-12,put_wall,Put Wall,6500
-2026-04-12,resistencia,Zona crítica soporte/resistencia,6700
+2026-04-12,resistencia,Resistencia técnica / MM200,6700
 2026-04-12,soporte,Soporte consolidación alcista,6650
-2026-04-12,soporte,Soporte intermedio,6400
-2026-04-12,soporte,Soporte intermedio,6300
-2026-04-12,soporte,Soporte relevante profundo,6180
+2026-04-12,soporte,Soporte gamma intermedio,6400
+2026-04-12,soporte,Soporte gamma intermedio,6300
+2026-04-12,soporte,Soporte gamma relevante,6180
 2026-04-13,gflip,G-Flip,6750
 2026-04-13,volatility_trigger,Volatility Trigger,6800
 2026-04-13,call_wall,Call Wall,6900
