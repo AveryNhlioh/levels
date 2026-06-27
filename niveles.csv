@@ -347,7 +347,7 @@ fecha,tipo,etiqueta,valor
 2026-05-05,volatility_trigger,Volatility Trigger,7200
 2026-05-05,call_wall,Call Wall,7300
 2026-05-05,put_wall,Put Wall,6800
-2026-05-05,soporte,Soporte clave strike gamma,7000
+2026-05-05,soporte,Soporte clave 0DTE,7000
 2026-05-06,gflip,G-Flip,7100
 2026-05-06,volatility_trigger,Volatility Trigger,7200
 2026-05-06,call_wall,Call Wall,7300
