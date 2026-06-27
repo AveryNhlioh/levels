@@ -1075,14 +1075,14 @@
     "catalizador": "Vencimiento VIX 20/05 + resultados NVDA 20/05 + post-OPEX mensual",
     "cierre_spx_previo": 7409,
     "edicion": "semanal",
-    "idea_clave": "Tras OPEX el mercado pierde parte del soporte técnico de gamma justo antes de una semana con catalizadores importantes; postura defensiva mientras SPX no recupere 7.500",
+    "idea_clave": "Tras OPEX, el mercado pierde parte del soporte técnico de gamma justo antes de una semana con catalizadores importantes; postura defensiva mientras SPX no recupere 7.500",
     "movimiento_implicito_pct": 1.7,
     "rango_implicito": {
       "alto": 7535,
       "bajo": 7283
     },
-    "regimen": "Tendencia alcista intacta, pero más vulnerable tras OPEX",
-    "sesgo": "Neutral-constructivo, defensivo mientras SPX no recupere 7.500",
+    "regimen": "Tendencia alcista intacta, pero más vulnerable tras OPEX mensual",
+    "sesgo": "Neutral-constructivo defensivo mientras el SPX no recupere 7.500",
     "vix_actual": null,
     "vix_cierre": 18.42,
     "vvix_cierre": null
