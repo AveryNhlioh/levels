@@ -596,3 +596,8 @@ fecha,tipo,etiqueta,valor
 2026-06-26,soporte,Soporte intermedio,7340
 2026-06-26,objetivo,Objetivo alcista 1,7450
 2026-06-26,objetivo,Objetivo alcista 2,7500
+2026-06-28,gflip,G-Flip,7400
+2026-06-28,volatility_trigger,Volatility Trigger,7400
+2026-06-28,call_wall,Call Wall,7500
+2026-06-28,put_wall,Put Wall,7300
+2026-06-28,soporte,Soporte 7.200,7200
