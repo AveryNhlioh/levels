@@ -601,3 +601,9 @@ fecha,tipo,etiqueta,valor
 2026-06-28,call_wall,Call Wall,7500
 2026-06-28,put_wall,Put Wall,7300
 2026-06-28,soporte,Soporte 7.200,7200
+2026-06-29,gflip,G-Flip,7400
+2026-06-29,volatility_trigger,Volatility Trigger,7400
+2026-06-29,call_wall,Call Wall,7500
+2026-06-29,put_wall,Put Wall,7300
+2026-06-29,soporte,Zona de riesgo si falla Put Wall,7200
+2026-06-29,objetivo,Objetivo alcista intermedio,7450
