@@ -1664,5 +1664,22 @@
     "vix_actual": null,
     "vix_cierre": 18.4,
     "vvix_cierre": 89.0
+  },
+  "2026-06-29": {
+    "alerta_cor1m": 6.55,
+    "catalizador": "NFP (02/07) + Roll collar JPMorgan (30/06)",
+    "cierre_spx_previo": null,
+    "edicion": "diaria",
+    "idea_clave": "Si el mercado no cae y el NFP no sorprende negativamente, podrían entrar vendedores de volatilidad y cerrarse coberturas bajistas en una semana corta, impulsando el SPX hacia 7.500",
+    "movimiento_implicito_pct": 1.65,
+    "rango_implicito": {
+      "alto": 7519,
+      "bajo": 7275
+    },
+    "regimen": "mejorando, pero todavía bajo niveles clave",
+    "sesgo": "neutral-constructivo si el SPX recupera 7.400",
+    "vix_actual": null,
+    "vix_cierre": null,
+    "vvix_cierre": null
   }
 }
