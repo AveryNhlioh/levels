@@ -1681,5 +1681,22 @@
     "vix_actual": null,
     "vix_cierre": null,
     "vvix_cierre": null
+  },
+  "2026-06-30": {
+    "alerta_cor1m": 6.55,
+    "catalizador": "Roll del collar de JPMorgan + rebalanceo de fin de trimestre",
+    "cierre_spx_previo": 7440,
+    "edicion": "diaria",
+    "idea_clave": "El mercado mantiene demanda contenida de cobertura, pero los flujos técnicos del collar de JPM y el cierre de trimestre pueden generar movimientos erráticos; 7400 es el pivote clave y 7378 en futuros el nivel de riesgo CTA",
+    "movimiento_implicito_pct": 0.6,
+    "rango_implicito": {
+      "alto": 7485,
+      "bajo": 7395
+    },
+    "regimen": "constructivo pero muy táctico",
+    "sesgo": "neutral-constructivo por encima de 7400",
+    "vix_actual": null,
+    "vix_cierre": 17.7,
+    "vvix_cierre": 88.7
   }
 }
