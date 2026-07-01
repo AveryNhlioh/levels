@@ -1647,5 +1647,22 @@
     "vix_actual": 19.6,
     "vix_cierre": 18.9,
     "vvix_cierre": 91.2
+  },
+  "2026-06-28": {
+    "alerta_cor1m": 6.55,
+    "catalizador": "Roll del collar de JPM (martes 30 jun), NFP (jueves 2 jul), festivo EE.UU. (viernes 3 jul), flujos de fin de trimestre",
+    "cierre_spx_previo": 7354,
+    "edicion": "semanal",
+    "idea_clave": "La volatilidad ha seguido comprimiendo, pero la semana concentra varios eventos capaces de reactivar el movimiento en un entorno de menor liquidez; 7.400 es el pivote clave y 7.300 la defensa principal.",
+    "movimiento_implicito_pct": 1.65,
+    "rango_implicito": {
+      "alto": 7475,
+      "bajo": 7233
+    },
+    "regimen": "táctico / sensible a catalizadores",
+    "sesgo": "Neutral–constructivo mientras el SPX se mantenga por encima de 7.300, con mejora clara por encima de 7.400",
+    "vix_actual": null,
+    "vix_cierre": 18.4,
+    "vvix_cierre": 89.0
   }
 }
