@@ -613,3 +613,7 @@ fecha,tipo,etiqueta,valor
 2026-06-30,put_wall,Put Wall,7300
 2026-06-30,soporte,Nivel CTA futuros,7378
 2026-06-30,objetivo,Objetivo alcista intermedio,7460
+2026-07-01,gflip,G-Flip,7400
+2026-07-01,volatility_trigger,Volatility Trigger,7450
+2026-07-01,call_wall,Call Wall,7550
+2026-07-01,put_wall,Put Wall,7300
