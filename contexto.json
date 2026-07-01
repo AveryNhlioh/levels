@@ -1698,5 +1698,22 @@
     "vix_actual": null,
     "vix_cierre": 17.7,
     "vvix_cierre": 88.7
+  },
+  "2026-07-01": {
+    "alerta_cor1m": 5.54,
+    "catalizador": "ISM, discurso Warsh (BCE), NFP del jueves",
+    "cierre_spx_previo": 7499,
+    "edicion": "diaria",
+    "idea_clave": "La tendencia sigue siendo alcista mientras no aparezca un detonante, pero el posicionamiento es vulnerable con COR1M en mínimos.",
+    "movimiento_implicito_pct": 0.8,
+    "rango_implicito": {
+      "alto": 7559,
+      "bajo": 7439
+    },
+    "regimen": "constructivo, pero con señales de complacencia bajo la superficie",
+    "sesgo": "constructivo mientras el SPX se mantenga por encima de 7.450 / 7.400",
+    "vix_actual": null,
+    "vix_cierre": 16.5,
+    "vvix_cierre": 86.89
   }
 }
